@@ -1,0 +1,1 @@
+# Steam IDs excluded from the site top (cheaters). One per line.
