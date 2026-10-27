@@ -9,7 +9,8 @@ Output (served by GitHub Pages from /docs):
   docs/monthly/YYYY-MM.json       - monthly standings (points from Daily + Weekly)
 
 Monthly points per board: place 1-10 -> 25,18,15,12,10,8,6,4,2,1; +1 for taking part.
-Weekly points are multiplied by WEEKLY_MULT. A week belongs to the month of its Sunday.
+Weekly points are multiplied by WEEKLY_MULT. A Weekly runs Wednesday 00:00 UTC - Tuesday 23:59 UTC
+(board Weekly_YYYY-Www = ISO week of the date shifted back by WEEK_SHIFT_DAYS) and belongs to the month of its last day.
 Closed periods are written once and never recalculated. Only nickname + avatar are published.
 """
 import datetime as dt
@@ -25,6 +26,7 @@ TOP_N = 50
 POINTS = [25, 18, 15, 12, 10, 8, 6, 4, 2, 1]
 PARTICIPATION = 1
 WEEKLY_MULT = 5
+WEEK_SHIFT_DAYS = 2  # weekly reset on Wednesday 00:00 UTC (Monday + 2 days)
 ROOT = os.path.dirname(os.path.abspath(__file__))
 DOCS = os.path.join(ROOT, "docs")
 BLACKLIST = os.path.join(ROOT, "blacklist.txt")
@@ -99,8 +101,9 @@ def is_final(p):
         return False
 
 
-def week_sunday(year, week):
-    return dt.date.fromisocalendar(year, week, 7)
+def week_last_day(year, week):
+    # last day of a Wednesday-Tuesday week whose shifted ISO week is (year, week)
+    return dt.date.fromisocalendar(year, week, 7) + dt.timedelta(days=WEEK_SHIFT_DAYS)
 
 
 def main():
@@ -112,7 +115,7 @@ def main():
         BANNED = {l.strip() for l in open(BLACKLIST, encoding="utf-8") if l.strip() and not l.startswith("#")}
 
     today = NOW.date()
-    cur_year, cur_week, _ = today.isocalendar()
+    cur_year, cur_week, _ = (today - dt.timedelta(days=WEEK_SHIFT_DAYS)).isocalendar()
     periods = {}  # (kind, key) -> dict(board, final, date_for_month)
     for b in list_boards():
         m = re.match(r"^Daily_(\d{4}-\d{2}-\d{2})$", b["name"])
@@ -125,7 +128,7 @@ def main():
             y, w = int(m.group(1)), int(m.group(2))
             key = f"{y}-W{w:02d}"
             periods[("weekly", key)] = {"board": b, "final": (y, w) < (cur_year, cur_week),
-                                        "month": week_sunday(y, w).strftime("%Y-%m")}
+                                        "month": week_last_day(y, w).strftime("%Y-%m")}
 
     # months that still need (re)calculation: not yet written as final
     months = sorted({p["month"] for p in periods.values()})
