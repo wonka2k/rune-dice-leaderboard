@@ -1,0 +1,21 @@
+{
+ "kind": "weekly",
+ "period": "2026-W44",
+ "final": false,
+ "updatedUtc": "2026-10-27T20:29:03+00:00",
+ "players": 2,
+ "top": [
+  {
+   "place": 1,
+   "score": 1112,
+   "name": "Wonka2k",
+   "avatar": "https://avatars.steamstatic.com/8c1e416a0664b512216fa18c4822a850cebe9153_medium.jpg"
+  },
+  {
+   "place": 2,
+   "score": 163,
+   "name": "Horrasm",
+   "avatar": "https://avatars.steamstatic.com/9c4984ae289dd113d1cc41ac5ecb6835c280112d_medium.jpg"
+  }
+ ]
+}
