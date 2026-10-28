@@ -1,8 +1,8 @@
 {
  "kind": "daily",
  "period": "2026-10-27",
- "final": false,
- "updatedUtc": "2026-10-27T22:11:43+00:00",
+ "final": true,
+ "updatedUtc": "2026-10-28T00:25:15+00:00",
  "players": 1,
  "top": [
   {
