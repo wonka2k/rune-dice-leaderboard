@@ -8,7 +8,7 @@ Output (served by GitHub Pages from /docs):
   docs/weekly/YYYY-Www.json       - top of one Weekly board
   docs/monthly/YYYY-MM.json       - monthly standings (points from Daily + Weekly)
 
-Monthly points per board: place 1-10 -> 25,18,15,12,10,8,6,4,2,1; +1 for taking part.
+Monthly points per board: place 1-10 -> 25,18,15,12,10,8,6,4,2,1; outside the top 10 -> 1 point for taking part.
 Weekly points are multiplied by WEEKLY_MULT. A Weekly runs Wednesday 00:00 UTC - Tuesday 23:59 UTC
 (board Weekly_YYYY-Www = ISO week of the date shifted back by WEEK_SHIFT_DAYS) and belongs to the month of its last day.
 Closed periods are written once and never recalculated. Only nickname + avatar are published.
@@ -151,7 +151,7 @@ def main():
             for place, (sid, score) in enumerate(fetched[k], 1):
                 r = rows.setdefault(sid, {"points": 0, "dailyPoints": 0, "weeklyPoints": 0,
                                           "wins": 0, "top10": 0, "played": 0})
-                pts = (PARTICIPATION + (POINTS[place - 1] if place <= 10 else 0)) * mult
+                pts = (POINTS[place - 1] if place <= 10 else PARTICIPATION) * mult
                 r["points"] += pts
                 r["dailyPoints" if k[0] == "daily" else "weeklyPoints"] += pts
                 r["played"] += 1
