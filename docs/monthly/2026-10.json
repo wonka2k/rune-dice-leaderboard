@@ -2,7 +2,7 @@
  "kind": "monthly",
  "period": "2026-10",
  "final": false,
- "updatedUtc": "2026-10-29T18:55:10+00:00",
+ "updatedUtc": "2026-10-29T22:31:09+00:00",
  "rules": {
   "points": [
    25,
@@ -24,23 +24,23 @@
    "place": 1,
    "name": "Wonka2k",
    "avatar": "https://avatars.steamstatic.com/8c1e416a0664b512216fa18c4822a850cebe9153_medium.jpg",
-   "points": 78,
-   "dailyPoints": 78,
+   "points": 100,
+   "dailyPoints": 100,
    "weeklyPoints": 0,
-   "wins": 3,
-   "top10": 3,
-   "played": 3
+   "wins": 4,
+   "top10": 4,
+   "played": 4
   },
   {
    "place": 2,
    "name": "Horrasm",
    "avatar": "https://avatars.steamstatic.com/9c4984ae289dd113d1cc41ac5ecb6835c280112d_medium.jpg",
-   "points": 19,
-   "dailyPoints": 19,
+   "points": 36,
+   "dailyPoints": 36,
    "weeklyPoints": 0,
    "wins": 0,
-   "top10": 1,
-   "played": 1
+   "top10": 2,
+   "played": 2
   }
  ]
 }
