@@ -2,8 +2,8 @@
  "kind": "weekly",
  "period": "2026-W44",
  "final": false,
- "updatedUtc": "2026-11-03T02:52:53+00:00",
- "players": 2,
+ "updatedUtc": "2026-11-03T10:43:54+00:00",
+ "players": 3,
  "top": [
   {
    "place": 1,
@@ -13,6 +13,12 @@
   },
   {
    "place": 2,
+   "score": 2258,
+   "name": "bharath.priya",
+   "avatar": "https://avatars.steamstatic.com/0a69bb237106a31f9fe72668a37dacd145b9cbd6_medium.jpg"
+  },
+  {
+   "place": 3,
    "score": 163,
    "name": "Horrasm",
    "avatar": "https://avatars.steamstatic.com/9c4984ae289dd113d1cc41ac5ecb6835c280112d_medium.jpg"
