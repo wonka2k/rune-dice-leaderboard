@@ -2,7 +2,7 @@
  "kind": "monthly",
  "period": "2026-11",
  "final": false,
- "updatedUtc": "2026-11-04T06:01:16+00:00",
+ "updatedUtc": "2026-11-04T14:19:25+00:00",
  "rules": {
   "points": [
    25,
@@ -24,10 +24,10 @@
    "place": 1,
    "name": "Wonka2k",
    "avatar": "https://avatars.steamstatic.com/8c1e416a0664b512216fa18c4822a850cebe9153_medium.jpg",
-   "points": 190,
-   "dailyPoints": 65,
+   "points": 183,
+   "dailyPoints": 58,
    "weeklyPoints": 125,
-   "wins": 3,
+   "wins": 2,
    "top10": 4,
    "played": 4
   },
@@ -57,23 +57,23 @@
    "place": 4,
    "name": "will.palmer",
    "avatar": "https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_medium.jpg",
-   "points": 18,
-   "dailyPoints": 18,
+   "points": 43,
+   "dailyPoints": 43,
    "weeklyPoints": 0,
-   "wins": 0,
-   "top10": 1,
-   "played": 1
+   "wins": 1,
+   "top10": 2,
+   "played": 2
   },
   {
    "place": 5,
    "name": "Murdo",
    "avatar": "https://avatars.steamstatic.com/dde03807f61a09fe2639c3000890d4b79ec9a3b4_medium.jpg",
-   "points": 12,
-   "dailyPoints": 12,
+   "points": 27,
+   "dailyPoints": 27,
    "weeklyPoints": 0,
    "wins": 0,
-   "top10": 1,
-   "played": 1
+   "top10": 2,
+   "played": 2
   }
  ]
 }

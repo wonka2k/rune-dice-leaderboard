@@ -2,14 +2,26 @@
  "kind": "daily",
  "period": "2026-11-04",
  "final": false,
- "updatedUtc": "2026-11-04T06:01:16+00:00",
- "players": 1,
+ "updatedUtc": "2026-11-04T14:19:25+00:00",
+ "players": 3,
  "top": [
   {
    "place": 1,
+   "score": 4023,
+   "name": "will.palmer",
+   "avatar": "https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_medium.jpg"
+  },
+  {
+   "place": 2,
    "score": 2661,
    "name": "Wonka2k",
    "avatar": "https://avatars.steamstatic.com/8c1e416a0664b512216fa18c4822a850cebe9153_medium.jpg"
+  },
+  {
+   "place": 3,
+   "score": 1962,
+   "name": "Murdo",
+   "avatar": "https://avatars.steamstatic.com/dde03807f61a09fe2639c3000890d4b79ec9a3b4_medium.jpg"
   }
  ]
 }
