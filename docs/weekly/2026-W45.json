@@ -2,47 +2,53 @@
  "kind": "weekly",
  "period": "2026-W45",
  "final": false,
- "updatedUtc": "2026-11-05T10:42:54+00:00",
- "players": 7,
+ "updatedUtc": "2026-11-05T17:17:37+00:00",
+ "players": 8,
  "top": [
   {
    "place": 1,
+   "score": 11723,
+   "name": "will.palmer",
+   "avatar": "https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_medium.jpg"
+  },
+  {
+   "place": 2,
    "score": 7798,
    "name": "bharath.priya",
    "avatar": "https://avatars.steamstatic.com/0a69bb237106a31f9fe72668a37dacd145b9cbd6_medium.jpg"
   },
   {
-   "place": 2,
+   "place": 3,
    "score": 3298,
    "name": "Wonka2k",
    "avatar": "https://avatars.steamstatic.com/8c1e416a0664b512216fa18c4822a850cebe9153_medium.jpg"
   },
   {
-   "place": 3,
+   "place": 4,
    "score": 2322,
    "name": "ashish.borlakunta",
    "avatar": "https://avatars.steamstatic.com/48745bda8ac7c540c71e415a6d5a0192dd2b8575_medium.jpg"
   },
   {
-   "place": 4,
+   "place": 5,
    "score": 1627,
    "name": "anurag.rajgopal",
    "avatar": "https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_medium.jpg"
   },
   {
-   "place": 5,
+   "place": 6,
    "score": 1483,
    "name": "Shervin",
    "avatar": "https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_medium.jpg"
   },
   {
-   "place": 6,
+   "place": 7,
    "score": 1273,
    "name": "praveen.narayanaswamy",
    "avatar": "https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_medium.jpg"
   },
   {
-   "place": 7,
+   "place": 8,
    "score": 573,
    "name": "surya.anudeep",
    "avatar": "https://avatars.steamstatic.com/3a9def606a990fe2bfa235806705a5c736231b91_medium.jpg"
