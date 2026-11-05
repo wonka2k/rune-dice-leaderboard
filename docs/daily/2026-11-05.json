@@ -2,8 +2,8 @@
  "kind": "daily",
  "period": "2026-11-05",
  "final": false,
- "updatedUtc": "2026-11-05T17:17:37+00:00",
- "players": 13,
+ "updatedUtc": "2026-11-05T18:39:55+00:00",
+ "players": 14,
  "top": [
   {
    "place": 1,
@@ -82,6 +82,12 @@
    "score": 963,
    "name": "Bhargava_Kwalee",
    "avatar": "https://avatars.steamstatic.com/8ebc04b16176432267695e9cc1aa10525e339ebe_medium.jpg"
+  },
+  {
+   "place": 14,
+   "score": 14,
+   "name": "Horrasm",
+   "avatar": "https://avatars.steamstatic.com/9c4984ae289dd113d1cc41ac5ecb6835c280112d_medium.jpg"
   }
  ]
 }
