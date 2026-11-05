@@ -1,0 +1,23 @@
+{
+ "kind": "monthly",
+ "period": "2027-01",
+ "final": false,
+ "updatedUtc": "2026-11-05T10:42:54+00:00",
+ "rules": {
+  "points": [
+   25,
+   18,
+   15,
+   12,
+   10,
+   8,
+   6,
+   4,
+   2,
+   1
+  ],
+  "participation": 1,
+  "weeklyMultiplier": 5
+ },
+ "top": []
+}
