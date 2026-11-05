@@ -121,11 +121,15 @@ def main():
         m = re.match(r"^Daily_(\d{4}-\d{2}-\d{2})$", b["name"])
         if m:
             d = dt.date.fromisoformat(m.group(1))
+            if d > today:  # future board (debug date / wrong clock) - ignore
+                continue
             periods[("daily", m.group(1))] = {"board": b, "final": d < today, "month": d.strftime("%Y-%m")}
             continue
         m = re.match(r"^Weekly_(\d{4})-W(\d{2})$", b["name"])
         if m:
             y, w = int(m.group(1)), int(m.group(2))
+            if (y, w) > (cur_year, cur_week):  # future board - ignore
+                continue
             key = f"{y}-W{w:02d}"
             periods[("weekly", key)] = {"board": b, "final": (y, w) < (cur_year, cur_week),
                                         "month": week_last_day(y, w).strftime("%Y-%m")}
@@ -174,6 +178,17 @@ def main():
         write(path("monthly", mo), {"kind": "monthly", "period": mo, "final": mo < first_of_month, "updatedUtc": stamp,
                                     "rules": {"points": POINTS, "participation": PARTICIPATION, "weeklyMultiplier": WEEKLY_MULT},
                                     "top": [dict(place=i, **person(sid), **r) for i, (sid, r) in enumerate(ranked, 1)]})
+
+    # remove files left from future boards written by older runs
+    cur_week_key = f"{cur_year}-W{cur_week:02d}"
+    cur_week_month = week_last_day(cur_year, cur_week).strftime("%Y-%m")  # a week can end in next month
+    limits = {"daily": today.isoformat(), "weekly": cur_week_key, "monthly": cur_week_month}
+    for kind, limit in limits.items():
+        folder = os.path.join(DOCS, kind)
+        if os.path.isdir(folder):
+            for f in os.listdir(folder):
+                if f.endswith(".json") and f[:-5] > limit:
+                    os.remove(os.path.join(folder, f))
 
     index = {kind: sorted(f[:-5] for f in os.listdir(os.path.join(DOCS, kind)) if f.endswith(".json"))
              for kind in ("daily", "weekly", "monthly") if os.path.isdir(os.path.join(DOCS, kind))}
