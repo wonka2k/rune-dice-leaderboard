@@ -1,8 +1,8 @@
 {
  "kind": "daily",
  "period": "2026-11-05",
- "final": false,
- "updatedUtc": "2026-11-05T18:39:55+00:00",
+ "final": true,
+ "updatedUtc": "2026-11-06T00:04:32+00:00",
  "players": 14,
  "top": [
   {
@@ -25,21 +25,21 @@
   },
   {
    "place": 4,
+   "score": 2035,
+   "name": "will.palmer",
+   "avatar": "https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_medium.jpg"
+  },
+  {
+   "place": 5,
    "score": 1793,
    "name": "ratikanta.singh",
    "avatar": "https://avatars.steamstatic.com/bcad50fd7d2d638f836c93e442d7c07c29349c6a_medium.jpg"
   },
   {
-   "place": 5,
+   "place": 6,
    "score": 1739,
    "name": "Murdo",
    "avatar": "https://avatars.steamstatic.com/dde03807f61a09fe2639c3000890d4b79ec9a3b4_medium.jpg"
-  },
-  {
-   "place": 6,
-   "score": 1739,
-   "name": "will.palmer",
-   "avatar": "https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_medium.jpg"
   },
   {
    "place": 7,

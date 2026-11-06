@@ -2,7 +2,7 @@
  "kind": "monthly",
  "period": "2026-11",
  "final": false,
- "updatedUtc": "2026-11-05T18:39:55+00:00",
+ "updatedUtc": "2026-11-06T00:04:32+00:00",
  "rules": {
   "points": [
    25,
@@ -46,8 +46,8 @@
    "place": 3,
    "name": "will.palmer",
    "avatar": "https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_medium.jpg",
-   "points": 176,
-   "dailyPoints": 51,
+   "points": 180,
+   "dailyPoints": 55,
    "weeklyPoints": 125,
    "wins": 2,
    "top10": 4,
@@ -99,17 +99,6 @@
   },
   {
    "place": 8,
-   "name": "Murdo",
-   "avatar": "https://avatars.steamstatic.com/dde03807f61a09fe2639c3000890d4b79ec9a3b4_medium.jpg",
-   "points": 37,
-   "dailyPoints": 37,
-   "weeklyPoints": 0,
-   "wins": 0,
-   "top10": 3,
-   "played": 3
-  },
-  {
-   "place": 9,
    "name": "praveen.narayanaswamy",
    "avatar": "https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_medium.jpg",
    "points": 36,
@@ -118,6 +107,17 @@
    "wins": 0,
    "top10": 2,
    "played": 2
+  },
+  {
+   "place": 9,
+   "name": "Murdo",
+   "avatar": "https://avatars.steamstatic.com/dde03807f61a09fe2639c3000890d4b79ec9a3b4_medium.jpg",
+   "points": 35,
+   "dailyPoints": 35,
+   "weeklyPoints": 0,
+   "wins": 0,
+   "top10": 3,
+   "played": 3
   },
   {
    "place": 10,
@@ -145,8 +145,8 @@
    "place": 12,
    "name": "ratikanta.singh",
    "avatar": "https://avatars.steamstatic.com/bcad50fd7d2d638f836c93e442d7c07c29349c6a_medium.jpg",
-   "points": 12,
-   "dailyPoints": 12,
+   "points": 10,
+   "dailyPoints": 10,
    "weeklyPoints": 0,
    "wins": 0,
    "top10": 1,
