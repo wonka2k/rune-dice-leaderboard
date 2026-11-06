@@ -2,7 +2,7 @@
  "kind": "monthly",
  "period": "2026-11",
  "final": false,
- "updatedUtc": "2026-11-06T06:28:12+00:00",
+ "updatedUtc": "2026-11-06T14:56:38+00:00",
  "rules": {
   "points": [
    25,
@@ -90,12 +90,12 @@
    "place": 7,
    "name": "Shervin",
    "avatar": "https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_medium.jpg",
-   "points": 41,
-   "dailyPoints": 1,
+   "points": 53,
+   "dailyPoints": 13,
    "weeklyPoints": 40,
    "wins": 0,
-   "top10": 1,
-   "played": 2
+   "top10": 2,
+   "played": 3
   },
   {
    "place": 8,
@@ -110,6 +110,17 @@
   },
   {
    "place": 9,
+   "name": "Biscuit",
+   "avatar": "https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_medium.jpg",
+   "points": 35,
+   "dailyPoints": 35,
+   "weeklyPoints": 0,
+   "wins": 1,
+   "top10": 2,
+   "played": 2
+  },
+  {
+   "place": 10,
    "name": "Murdo",
    "avatar": "https://avatars.steamstatic.com/dde03807f61a09fe2639c3000890d4b79ec9a3b4_medium.jpg",
    "points": 35,
@@ -118,17 +129,6 @@
    "wins": 0,
    "top10": 3,
    "played": 3
-  },
-  {
-   "place": 10,
-   "name": "Biscuit",
-   "avatar": "https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_medium.jpg",
-   "points": 25,
-   "dailyPoints": 25,
-   "weeklyPoints": 0,
-   "wins": 1,
-   "top10": 1,
-   "played": 1
   },
   {
    "place": 11,
@@ -143,6 +143,17 @@
   },
   {
    "place": 12,
+   "name": "shiyam.kumar",
+   "avatar": "https://avatars.steamstatic.com/cea041b788257e27ce0a27f855e8e68c6a126394_medium.jpg",
+   "points": 15,
+   "dailyPoints": 15,
+   "weeklyPoints": 0,
+   "wins": 0,
+   "top10": 1,
+   "played": 1
+  },
+  {
+   "place": 13,
    "name": "ratikanta.singh",
    "avatar": "https://avatars.steamstatic.com/bcad50fd7d2d638f836c93e442d7c07c29349c6a_medium.jpg",
    "points": 10,
@@ -153,7 +164,7 @@
    "played": 1
   },
   {
-   "place": 13,
+   "place": 14,
    "name": "parameswaran.bhattathiri",
    "avatar": "https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_medium.jpg",
    "points": 1,
@@ -164,7 +175,7 @@
    "played": 1
   },
   {
-   "place": 14,
+   "place": 15,
    "name": "Bhargava_Kwalee",
    "avatar": "https://avatars.steamstatic.com/8ebc04b16176432267695e9cc1aa10525e339ebe_medium.jpg",
    "points": 1,

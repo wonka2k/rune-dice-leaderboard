@@ -2,8 +2,8 @@
  "kind": "daily",
  "period": "2026-11-06",
  "final": false,
- "updatedUtc": "2026-11-06T06:28:12+00:00",
- "players": 2,
+ "updatedUtc": "2026-11-06T14:56:38+00:00",
+ "players": 5,
  "top": [
   {
    "place": 1,
@@ -16,6 +16,24 @@
    "score": 1694,
    "name": "bharath.priya",
    "avatar": "https://avatars.steamstatic.com/0a69bb237106a31f9fe72668a37dacd145b9cbd6_medium.jpg"
+  },
+  {
+   "place": 3,
+   "score": 43,
+   "name": "shiyam.kumar",
+   "avatar": "https://avatars.steamstatic.com/cea041b788257e27ce0a27f855e8e68c6a126394_medium.jpg"
+  },
+  {
+   "place": 4,
+   "score": 41,
+   "name": "Shervin",
+   "avatar": "https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_medium.jpg"
+  },
+  {
+   "place": 5,
+   "score": 2,
+   "name": "Biscuit",
+   "avatar": "https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_medium.jpg"
   }
  ]
 }
