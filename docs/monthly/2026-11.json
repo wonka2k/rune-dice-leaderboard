@@ -2,7 +2,7 @@
  "kind": "monthly",
  "period": "2026-11",
  "final": false,
- "updatedUtc": "2026-11-06T00:04:32+00:00",
+ "updatedUtc": "2026-11-06T06:28:12+00:00",
  "rules": {
   "points": [
    25,
@@ -35,23 +35,23 @@
    "place": 2,
    "name": "bharath.priya",
    "avatar": "https://avatars.steamstatic.com/0a69bb237106a31f9fe72668a37dacd145b9cbd6_medium.jpg",
-   "points": 220,
-   "dailyPoints": 40,
+   "points": 238,
+   "dailyPoints": 58,
    "weeklyPoints": 180,
    "wins": 1,
-   "top10": 4,
-   "played": 4
+   "top10": 5,
+   "played": 5
   },
   {
    "place": 3,
    "name": "will.palmer",
    "avatar": "https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_medium.jpg",
-   "points": 180,
-   "dailyPoints": 55,
+   "points": 205,
+   "dailyPoints": 80,
    "weeklyPoints": 125,
-   "wins": 2,
-   "top10": 4,
-   "played": 4
+   "wins": 3,
+   "top10": 5,
+   "played": 5
   },
   {
    "place": 4,
