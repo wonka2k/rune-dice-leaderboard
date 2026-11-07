@@ -1,9 +1,9 @@
 {
  "kind": "daily",
  "period": "2026-11-06",
- "final": false,
- "updatedUtc": "2026-11-06T20:48:51+00:00",
- "players": 6,
+ "final": true,
+ "updatedUtc": "2026-11-07T00:50:29+00:00",
+ "players": 7,
  "top": [
   {
    "place": 1,
@@ -37,6 +37,12 @@
   },
   {
    "place": 6,
+   "score": 29,
+   "name": "Horrasm",
+   "avatar": "https://avatars.steamstatic.com/9c4984ae289dd113d1cc41ac5ecb6835c280112d_medium.jpg"
+  },
+  {
+   "place": 7,
    "score": 2,
    "name": "Biscuit",
    "avatar": "https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_medium.jpg"
