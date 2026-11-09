@@ -2,50 +2,43 @@
  "kind": "daily",
  "period": "2026-11-06",
  "final": true,
- "updatedUtc": "2026-11-07T00:50:29+00:00",
+ "updatedUtc": "2026-11-09T18:40:34+00:00",
  "players": 7,
  "top": [
   {
    "place": 1,
    "score": 2435,
-   "name": "will.palmer",
-   "avatar": "https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_medium.jpg"
+   "name": "will.palmer"
   },
   {
    "place": 2,
    "score": 1694,
-   "name": "bharath.priya",
-   "avatar": "https://avatars.steamstatic.com/0a69bb237106a31f9fe72668a37dacd145b9cbd6_medium.jpg"
+   "name": "bharath.priya"
   },
   {
    "place": 3,
    "score": 1689,
-   "name": "smart.raven",
-   "avatar": "https://avatars.steamstatic.com/8c1e416a0664b512216fa18c4822a850cebe9153_medium.jpg"
+   "name": "smart.raven"
   },
   {
    "place": 4,
    "score": 43,
-   "name": "shiyam.kumar",
-   "avatar": "https://avatars.steamstatic.com/cea041b788257e27ce0a27f855e8e68c6a126394_medium.jpg"
+   "name": "shiyam.kumar"
   },
   {
    "place": 5,
    "score": 41,
-   "name": "Shervin",
-   "avatar": "https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_medium.jpg"
+   "name": "Shervin"
   },
   {
    "place": 6,
    "score": 29,
-   "name": "Horrasm",
-   "avatar": "https://avatars.steamstatic.com/9c4984ae289dd113d1cc41ac5ecb6835c280112d_medium.jpg"
+   "name": "Horrasm"
   },
   {
    "place": 7,
    "score": 2,
-   "name": "Biscuit",
-   "avatar": "https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_medium.jpg"
+   "name": "Biscuit"
   }
  ]
 }
