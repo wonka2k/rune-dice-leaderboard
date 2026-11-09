@@ -1,1 +1,3 @@
-# Steam IDs excluded from the site top (cheaters). One per line.
+# Players excluded from the site top (cheaters, removal requests). One per line.
+# Steam ID (17 digits), e.g. 76561198000000000
+# or name:<Steam nickname>, e.g. name:SomeCheater  (removes it from past files too)
