@@ -11,7 +11,7 @@ Output (served by GitHub Pages from /docs):
 Monthly points per board: place 1-10 -> 25,18,15,12,10,8,6,4,2,1; outside the top 10 -> 1 point for taking part.
 Weekly points are multiplied by WEEKLY_MULT. A Weekly runs Wednesday 00:00 UTC - Tuesday 23:59 UTC
 (board Weekly_YYYY-Www = ISO week of the date shifted back by WEEK_SHIFT_DAYS) and belongs to the month of its last day.
-Closed periods are written once and never recalculated. Only nickname + avatar are published.
+Closed periods are written once and never recalculated. Only the nickname is published (no avatars - Kwalee legal, 09.11.2026).
 """
 import datetime as dt
 import json
@@ -74,13 +74,13 @@ def resolve(ids):
     for i in range(0, len(ids), 100):
         r = get("https://api.steampowered.com/ISteamUser/GetPlayerSummaries/v2/", {"steamids": ",".join(ids[i:i + 100])})
         for p in r.get("response", {}).get("players", []):
-            _names[p["steamid"]] = {"name": p.get("personaname", ""), "avatar": p.get("avatarmedium", "")}
+            _names[p["steamid"]] = {"name": p.get("personaname", "")}
     for i in ids:
-        _names.setdefault(i, {"name": "", "avatar": ""})
+        _names.setdefault(i, {"name": ""})
 
 
 def person(sid):
-    return _names.get(sid, {"name": "", "avatar": ""})
+    return _names.get(sid, {"name": ""})
 
 
 def path(kind, key):
@@ -189,6 +189,23 @@ def main():
             for f in os.listdir(folder):
                 if f.endswith(".json") and f[:-5] > limit:
                     os.remove(os.path.join(folder, f))
+
+    # strip avatars from files written by older runs (closed periods are never recalculated)
+    for kind in ("daily", "weekly", "monthly"):
+        folder = os.path.join(DOCS, kind)
+        if not os.path.isdir(folder):
+            continue
+        for f in os.listdir(folder):
+            fp = os.path.join(folder, f)
+            if not f.endswith(".json"):
+                continue
+            with open(fp, encoding="utf-8") as fh:
+                data = json.load(fh)
+            rows = data.get("top", [])
+            if any("avatar" in r for r in rows):
+                for r in rows:
+                    r.pop("avatar", None)
+                write(fp, data)
 
     index = {kind: sorted(f[:-5] for f in os.listdir(os.path.join(DOCS, kind)) if f.endswith(".json"))
              for kind in ("daily", "weekly", "monthly") if os.path.isdir(os.path.join(DOCS, kind))}
