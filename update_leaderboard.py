@@ -33,6 +33,7 @@ WEEK_SHIFT_DAYS = 2  # weekly reset on Wednesday 00:00 UTC (Monday + 2 days)
 ROOT = os.path.dirname(os.path.abspath(__file__))
 DOCS = os.path.join(ROOT, "docs")
 BLACKLIST = os.path.join(ROOT, "blacklist.txt")
+PRUNE = os.path.join(ROOT, "prune.txt")  # cut-off rules: "daily<2026-11-12", "weekly<2026-W46" (see main)
 MAX_DAILY = int(os.environ.get("MAX_DAILY", "100000"))    # same cap as the game (0 = no cap)
 MAX_WEEKLY = int(os.environ.get("MAX_WEEKLY", "500000"))
 KEY = os.environ.get("STEAM_WEBAPI_KEY", "").strip()
@@ -119,7 +120,16 @@ def main():
         lines = sorted(l.strip() for l in open(BLACKLIST, encoding="utf-8") if l.strip() and not l.startswith("#"))
     BANNED = {l for l in lines if not l.lower().startswith("name:")}
     banned_names = {l[5:].strip().lower() for l in lines if l.lower().startswith("name:")}
-    bl_hash = hashlib.sha1("|".join(lines).encode()).hexdigest()[:12]
+    # prune.txt: periods BEFORE the cut-off are ignored even if the boards still exist on Steam; their files are deleted.
+    # Used to drop pre-release test boards. Lines: daily<YYYY-MM-DD, weekly<YYYY-Www. Changing the file recalculates everything.
+    cuts, prune_lines = {}, []
+    if os.path.exists(PRUNE):
+        prune_lines = sorted(l.strip() for l in open(PRUNE, encoding="utf-8") if l.strip() and not l.startswith("#"))
+        for l in prune_lines:
+            m = re.match(r"^(daily|weekly)\s*<\s*(\S+)$", l, re.I)
+            if m:
+                cuts[m.group(1).lower()] = m.group(2)
+    bl_hash = hashlib.sha1("|".join(lines + ["prune:" + l for l in prune_lines]).encode()).hexdigest()[:12]
     try:
         with open(os.path.join(DOCS, "index.json"), encoding="utf-8") as f:
             force = json.load(f).get("blacklistHash", "") != bl_hash
@@ -135,6 +145,8 @@ def main():
             d = dt.date.fromisoformat(m.group(1))
             if d > today:  # future board (debug date / wrong clock) - ignore
                 continue
+            if "daily" in cuts and m.group(1) < cuts["daily"]:  # before the prune cut-off
+                continue
             periods[("daily", m.group(1))] = {"board": b, "final": d < today, "month": d.strftime("%Y-%m")}
             continue
         m = re.match(r"^Weekly_(\d{4})-W(\d{2})$", b["name"])
@@ -143,6 +155,8 @@ def main():
             if (y, w) > (cur_year, cur_week):  # future board - ignore
                 continue
             key = f"{y}-W{w:02d}"
+            if "weekly" in cuts and key < cuts["weekly"]:  # before the prune cut-off
+                continue
             periods[("weekly", key)] = {"board": b, "final": (y, w) < (cur_year, cur_week),
                                         "month": week_last_day(y, w).strftime("%Y-%m")}
 
@@ -194,6 +208,19 @@ def main():
         write(path("monthly", mo), {"kind": "monthly", "period": mo, "final": mo < first_of_month, "updatedUtc": stamp,
                                     "rules": {"points": POINTS, "participation": PARTICIPATION, "weeklyMultiplier": WEEKLY_MULT},
                                     "top": [dict(place=i, **person(sid), **r) for i, (sid, r) in enumerate(ranked, 1)]})
+
+    # prune.txt: delete files of periods before the cut-off; monthly files of months with no period left
+    for kind in ("daily", "weekly"):
+        folder = os.path.join(DOCS, kind)
+        if kind in cuts and os.path.isdir(folder):
+            for f in os.listdir(folder):
+                if f.endswith(".json") and f[:-5] < cuts[kind]:
+                    os.remove(os.path.join(folder, f))
+    mfolder = os.path.join(DOCS, "monthly")
+    if cuts and os.path.isdir(mfolder):
+        for f in os.listdir(mfolder):
+            if f.endswith(".json") and f[:-5] not in months:
+                os.remove(os.path.join(mfolder, f))
 
     # remove files left from future boards written by older runs
     cur_week_key = f"{cur_year}-W{cur_week:02d}"
