@@ -1,0 +1,124 @@
+{
+ "kind": "monthly",
+ "period": "2026-11",
+ "final": false,
+ "updatedUtc": "2026-11-10T18:43:46+00:00",
+ "rules": {
+  "points": [
+   25,
+   18,
+   15,
+   12,
+   10,
+   8,
+   6,
+   4,
+   2,
+   1
+  ],
+  "participation": 1,
+  "weeklyMultiplier": 5
+ },
+ "top": [
+  {
+   "place": 1,
+   "name": "will.palmer",
+   "points": 168,
+   "dailyPoints": 43,
+   "weeklyPoints": 125,
+   "wins": 2,
+   "top10": 3,
+   "played": 3
+  },
+  {
+   "place": 2,
+   "name": "smart.raven",
+   "points": 118,
+   "dailyPoints": 43,
+   "weeklyPoints": 75,
+   "wins": 1,
+   "top10": 3,
+   "played": 3
+  },
+  {
+   "place": 3,
+   "name": "bharath.priya",
+   "points": 100,
+   "dailyPoints": 10,
+   "weeklyPoints": 90,
+   "wins": 0,
+   "top10": 2,
+   "played": 2
+  },
+  {
+   "place": 4,
+   "name": "ashish.borlakunta",
+   "points": 60,
+   "dailyPoints": 0,
+   "weeklyPoints": 60,
+   "wins": 0,
+   "top10": 1,
+   "played": 1
+  },
+  {
+   "place": 5,
+   "name": "anurag.rajgopal",
+   "points": 50,
+   "dailyPoints": 0,
+   "weeklyPoints": 50,
+   "wins": 0,
+   "top10": 1,
+   "played": 1
+  },
+  {
+   "place": 6,
+   "name": "Shervin",
+   "points": 40,
+   "dailyPoints": 0,
+   "weeklyPoints": 40,
+   "wins": 0,
+   "top10": 1,
+   "played": 1
+  },
+  {
+   "place": 7,
+   "name": "Murdo",
+   "points": 30,
+   "dailyPoints": 30,
+   "weeklyPoints": 0,
+   "wins": 0,
+   "top10": 2,
+   "played": 2
+  },
+  {
+   "place": 8,
+   "name": "praveen.narayanaswamy",
+   "points": 30,
+   "dailyPoints": 0,
+   "weeklyPoints": 30,
+   "wins": 0,
+   "top10": 1,
+   "played": 1
+  },
+  {
+   "place": 9,
+   "name": "surya.anudeep",
+   "points": 20,
+   "dailyPoints": 0,
+   "weeklyPoints": 20,
+   "wins": 0,
+   "top10": 1,
+   "played": 1
+  },
+  {
+   "place": 10,
+   "name": "richard.bedford",
+   "points": 12,
+   "dailyPoints": 12,
+   "weeklyPoints": 0,
+   "wins": 0,
+   "top10": 1,
+   "played": 1
+  }
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "kind": "daily",
+ "period": "2026-11-10",
+ "final": false,
+ "updatedUtc": "2026-11-10T18:43:46+00:00",
+ "players": 5,
+ "top": [
+  {
+   "place": 1,
+   "score": 5574,
+   "name": "will.palmer"
+  },
+  {
+   "place": 2,
+   "score": 5171,
+   "name": "smart.raven"
+  },
+  {
+   "place": 3,
+   "score": 4491,
+   "name": "Murdo"
+  },
+  {
+   "place": 4,
+   "score": 934,
+   "name": "richard.bedford"
+  },
+  {
+   "place": 5,
+   "score": 199,
+   "name": "bharath.priya"
+  }
+ ]
+}

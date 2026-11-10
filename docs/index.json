@@ -1,7 +1,14 @@
 {
- "updatedUtc": "2026-11-10T18:41:24+00:00",
- "blacklistHash": "15abdaf9e716",
- "daily": [],
- "weekly": [],
- "monthly": []
+ "updatedUtc": "2026-11-10T18:43:46+00:00",
+ "blacklistHash": "ba8d93625edc",
+ "daily": [
+  "2026-11-09",
+  "2026-11-10"
+ ],
+ "weekly": [
+  "2026-W45"
+ ],
+ "monthly": [
+  "2026-11"
+ ]
 }

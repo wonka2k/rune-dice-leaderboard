@@ -1,0 +1,49 @@
+{
+ "kind": "weekly",
+ "period": "2026-W45",
+ "final": false,
+ "updatedUtc": "2026-11-10T18:43:46+00:00",
+ "players": 8,
+ "top": [
+  {
+   "place": 1,
+   "score": 12748,
+   "name": "will.palmer"
+  },
+  {
+   "place": 2,
+   "score": 7798,
+   "name": "bharath.priya"
+  },
+  {
+   "place": 3,
+   "score": 3298,
+   "name": "smart.raven"
+  },
+  {
+   "place": 4,
+   "score": 2322,
+   "name": "ashish.borlakunta"
+  },
+  {
+   "place": 5,
+   "score": 1627,
+   "name": "anurag.rajgopal"
+  },
+  {
+   "place": 6,
+   "score": 1483,
+   "name": "Shervin"
+  },
+  {
+   "place": 7,
+   "score": 1273,
+   "name": "praveen.narayanaswamy"
+  },
+  {
+   "place": 8,
+   "score": 573,
+   "name": "surya.anudeep"
+  }
+ ]
+}
