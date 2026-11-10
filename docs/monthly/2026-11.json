@@ -2,7 +2,7 @@
  "kind": "monthly",
  "period": "2026-11",
  "final": false,
- "updatedUtc": "2026-11-10T09:37:52+00:00",
+ "updatedUtc": "2026-11-10T17:39:40+00:00",
  "rules": {
   "points": [
    25,
@@ -32,16 +32,6 @@
   },
   {
    "place": 2,
-   "name": "bharath.priya",
-   "points": 253,
-   "dailyPoints": 73,
-   "weeklyPoints": 180,
-   "wins": 1,
-   "top10": 6,
-   "played": 6
-  },
-  {
-   "place": 3,
    "name": "will.palmer",
    "points": 248,
    "dailyPoints": 123,
@@ -49,6 +39,16 @@
    "wins": 4,
    "top10": 7,
    "played": 7
+  },
+  {
+   "place": 3,
+   "name": "bharath.priya",
+   "points": 248,
+   "dailyPoints": 68,
+   "weeklyPoints": 180,
+   "wins": 1,
+   "top10": 6,
+   "played": 6
   },
   {
    "place": 4,
@@ -62,6 +62,16 @@
   },
   {
    "place": 5,
+   "name": "Murdo",
+   "points": 65,
+   "dailyPoints": 65,
+   "weeklyPoints": 0,
+   "wins": 0,
+   "top10": 5,
+   "played": 5
+  },
+  {
+   "place": 6,
    "name": "ashish.borlakunta",
    "points": 62,
    "dailyPoints": 2,
@@ -71,7 +81,7 @@
    "played": 2
   },
   {
-   "place": 6,
+   "place": 7,
    "name": "anurag.rajgopal",
    "points": 54,
    "dailyPoints": 4,
@@ -81,7 +91,7 @@
    "played": 2
   },
   {
-   "place": 7,
+   "place": 8,
    "name": "Shervin",
    "points": 51,
    "dailyPoints": 11,
@@ -89,16 +99,6 @@
    "wins": 0,
    "top10": 2,
    "played": 3
-  },
-  {
-   "place": 8,
-   "name": "Murdo",
-   "points": 50,
-   "dailyPoints": 50,
-   "weeklyPoints": 0,
-   "wins": 0,
-   "top10": 4,
-   "played": 4
   },
   {
    "place": 9,
@@ -142,6 +142,16 @@
   },
   {
    "place": 13,
+   "name": "richard.bedford",
+   "points": 12,
+   "dailyPoints": 12,
+   "weeklyPoints": 0,
+   "wins": 0,
+   "top10": 1,
+   "played": 1
+  },
+  {
+   "place": 14,
    "name": "ratikanta.singh",
    "points": 10,
    "dailyPoints": 10,
@@ -151,7 +161,7 @@
    "played": 1
   },
   {
-   "place": 14,
+   "place": 15,
    "name": "parameswaran.bhattathiri",
    "points": 1,
    "dailyPoints": 1,
@@ -161,7 +171,7 @@
    "played": 1
   },
   {
-   "place": 15,
+   "place": 16,
    "name": "Bhargava_Kwalee",
    "points": 1,
    "dailyPoints": 1,
