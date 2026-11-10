@@ -2,7 +2,7 @@
  "kind": "monthly",
  "period": "2026-11",
  "final": false,
- "updatedUtc": "2026-11-09T18:40:34+00:00",
+ "updatedUtc": "2026-11-10T01:58:55+00:00",
  "rules": {
   "points": [
    25,
@@ -23,15 +23,25 @@
   {
    "place": 1,
    "name": "smart.raven",
-   "points": 309,
-   "dailyPoints": 109,
+   "points": 316,
+   "dailyPoints": 116,
    "weeklyPoints": 200,
-   "wins": 2,
+   "wins": 3,
    "top10": 8,
    "played": 8
   },
   {
    "place": 2,
+   "name": "will.palmer",
+   "points": 248,
+   "dailyPoints": 123,
+   "weeklyPoints": 125,
+   "wins": 4,
+   "top10": 7,
+   "played": 7
+  },
+  {
+   "place": 3,
    "name": "bharath.priya",
    "points": 238,
    "dailyPoints": 58,
@@ -39,16 +49,6 @@
    "wins": 1,
    "top10": 5,
    "played": 5
-  },
-  {
-   "place": 3,
-   "name": "will.palmer",
-   "points": 230,
-   "dailyPoints": 105,
-   "weeklyPoints": 125,
-   "wins": 4,
-   "top10": 6,
-   "played": 6
   },
   {
    "place": 4,
