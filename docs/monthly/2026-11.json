@@ -2,7 +2,7 @@
  "kind": "monthly",
  "period": "2026-11",
  "final": false,
- "updatedUtc": "2026-11-11T05:56:49+00:00",
+ "updatedUtc": "2026-11-11T14:01:49+00:00",
  "rules": {
   "points": [
    25,
@@ -23,8 +23,8 @@
   {
    "place": 1,
    "name": "bharath.priya",
-   "points": 228,
-   "dailyPoints": 28,
+   "points": 222,
+   "dailyPoints": 22,
    "weeklyPoints": 200,
    "wins": 1,
    "top10": 4,
@@ -43,12 +43,12 @@
   {
    "place": 3,
    "name": "will.palmer",
-   "points": 133,
-   "dailyPoints": 43,
+   "points": 158,
+   "dailyPoints": 68,
    "weeklyPoints": 90,
-   "wins": 1,
-   "top10": 3,
-   "played": 3
+   "wins": 2,
+   "top10": 4,
+   "played": 4
   },
   {
    "place": 4,
@@ -72,6 +72,16 @@
   },
   {
    "place": 6,
+   "name": "Murdo",
+   "points": 45,
+   "dailyPoints": 45,
+   "weeklyPoints": 0,
+   "wins": 0,
+   "top10": 3,
+   "played": 3
+  },
+  {
+   "place": 7,
    "name": "Shervin",
    "points": 40,
    "dailyPoints": 0,
@@ -79,16 +89,6 @@
    "wins": 0,
    "top10": 1,
    "played": 1
-  },
-  {
-   "place": 7,
-   "name": "Murdo",
-   "points": 30,
-   "dailyPoints": 30,
-   "weeklyPoints": 0,
-   "wins": 0,
-   "top10": 2,
-   "played": 2
   },
   {
    "place": 8,
@@ -102,20 +102,20 @@
   },
   {
    "place": 9,
-   "name": "Biscuit",
-   "points": 25,
-   "dailyPoints": 25,
-   "weeklyPoints": 0,
-   "wins": 1,
+   "name": "surya.anudeep",
+   "points": 20,
+   "dailyPoints": 0,
+   "weeklyPoints": 20,
+   "wins": 0,
    "top10": 1,
    "played": 1
   },
   {
    "place": 10,
-   "name": "surya.anudeep",
-   "points": 20,
-   "dailyPoints": 0,
-   "weeklyPoints": 20,
+   "name": "Biscuit",
+   "points": 18,
+   "dailyPoints": 18,
+   "weeklyPoints": 0,
    "wins": 0,
    "top10": 1,
    "played": 1
