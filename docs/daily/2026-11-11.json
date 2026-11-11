@@ -1,0 +1,19 @@
+{
+ "kind": "daily",
+ "period": "2026-11-11",
+ "final": false,
+ "updatedUtc": "2026-11-11T05:56:49+00:00",
+ "players": 2,
+ "top": [
+  {
+   "place": 1,
+   "score": 2931,
+   "name": "Biscuit"
+  },
+  {
+   "place": 2,
+   "score": 1317,
+   "name": "bharath.priya"
+  }
+ ]
+}
