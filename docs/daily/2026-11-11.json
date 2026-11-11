@@ -2,8 +2,8 @@
  "kind": "daily",
  "period": "2026-11-11",
  "final": false,
- "updatedUtc": "2026-11-11T17:16:03+00:00",
- "players": 4,
+ "updatedUtc": "2026-11-11T20:57:41+00:00",
+ "players": 5,
  "top": [
   {
    "place": 1,
@@ -12,16 +12,21 @@
   },
   {
    "place": 2,
+   "score": 3029,
+   "name": "smart.raven"
+  },
+  {
+   "place": 3,
    "score": 2931,
    "name": "Biscuit"
   },
   {
-   "place": 3,
+   "place": 4,
    "score": 1844,
    "name": "Murdo"
   },
   {
-   "place": 4,
+   "place": 5,
    "score": 1317,
    "name": "bharath.priya"
   }
