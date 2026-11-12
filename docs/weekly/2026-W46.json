@@ -2,11 +2,41 @@
  "kind": "weekly",
  "period": "2026-W46",
  "final": false,
- "updatedUtc": "2026-11-12T10:53:40+00:00",
- "players": 1,
+ "updatedUtc": "2026-11-12T17:49:19+00:00",
+ "players": 7,
  "top": [
   {
    "place": 1,
+   "score": 9790,
+   "name": "nknp11092019"
+  },
+  {
+   "place": 2,
+   "score": 9112,
+   "name": "Undead"
+  },
+  {
+   "place": 3,
+   "score": 8580,
+   "name": "smart.raven"
+  },
+  {
+   "place": 4,
+   "score": 7483,
+   "name": "Neycon"
+  },
+  {
+   "place": 5,
+   "score": 1668,
+   "name": "Пупырчик"
+  },
+  {
+   "place": 6,
+   "score": 1163,
+   "name": "WhoAmIDoctor"
+  },
+  {
+   "place": 7,
    "score": 997,
    "name": "bharath.priya"
   }

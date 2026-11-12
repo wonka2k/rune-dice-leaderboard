@@ -2,7 +2,103 @@
  "kind": "daily",
  "period": "2026-11-12",
  "final": false,
- "updatedUtc": "2026-11-12T10:53:40+00:00",
- "players": 0,
- "top": []
+ "updatedUtc": "2026-11-12T17:49:19+00:00",
+ "players": 19,
+ "top": [
+  {
+   "place": 1,
+   "score": 5720,
+   "name": "Snafu"
+  },
+  {
+   "place": 2,
+   "score": 4659,
+   "name": "WhoAmIDoctor"
+  },
+  {
+   "place": 3,
+   "score": 4346,
+   "name": "Undead"
+  },
+  {
+   "place": 4,
+   "score": 4251,
+   "name": "edtion"
+  },
+  {
+   "place": 5,
+   "score": 4220,
+   "name": "smart.raven"
+  },
+  {
+   "place": 6,
+   "score": 4193,
+   "name": "Wosat"
+  },
+  {
+   "place": 7,
+   "score": 4040,
+   "name": "Killerletz"
+  },
+  {
+   "place": 8,
+   "score": 3840,
+   "name": "Jener"
+  },
+  {
+   "place": 9,
+   "score": 3650,
+   "name": "bichler70"
+  },
+  {
+   "place": 10,
+   "score": 3331,
+   "name": "zerathize"
+  },
+  {
+   "place": 11,
+   "score": 3168,
+   "name": "dagumym"
+  },
+  {
+   "place": 12,
+   "score": 3036,
+   "name": "will.palmer"
+  },
+  {
+   "place": 13,
+   "score": 3026,
+   "name": "Magellann"
+  },
+  {
+   "place": 14,
+   "score": 2940,
+   "name": "Hamsterka"
+  },
+  {
+   "place": 15,
+   "score": 2928,
+   "name": "Murdo"
+  },
+  {
+   "place": 16,
+   "score": 2755,
+   "name": "Sassy"
+  },
+  {
+   "place": 17,
+   "score": 1183,
+   "name": "Fyre_"
+  },
+  {
+   "place": 18,
+   "score": 901,
+   "name": "DrSleep"
+  },
+  {
+   "place": 19,
+   "score": 701,
+   "name": "alastor4694"
+  }
+ ]
 }
