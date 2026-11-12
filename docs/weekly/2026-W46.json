@@ -2,8 +2,8 @@
  "kind": "weekly",
  "period": "2026-W46",
  "final": false,
- "updatedUtc": "2026-11-12T18:48:07+00:00",
- "players": 15,
+ "updatedUtc": "2026-11-12T20:33:26+00:00",
+ "players": 19,
  "top": [
   {
    "place": 1,
@@ -12,71 +12,91 @@
   },
   {
    "place": 2,
+   "score": 11940,
+   "name": "Exant"
+  },
+  {
+   "place": 3,
+   "score": 10172,
+   "name": "romantiqueamour01"
+  },
+  {
+   "place": 4,
    "score": 9790,
    "name": "nknp11092019"
   },
   {
-   "place": 3,
+   "place": 5,
    "score": 9628,
    "name": "WhoAmIDoctor"
   },
   {
-   "place": 4,
+   "place": 6,
+   "score": 9504,
+   "name": "ℳê†ã¢ã†"
+  },
+  {
+   "place": 7,
    "score": 9112,
    "name": "Undead"
   },
   {
-   "place": 5,
+   "place": 8,
    "score": 8732,
    "name": "dagumym"
   },
   {
-   "place": 6,
+   "place": 9,
    "score": 8580,
    "name": "smart.raven"
   },
   {
-   "place": 7,
+   "place": 10,
    "score": 7483,
    "name": "Neycon"
   },
   {
-   "place": 8,
+   "place": 11,
+   "score": 6636,
+   "name": "funahky0072"
+  },
+  {
+   "place": 12,
    "score": 6334,
    "name": "Buns"
   },
   {
-   "place": 9,
+   "place": 13,
+   "score": 6046,
+   "name": "Command_a"
+  },
+  {
+   "place": 14,
+   "score": 5003,
+   "name": "ZeroSniper"
+  },
+  {
+   "place": 15,
    "score": 3681,
    "name": "Magellann"
   },
   {
-   "place": 10,
+   "place": 16,
    "score": 1668,
    "name": "Пупырчик"
   },
   {
-   "place": 11,
+   "place": 17,
    "score": 1546,
    "name": "BOT Marcos"
   },
   {
-   "place": 12,
+   "place": 18,
    "score": 1185,
    "name": "toranaga1985"
   },
   {
-   "place": 13,
-   "score": 1073,
-   "name": "ZeroSniper"
-  },
-  {
-   "place": 14,
-   "score": 1071,
-   "name": "funahky0072"
-  },
-  {
-   "place": 15,
+   "place": 19,
    "score": 997,
    "name": "bharath.priya"
   }
