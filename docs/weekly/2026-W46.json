@@ -2,41 +2,81 @@
  "kind": "weekly",
  "period": "2026-W46",
  "final": false,
- "updatedUtc": "2026-11-12T17:49:19+00:00",
- "players": 7,
+ "updatedUtc": "2026-11-12T18:48:07+00:00",
+ "players": 15,
  "top": [
   {
    "place": 1,
+   "score": 14816,
+   "name": "Snafu"
+  },
+  {
+   "place": 2,
    "score": 9790,
    "name": "nknp11092019"
   },
   {
-   "place": 2,
+   "place": 3,
+   "score": 9628,
+   "name": "WhoAmIDoctor"
+  },
+  {
+   "place": 4,
    "score": 9112,
    "name": "Undead"
   },
   {
-   "place": 3,
+   "place": 5,
+   "score": 8732,
+   "name": "dagumym"
+  },
+  {
+   "place": 6,
    "score": 8580,
    "name": "smart.raven"
   },
   {
-   "place": 4,
+   "place": 7,
    "score": 7483,
    "name": "Neycon"
   },
   {
-   "place": 5,
+   "place": 8,
+   "score": 6334,
+   "name": "Buns"
+  },
+  {
+   "place": 9,
+   "score": 3681,
+   "name": "Magellann"
+  },
+  {
+   "place": 10,
    "score": 1668,
    "name": "Пупырчик"
   },
   {
-   "place": 6,
-   "score": 1163,
-   "name": "WhoAmIDoctor"
+   "place": 11,
+   "score": 1546,
+   "name": "BOT Marcos"
   },
   {
-   "place": 7,
+   "place": 12,
+   "score": 1185,
+   "name": "toranaga1985"
+  },
+  {
+   "place": 13,
+   "score": 1073,
+   "name": "ZeroSniper"
+  },
+  {
+   "place": 14,
+   "score": 1071,
+   "name": "funahky0072"
+  },
+  {
+   "place": 15,
    "score": 997,
    "name": "bharath.priya"
   }

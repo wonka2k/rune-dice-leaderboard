@@ -2,8 +2,8 @@
  "kind": "daily",
  "period": "2026-11-12",
  "final": false,
- "updatedUtc": "2026-11-12T17:49:19+00:00",
- "players": 19,
+ "updatedUtc": "2026-11-12T18:48:07+00:00",
+ "players": 36,
  "top": [
   {
    "place": 1,
@@ -12,93 +12,178 @@
   },
   {
    "place": 2,
+   "score": 5487,
+   "name": "toranaga1985"
+  },
+  {
+   "place": 3,
    "score": 4659,
    "name": "WhoAmIDoctor"
   },
   {
-   "place": 3,
-   "score": 4346,
-   "name": "Undead"
-  },
-  {
    "place": 4,
-   "score": 4251,
+   "score": 4600,
    "name": "edtion"
   },
   {
    "place": 5,
+   "score": 4346,
+   "name": "Undead"
+  },
+  {
+   "place": 6,
+   "score": 4271,
+   "name": "FAB"
+  },
+  {
+   "place": 7,
    "score": 4220,
    "name": "smart.raven"
   },
   {
-   "place": 6,
+   "place": 8,
    "score": 4193,
    "name": "Wosat"
   },
   {
-   "place": 7,
+   "place": 9,
+   "score": 4083,
+   "name": "JPJuanma"
+  },
+  {
+   "place": 10,
    "score": 4040,
    "name": "Killerletz"
   },
   {
-   "place": 8,
+   "place": 11,
+   "score": 3994,
+   "name": "Birch"
+  },
+  {
+   "place": 12,
    "score": 3840,
    "name": "Jener"
   },
   {
-   "place": 9,
+   "place": 13,
+   "score": 3825,
+   "name": "funahky0072"
+  },
+  {
+   "place": 14,
    "score": 3650,
    "name": "bichler70"
   },
   {
-   "place": 10,
+   "place": 15,
+   "score": 3544,
+   "name": "romantiqueamour01"
+  },
+  {
+   "place": 16,
    "score": 3331,
    "name": "zerathize"
   },
   {
-   "place": 11,
+   "place": 17,
+   "score": 3301,
+   "name": "nknp11092019"
+  },
+  {
+   "place": 18,
    "score": 3168,
    "name": "dagumym"
   },
   {
-   "place": 12,
+   "place": 19,
+   "score": 3116,
+   "name": "jonchristensen30"
+  },
+  {
+   "place": 20,
    "score": 3036,
    "name": "will.palmer"
   },
   {
-   "place": 13,
+   "place": 21,
    "score": 3026,
    "name": "Magellann"
   },
   {
-   "place": 14,
+   "place": 22,
+   "score": 3021,
+   "name": "juliosisson"
+  },
+  {
+   "place": 23,
    "score": 2940,
    "name": "Hamsterka"
   },
   {
-   "place": 15,
+   "place": 24,
    "score": 2928,
    "name": "Murdo"
   },
   {
-   "place": 16,
+   "place": 25,
+   "score": 2834,
+   "name": "ZeroSniper"
+  },
+  {
+   "place": 26,
    "score": 2755,
    "name": "Sassy"
   },
   {
-   "place": 17,
+   "place": 27,
+   "score": 2716,
+   "name": "Lykurgos"
+  },
+  {
+   "place": 28,
+   "score": 2397,
+   "name": "OlePowerBill"
+  },
+  {
+   "place": 29,
+   "score": 2212,
+   "name": "The Ugly Dwarf"
+  },
+  {
+   "place": 30,
+   "score": 2116,
+   "name": "seraphine.cdt"
+  },
+  {
+   "place": 31,
+   "score": 1983,
+   "name": "SlimSlom"
+  },
+  {
+   "place": 32,
    "score": 1183,
    "name": "Fyre_"
   },
   {
-   "place": 18,
+   "place": 33,
    "score": 901,
    "name": "DrSleep"
   },
   {
-   "place": 19,
+   "place": 34,
    "score": 701,
    "name": "alastor4694"
+  },
+  {
+   "place": 35,
+   "score": 522,
+   "name": "BINGGO"
+  },
+  {
+   "place": 36,
+   "score": 299,
+   "name": "BOT Marcos"
   }
  ]
 }
