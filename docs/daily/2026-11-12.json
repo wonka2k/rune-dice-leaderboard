@@ -2,8 +2,8 @@
  "kind": "daily",
  "period": "2026-11-12",
  "final": false,
- "updatedUtc": "2026-11-12T20:33:26+00:00",
- "players": 59,
+ "updatedUtc": "2026-11-12T21:32:50+00:00",
+ "players": 61,
  "top": [
   {
    "place": 1,
@@ -27,233 +27,233 @@
   },
   {
    "place": 5,
+   "score": 4707,
+   "name": "JPJuanma"
+  },
+  {
+   "place": 6,
    "score": 4659,
    "name": "WhoAmIDoctor"
   },
   {
-   "place": 6,
+   "place": 7,
    "score": 4600,
    "name": "edtion"
   },
   {
-   "place": 7,
+   "place": 8,
    "score": 4592,
    "name": "Extispex"
   },
   {
-   "place": 8,
+   "place": 9,
+   "score": 4411,
+   "name": "Lucyans"
+  },
+  {
+   "place": 10,
    "score": 4346,
    "name": "Undead"
   },
   {
-   "place": 9,
+   "place": 11,
    "score": 4271,
    "name": "FAB"
   },
   {
-   "place": 10,
+   "place": 12,
    "score": 4236,
    "name": "ℳê†ã¢ã†"
   },
   {
-   "place": 11,
+   "place": 13,
    "score": 4234,
    "name": "Radaxor"
   },
   {
-   "place": 12,
+   "place": 14,
    "score": 4220,
    "name": "smart.raven"
   },
   {
-   "place": 13,
+   "place": 15,
    "score": 4193,
    "name": "Wosat"
   },
   {
-   "place": 14,
-   "score": 4083,
-   "name": "JPJuanma"
-  },
-  {
-   "place": 15,
+   "place": 16,
    "score": 4040,
    "name": "Killerletz"
   },
   {
-   "place": 16,
+   "place": 17,
    "score": 4017,
    "name": "imsobad"
   },
   {
-   "place": 17,
+   "place": 18,
    "score": 3994,
    "name": "Birch"
   },
   {
-   "place": 18,
+   "place": 19,
    "score": 3840,
    "name": "Jener"
   },
   {
-   "place": 19,
+   "place": 20,
    "score": 3825,
    "name": "funahky0072"
   },
   {
-   "place": 20,
+   "place": 21,
    "score": 3694,
    "name": "orisima"
   },
   {
-   "place": 21,
+   "place": 22,
    "score": 3650,
    "name": "bichler70"
   },
   {
-   "place": 22,
+   "place": 23,
    "score": 3544,
    "name": "romantiqueamour01"
   },
   {
-   "place": 23,
+   "place": 24,
    "score": 3485,
    "name": "Solenya00"
   },
   {
-   "place": 24,
+   "place": 25,
    "score": 3400,
    "name": "LuLew"
   },
   {
-   "place": 25,
-   "score": 3389,
-   "name": "Lucyans"
+   "place": 26,
+   "score": 3333,
+   "name": "littlexander"
   },
   {
-   "place": 26,
+   "place": 27,
    "score": 3331,
    "name": "zerathize"
   },
   {
-   "place": 27,
+   "place": 28,
    "score": 3301,
    "name": "nknp11092019"
   },
   {
-   "place": 28,
+   "place": 29,
    "score": 3168,
    "name": "dagumym"
   },
   {
-   "place": 29,
+   "place": 30,
    "score": 3116,
    "name": "jonchristensen30"
   },
   {
-   "place": 30,
+   "place": 31,
    "score": 3036,
    "name": "will.palmer"
   },
   {
-   "place": 31,
+   "place": 32,
    "score": 3029,
    "name": "Pitbull2"
   },
   {
-   "place": 32,
+   "place": 33,
    "score": 3026,
    "name": "Magellann"
   },
   {
-   "place": 33,
+   "place": 34,
    "score": 3021,
    "name": "juliosisson"
   },
   {
-   "place": 34,
+   "place": 35,
    "score": 2960,
    "name": "numasan"
   },
   {
-   "place": 35,
+   "place": 36,
    "score": 2940,
    "name": "Hamsterka"
   },
   {
-   "place": 36,
+   "place": 37,
    "score": 2940,
    "name": "Ann Dearmaad"
   },
   {
-   "place": 37,
+   "place": 38,
    "score": 2928,
    "name": "Murdo"
   },
   {
-   "place": 38,
+   "place": 39,
    "score": 2834,
    "name": "ZeroSniper"
   },
   {
-   "place": 39,
+   "place": 40,
+   "score": 2790,
+   "name": "manu.bejbii"
+  },
+  {
+   "place": 41,
    "score": 2784,
    "name": "HACKIE CHAN"
   },
   {
-   "place": 40,
+   "place": 42,
    "score": 2755,
    "name": "Sassy"
   },
   {
-   "place": 41,
+   "place": 43,
    "score": 2716,
    "name": "Lykurgos"
   },
   {
-   "place": 42,
+   "place": 44,
    "score": 2650,
    "name": "TypeO"
   },
   {
-   "place": 43,
+   "place": 45,
    "score": 2414,
    "name": "Courtney Strike"
   },
   {
-   "place": 44,
+   "place": 46,
    "score": 2397,
    "name": "OlePowerBill"
   },
   {
-   "place": 45,
+   "place": 47,
    "score": 2372,
    "name": "Command_a"
   },
   {
-   "place": 46,
+   "place": 48,
+   "score": 2361,
+   "name": "mankosuki"
+  },
+  {
+   "place": 49,
    "score": 2212,
    "name": "The Ugly Dwarf"
   },
   {
-   "place": 47,
-   "score": 2167,
-   "name": "littlexander"
-  },
-  {
-   "place": 48,
+   "place": 50,
    "score": 2116,
    "name": "seraphine.cdt"
-  },
-  {
-   "place": 49,
-   "score": 2026,
-   "name": "Nangha"
-  },
-  {
-   "place": 50,
-   "score": 1983,
-   "name": "SlimSlom"
   }
  ]
 }
