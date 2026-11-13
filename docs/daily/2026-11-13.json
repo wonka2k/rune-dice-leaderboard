@@ -2,96 +2,221 @@
  "kind": "daily",
  "period": "2026-11-13",
  "final": false,
- "updatedUtc": "2026-11-13T02:24:00+00:00",
- "players": 18,
+ "updatedUtc": "2026-11-13T06:32:28+00:00",
+ "players": 43,
  "top": [
   {
    "place": 1,
+   "score": 3902,
+   "name": "Snafu"
+  },
+  {
+   "place": 2,
    "score": 2826,
    "name": "betabill1395"
   },
   {
-   "place": 2,
+   "place": 3,
+   "score": 2591,
+   "name": "thor"
+  },
+  {
+   "place": 4,
+   "score": 2456,
+   "name": "pigionwithtophat"
+  },
+  {
+   "place": 5,
    "score": 2431,
    "name": "amr.qenawi"
   },
   {
-   "place": 3,
+   "place": 6,
+   "score": 2423,
+   "name": "smart.raven"
+  },
+  {
+   "place": 7,
+   "score": 2421,
+   "name": "omberzombie"
+  },
+  {
+   "place": 8,
+   "score": 2416,
+   "name": "Mihakiy"
+  },
+  {
+   "place": 9,
    "score": 2359,
    "name": "Radaxor"
   },
   {
-   "place": 4,
+   "place": 10,
+   "score": 2268,
+   "name": "RoyalxNerd"
+  },
+  {
+   "place": 11,
+   "score": 2244,
+   "name": "GoodOldPeet"
+  },
+  {
+   "place": 12,
+   "score": 2203,
+   "name": "JPJuanma"
+  },
+  {
+   "place": 13,
    "score": 2179,
    "name": "imsobad"
   },
   {
-   "place": 5,
+   "place": 14,
+   "score": 2175,
+   "name": "dagumym"
+  },
+  {
+   "place": 15,
+   "score": 2063,
+   "name": "slavetoinsomnia"
+  },
+  {
+   "place": 16,
+   "score": 2014,
+   "name": "Braunze"
+  },
+  {
+   "place": 17,
    "score": 1883,
    "name": "donutman"
   },
   {
-   "place": 6,
+   "place": 18,
    "score": 1867,
    "name": "GodWeasel"
   },
   {
-   "place": 7,
+   "place": 19,
+   "score": 1817,
+   "name": "yakouyugyo"
+  },
+  {
+   "place": 20,
+   "score": 1775,
+   "name": "TheGoodMisterH"
+  },
+  {
+   "place": 21,
+   "score": 1738,
+   "name": "tranhoanvu123"
+  },
+  {
+   "place": 22,
    "score": 1655,
    "name": "Goblin"
   },
   {
-   "place": 8,
+   "place": 23,
    "score": 1652,
    "name": "Taeil"
   },
   {
-   "place": 9,
+   "place": 24,
+   "score": 1583,
+   "name": "pauk"
+  },
+  {
+   "place": 25,
    "score": 1573,
    "name": "77207051"
   },
   {
-   "place": 10,
+   "place": 26,
+   "score": 1568,
+   "name": "Chibi Se7en"
+  },
+  {
+   "place": 27,
    "score": 1562,
    "name": "Dr.Phailboat"
   },
   {
-   "place": 11,
+   "place": 28,
    "score": 1559,
    "name": "Lucyans"
   },
   {
-   "place": 12,
+   "place": 29,
    "score": 1533,
    "name": "Wooster"
   },
   {
-   "place": 13,
+   "place": 30,
+   "score": 1486,
+   "name": "Thanabelle"
+  },
+  {
+   "place": 31,
    "score": 1484,
    "name": "nknp11092019"
   },
   {
-   "place": 14,
+   "place": 32,
+   "score": 1482,
+   "name": "overkill314"
+  },
+  {
+   "place": 33,
+   "score": 1378,
+   "name": "Ryuka"
+  },
+  {
+   "place": 34,
+   "score": 1368,
+   "name": "GumboVariations"
+  },
+  {
+   "place": 35,
    "score": 1365,
    "name": "Leonardo"
   },
   {
-   "place": 15,
+   "place": 36,
+   "score": 1358,
+   "name": "deathofspam"
+  },
+  {
+   "place": 37,
+   "score": 1354,
+   "name": "Fyre_"
+  },
+  {
+   "place": 38,
    "score": 1338,
    "name": "Unemployed duke"
   },
   {
-   "place": 16,
+   "place": 39,
    "score": 1298,
    "name": "petmad"
   },
   {
-   "place": 17,
+   "place": 40,
+   "score": 1257,
+   "name": "OrbOfConfusion"
+  },
+  {
+   "place": 41,
    "score": 1161,
    "name": "Lucas Amorim"
   },
   {
-   "place": 18,
+   "place": 42,
+   "score": 1155,
+   "name": "whorblase"
+  },
+  {
+   "place": 43,
    "score": 1021,
    "name": "djmofunk"
   }
