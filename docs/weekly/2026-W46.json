@@ -2,8 +2,8 @@
  "kind": "weekly",
  "period": "2026-W46",
  "final": false,
- "updatedUtc": "2026-11-12T21:32:50+00:00",
- "players": 20,
+ "updatedUtc": "2026-11-13T00:07:05+00:00",
+ "players": 29,
  "top": [
   {
    "place": 1,
@@ -12,98 +12,143 @@
   },
   {
    "place": 2,
+   "score": 13314,
+   "name": "toranaga1985"
+  },
+  {
+   "place": 3,
+   "score": 12166,
+   "name": "thor"
+  },
+  {
+   "place": 4,
    "score": 11940,
    "name": "Exant"
   },
   {
-   "place": 3,
+   "place": 5,
    "score": 11585,
    "name": "ℳê†ã¢ã†"
   },
   {
-   "place": 4,
+   "place": 6,
+   "score": 10205,
+   "name": "Mosimj"
+  },
+  {
+   "place": 7,
    "score": 10172,
    "name": "romantiqueamour01"
   },
   {
-   "place": 5,
+   "place": 8,
    "score": 9790,
    "name": "nknp11092019"
   },
   {
-   "place": 6,
+   "place": 9,
    "score": 9628,
    "name": "WhoAmIDoctor"
   },
   {
-   "place": 7,
+   "place": 10,
+   "score": 9475,
+   "name": "edtion"
+  },
+  {
+   "place": 11,
    "score": 9112,
    "name": "Undead"
   },
   {
-   "place": 8,
+   "place": 12,
    "score": 8732,
    "name": "dagumym"
   },
   {
-   "place": 9,
+   "place": 13,
+   "score": 8613,
+   "name": "Command_a"
+  },
+  {
+   "place": 14,
    "score": 8580,
    "name": "smart.raven"
   },
   {
-   "place": 10,
+   "place": 15,
+   "score": 8067,
+   "name": "Lucyans"
+  },
+  {
+   "place": 16,
    "score": 7483,
    "name": "Neycon"
   },
   {
-   "place": 11,
-   "score": 7072,
-   "name": "toranaga1985"
-  },
-  {
-   "place": 12,
+   "place": 17,
    "score": 6636,
    "name": "funahky0072"
   },
   {
-   "place": 13,
+   "place": 18,
    "score": 6334,
    "name": "Buns"
   },
   {
-   "place": 14,
-   "score": 6046,
-   "name": "Command_a"
-  },
-  {
-   "place": 15,
+   "place": 19,
    "score": 5003,
    "name": "ZeroSniper"
   },
   {
-   "place": 16,
+   "place": 20,
    "score": 3681,
    "name": "Magellann"
   },
   {
-   "place": 17,
+   "place": 21,
+   "score": 3388,
+   "name": "kaila.glass2014"
+  },
+  {
+   "place": 22,
    "score": 1668,
    "name": "Пупырчик"
   },
   {
-   "place": 18,
+   "place": 23,
    "score": 1546,
    "name": "BOT Marcos"
   },
   {
-   "place": 19,
+   "place": 24,
+   "score": 1394,
+   "name": "jullsas"
+  },
+  {
+   "place": 25,
+   "score": 1328,
+   "name": "petmad"
+  },
+  {
+   "place": 26,
+   "score": 1155,
+   "name": "Kamil.EXE"
+  },
+  {
+   "place": 27,
    "score": 1120,
    "name": "jonchristensen30"
   },
   {
-   "place": 20,
+   "place": 28,
    "score": 997,
    "name": "bharath.priya"
+  },
+  {
+   "place": 29,
+   "score": 926,
+   "name": "TastesLikeGator"
   }
  ]
 }
