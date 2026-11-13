@@ -2,12 +2,12 @@
  "kind": "weekly",
  "period": "2026-W46",
  "final": false,
- "updatedUtc": "2026-11-13T18:40:19+00:00",
- "players": 64,
+ "updatedUtc": "2026-11-13T20:00:46+00:00",
+ "players": 69,
  "top": [
   {
    "place": 1,
-   "score": 14816,
+   "score": 18204,
    "name": "Snafu"
   },
   {
@@ -47,213 +47,213 @@
   },
   {
    "place": 9,
+   "score": 11569,
+   "name": "wheatgerm"
+  },
+  {
+   "place": 10,
    "score": 11417,
    "name": "nknp11092019"
   },
   {
-   "place": 10,
+   "place": 11,
    "score": 11352,
    "name": "Killerletz"
   },
   {
-   "place": 11,
+   "place": 12,
    "score": 11298,
    "name": "JPJuanma"
   },
   {
-   "place": 12,
+   "place": 13,
    "score": 10998,
    "name": "Unemployed duke"
   },
   {
-   "place": 13,
+   "place": 14,
    "score": 10834,
    "name": "no-kitty-no-life"
   },
   {
-   "place": 14,
+   "place": 15,
+   "score": 10554,
+   "name": "penguin_panguin"
+  },
+  {
+   "place": 16,
    "score": 10205,
    "name": "Mosimj"
   },
   {
-   "place": 15,
+   "place": 17,
    "score": 10186,
    "name": "dagumym"
   },
   {
-   "place": 16,
+   "place": 18,
    "score": 10172,
    "name": "romantiqueamour01"
   },
   {
-   "place": 17,
+   "place": 19,
    "score": 10144,
    "name": "Draghmar 🐲"
   },
   {
-   "place": 18,
-   "score": 9994,
-   "name": "penguin_panguin"
-  },
-  {
-   "place": 19,
+   "place": 20,
    "score": 9953,
    "name": "Neycon"
   },
   {
-   "place": 20,
+   "place": 21,
    "score": 9628,
    "name": "WhoAmIDoctor"
   },
   {
-   "place": 21,
+   "place": 22,
    "score": 9593,
    "name": "h0ppet0ssE"
   },
   {
-   "place": 22,
+   "place": 23,
    "score": 9587,
    "name": "kaila.glass2014"
   },
   {
-   "place": 23,
-   "score": 9547,
-   "name": "wheatgerm"
+   "place": 24,
+   "score": 9571,
+   "name": "lautinho"
   },
   {
-   "place": 24,
+   "place": 25,
    "score": 9533,
    "name": "donutman"
   },
   {
-   "place": 25,
+   "place": 26,
    "score": 9475,
    "name": "edtion"
   },
   {
-   "place": 26,
+   "place": 27,
    "score": 9328,
    "name": "KaotikKing"
   },
   {
-   "place": 27,
+   "place": 28,
    "score": 9323,
    "name": "Vicktorious93"
   },
   {
-   "place": 28,
+   "place": 29,
    "score": 9307,
    "name": "GodWeasel"
   },
   {
-   "place": 29,
+   "place": 30,
    "score": 9112,
    "name": "Undead"
   },
   {
-   "place": 30,
+   "place": 31,
    "score": 9053,
    "name": "Birch"
   },
   {
-   "place": 31,
+   "place": 32,
    "score": 8961,
    "name": "🤘"
   },
   {
-   "place": 32,
+   "place": 33,
    "score": 8648,
    "name": "MitterMak"
   },
   {
-   "place": 33,
+   "place": 34,
    "score": 8613,
    "name": "Command_a"
   },
   {
-   "place": 34,
+   "place": 35,
    "score": 8580,
    "name": "smart.raven"
   },
   {
-   "place": 35,
+   "place": 36,
    "score": 8576,
    "name": "cnh1289"
   },
   {
-   "place": 36,
+   "place": 37,
    "score": 8321,
    "name": "abab112200"
   },
   {
-   "place": 37,
+   "place": 38,
    "score": 8184,
    "name": "위드미야"
   },
   {
-   "place": 38,
+   "place": 39,
    "score": 8067,
    "name": "Lucyans"
   },
   {
-   "place": 39,
+   "place": 40,
    "score": 7933,
    "name": "omberzombie"
   },
   {
-   "place": 40,
+   "place": 41,
    "score": 7618,
    "name": "viann.tv2020"
   },
   {
-   "place": 41,
+   "place": 42,
    "score": 7420,
    "name": "Hitori"
   },
   {
-   "place": 42,
+   "place": 43,
    "score": 7408,
    "name": "Lykurgos"
   },
   {
-   "place": 43,
+   "place": 44,
+   "score": 7182,
+   "name": "Chekov"
+  },
+  {
+   "place": 45,
    "score": 6636,
    "name": "funahky0072"
   },
   {
-   "place": 44,
+   "place": 46,
    "score": 6491,
    "name": "Kjeldahl"
   },
   {
-   "place": 45,
+   "place": 47,
    "score": 6334,
    "name": "Buns"
   },
   {
-   "place": 46,
+   "place": 48,
+   "score": 5454,
+   "name": "Magellann"
+  },
+  {
+   "place": 49,
    "score": 5003,
    "name": "ZeroSniper"
   },
   {
-   "place": 47,
+   "place": 50,
    "score": 4068,
    "name": "made_in_china"
-  },
-  {
-   "place": 48,
-   "score": 3715,
-   "name": "slavetoinsomnia"
-  },
-  {
-   "place": 49,
-   "score": 3681,
-   "name": "Magellann"
-  },
-  {
-   "place": 50,
-   "score": 3644,
-   "name": "Пупырчик"
   }
  ]
 }
