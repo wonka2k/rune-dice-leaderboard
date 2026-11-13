@@ -2,7 +2,7 @@
  "kind": "monthly",
  "period": "2026-11",
  "final": false,
- "updatedUtc": "2026-11-13T15:17:18+00:00",
+ "updatedUtc": "2026-11-13T16:17:55+00:00",
  "rules": {
   "points": [
    25,
@@ -53,12 +53,12 @@
   {
    "place": 4,
    "name": "toranaga1985",
-   "points": 108,
-   "dailyPoints": 18,
+   "points": 109,
+   "dailyPoints": 19,
    "weeklyPoints": 90,
    "wins": 0,
    "top10": 2,
-   "played": 2
+   "played": 3
   },
   {
    "place": 5,
@@ -382,6 +382,16 @@
   },
   {
    "place": 37,
+   "name": "Command_a",
+   "points": 7,
+   "dailyPoints": 2,
+   "weeklyPoints": 5,
+   "wins": 0,
+   "top10": 0,
+   "played": 3
+  },
+  {
+   "place": 38,
    "name": "papamoonkie",
    "points": 6,
    "dailyPoints": 6,
@@ -391,7 +401,7 @@
    "played": 1
   },
   {
-   "place": 38,
+   "place": 39,
    "name": "funahky0072",
    "points": 6,
    "dailyPoints": 1,
@@ -401,7 +411,7 @@
    "played": 2
   },
   {
-   "place": 39,
+   "place": 40,
    "name": "romantiqueamour01",
    "points": 6,
    "dailyPoints": 1,
@@ -411,7 +421,7 @@
    "played": 2
   },
   {
-   "place": 40,
+   "place": 41,
    "name": "KaotikKing",
    "points": 6,
    "dailyPoints": 1,
@@ -421,7 +431,7 @@
    "played": 2
   },
   {
-   "place": 41,
+   "place": 42,
    "name": "Mosimj",
    "points": 6,
    "dailyPoints": 1,
@@ -431,7 +441,7 @@
    "played": 2
   },
   {
-   "place": 42,
+   "place": 43,
    "name": "kaila.glass2014",
    "points": 6,
    "dailyPoints": 1,
@@ -441,7 +451,7 @@
    "played": 2
   },
   {
-   "place": 43,
+   "place": 44,
    "name": "jonchristensen30",
    "points": 6,
    "dailyPoints": 1,
@@ -451,7 +461,7 @@
    "played": 2
   },
   {
-   "place": 44,
+   "place": 45,
    "name": "TastesLikeGator",
    "points": 6,
    "dailyPoints": 1,
@@ -461,18 +471,8 @@
    "played": 2
   },
   {
-   "place": 45,
-   "name": "ZeroSniper",
-   "points": 6,
-   "dailyPoints": 1,
-   "weeklyPoints": 5,
-   "wins": 0,
-   "top10": 0,
-   "played": 2
-  },
-  {
    "place": 46,
-   "name": "Command_a",
+   "name": "ZeroSniper",
    "points": 6,
    "dailyPoints": 1,
    "weeklyPoints": 5,
@@ -512,7 +512,7 @@
   },
   {
    "place": 50,
-   "name": "Draghmar 🐲",
+   "name": "penguin_panguin",
    "points": 6,
    "dailyPoints": 1,
    "weeklyPoints": 5,

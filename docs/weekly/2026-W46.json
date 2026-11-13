@@ -2,8 +2,8 @@
  "kind": "weekly",
  "period": "2026-W46",
  "final": false,
- "updatedUtc": "2026-11-13T15:17:18+00:00",
- "players": 58,
+ "updatedUtc": "2026-11-13T16:17:55+00:00",
+ "players": 60,
  "top": [
   {
    "place": 1,
@@ -77,93 +77,93 @@
   },
   {
    "place": 15,
+   "score": 9953,
+   "name": "Neycon"
+  },
+  {
+   "place": 16,
    "score": 9628,
    "name": "WhoAmIDoctor"
   },
   {
-   "place": 16,
+   "place": 17,
+   "score": 9593,
+   "name": "h0ppet0ssE"
+  },
+  {
+   "place": 18,
    "score": 9587,
    "name": "kaila.glass2014"
   },
   {
-   "place": 17,
+   "place": 19,
    "score": 9547,
    "name": "wheatgerm"
   },
   {
-   "place": 18,
+   "place": 20,
    "score": 9533,
    "name": "donutman"
   },
   {
-   "place": 19,
+   "place": 21,
    "score": 9475,
    "name": "edtion"
   },
   {
-   "place": 20,
+   "place": 22,
    "score": 9328,
    "name": "KaotikKing"
   },
   {
-   "place": 21,
+   "place": 23,
    "score": 9323,
    "name": "Vicktorious93"
   },
   {
-   "place": 22,
+   "place": 24,
    "score": 9307,
    "name": "GodWeasel"
   },
   {
-   "place": 23,
+   "place": 25,
    "score": 9112,
    "name": "Undead"
   },
   {
-   "place": 24,
+   "place": 26,
    "score": 9053,
    "name": "Birch"
   },
   {
-   "place": 25,
+   "place": 27,
    "score": 8961,
    "name": "🤘"
   },
   {
-   "place": 26,
+   "place": 28,
    "score": 8648,
    "name": "MitterMak"
   },
   {
-   "place": 27,
+   "place": 29,
    "score": 8613,
    "name": "Command_a"
   },
   {
-   "place": 28,
-   "score": 8582,
-   "name": "Neycon"
-  },
-  {
-   "place": 29,
+   "place": 30,
    "score": 8580,
    "name": "smart.raven"
   },
   {
-   "place": 30,
+   "place": 31,
    "score": 8576,
    "name": "cnh1289"
   },
   {
-   "place": 31,
+   "place": 32,
    "score": 8321,
    "name": "abab112200"
-  },
-  {
-   "place": 32,
-   "score": 8248,
-   "name": "h0ppet0ssE"
   },
   {
    "place": 33,
@@ -182,78 +182,78 @@
   },
   {
    "place": 36,
+   "score": 7618,
+   "name": "viann.tv2020"
+  },
+  {
+   "place": 37,
+   "score": 7420,
+   "name": "Hitori"
+  },
+  {
+   "place": 38,
+   "score": 7267,
+   "name": "penguin_panguin"
+  },
+  {
+   "place": 39,
    "score": 6636,
    "name": "funahky0072"
   },
   {
-   "place": 37,
+   "place": 40,
    "score": 6491,
    "name": "Kjeldahl"
   },
   {
-   "place": 38,
+   "place": 41,
    "score": 6334,
    "name": "Buns"
   },
   {
-   "place": 39,
+   "place": 42,
    "score": 5003,
    "name": "ZeroSniper"
   },
   {
-   "place": 40,
+   "place": 43,
    "score": 4068,
    "name": "made_in_china"
   },
   {
-   "place": 41,
+   "place": 44,
    "score": 3715,
    "name": "slavetoinsomnia"
   },
   {
-   "place": 42,
+   "place": 45,
    "score": 3681,
    "name": "Magellann"
   },
   {
-   "place": 43,
+   "place": 46,
    "score": 3657,
    "name": "Unemployed duke"
   },
   {
-   "place": 44,
+   "place": 47,
    "score": 1962,
    "name": "TheGoodMisterH"
   },
   {
-   "place": 45,
+   "place": 48,
    "score": 1668,
    "name": "Пупырчик"
   },
   {
-   "place": 46,
+   "place": 49,
    "score": 1546,
    "name": "BOT Marcos"
   },
   {
-   "place": 47,
-   "score": 1506,
-   "name": "viann.tv2020"
-  },
-  {
-   "place": 48,
+   "place": 50,
    "score": 1485,
    "name": "harmlessmostly"
-  },
-  {
-   "place": 49,
-   "score": 1394,
-   "name": "jullsas"
-  },
-  {
-   "place": 50,
-   "score": 1328,
-   "name": "petmad"
   }
  ]
 }
