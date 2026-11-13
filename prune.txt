@@ -1,4 +1,4 @@
 # Periods before these cut-offs are ignored by the site (pre-release test boards, Oleksii 10.11.2026).
 # Release: Daily 2026-11-12, Weekly W46 (11-17.11). Steam boards may stay or be deleted - the site ignores them either way.
-daily<2026-11-08
-weekly<2026-W45
+daily<2026-11-12
+weekly<2026-W46
