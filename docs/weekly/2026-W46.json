@@ -2,8 +2,8 @@
  "kind": "weekly",
  "period": "2026-W46",
  "final": false,
- "updatedUtc": "2026-11-13T00:07:05+00:00",
- "players": 29,
+ "updatedUtc": "2026-11-13T02:24:00+00:00",
+ "players": 35,
  "top": [
   {
    "place": 1,
@@ -52,101 +52,131 @@
   },
   {
    "place": 10,
+   "score": 9587,
+   "name": "kaila.glass2014"
+  },
+  {
+   "place": 11,
    "score": 9475,
    "name": "edtion"
   },
   {
-   "place": 11,
+   "place": 12,
+   "score": 9412,
+   "name": "donutman"
+  },
+  {
+   "place": 13,
+   "score": 9328,
+   "name": "KaotikKing"
+  },
+  {
+   "place": 14,
+   "score": 9307,
+   "name": "GodWeasel"
+  },
+  {
+   "place": 15,
    "score": 9112,
    "name": "Undead"
   },
   {
-   "place": 12,
+   "place": 16,
    "score": 8732,
    "name": "dagumym"
   },
   {
-   "place": 13,
+   "place": 17,
+   "score": 8648,
+   "name": "MitterMak"
+  },
+  {
+   "place": 18,
    "score": 8613,
    "name": "Command_a"
   },
   {
-   "place": 14,
+   "place": 19,
    "score": 8580,
    "name": "smart.raven"
   },
   {
-   "place": 15,
+   "place": 20,
+   "score": 8576,
+   "name": "cnh1289"
+  },
+  {
+   "place": 21,
    "score": 8067,
    "name": "Lucyans"
   },
   {
-   "place": 16,
+   "place": 22,
    "score": 7483,
    "name": "Neycon"
   },
   {
-   "place": 17,
+   "place": 23,
    "score": 6636,
    "name": "funahky0072"
   },
   {
-   "place": 18,
+   "place": 24,
    "score": 6334,
    "name": "Buns"
   },
   {
-   "place": 19,
+   "place": 25,
    "score": 5003,
    "name": "ZeroSniper"
   },
   {
-   "place": 20,
+   "place": 26,
    "score": 3681,
    "name": "Magellann"
   },
   {
-   "place": 21,
-   "score": 3388,
-   "name": "kaila.glass2014"
-  },
-  {
-   "place": 22,
+   "place": 27,
    "score": 1668,
    "name": "Пупырчик"
   },
   {
-   "place": 23,
+   "place": 28,
    "score": 1546,
    "name": "BOT Marcos"
   },
   {
-   "place": 24,
+   "place": 29,
    "score": 1394,
    "name": "jullsas"
   },
   {
-   "place": 25,
+   "place": 30,
    "score": 1328,
    "name": "petmad"
   },
   {
-   "place": 26,
+   "place": 31,
    "score": 1155,
    "name": "Kamil.EXE"
   },
   {
-   "place": 27,
+   "place": 32,
    "score": 1120,
    "name": "jonchristensen30"
   },
   {
-   "place": 28,
+   "place": 33,
+   "score": 1106,
+   "name": "Filler"
+  },
+  {
+   "place": 34,
    "score": 997,
    "name": "bharath.priya"
   },
   {
-   "place": 29,
+   "place": 35,
    "score": 926,
    "name": "TastesLikeGator"
   }

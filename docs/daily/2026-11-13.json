@@ -2,7 +2,98 @@
  "kind": "daily",
  "period": "2026-11-13",
  "final": false,
- "updatedUtc": "2026-11-13T00:07:05+00:00",
- "players": 0,
- "top": []
+ "updatedUtc": "2026-11-13T02:24:00+00:00",
+ "players": 18,
+ "top": [
+  {
+   "place": 1,
+   "score": 2826,
+   "name": "betabill1395"
+  },
+  {
+   "place": 2,
+   "score": 2431,
+   "name": "amr.qenawi"
+  },
+  {
+   "place": 3,
+   "score": 2359,
+   "name": "Radaxor"
+  },
+  {
+   "place": 4,
+   "score": 2179,
+   "name": "imsobad"
+  },
+  {
+   "place": 5,
+   "score": 1883,
+   "name": "donutman"
+  },
+  {
+   "place": 6,
+   "score": 1867,
+   "name": "GodWeasel"
+  },
+  {
+   "place": 7,
+   "score": 1655,
+   "name": "Goblin"
+  },
+  {
+   "place": 8,
+   "score": 1652,
+   "name": "Taeil"
+  },
+  {
+   "place": 9,
+   "score": 1573,
+   "name": "77207051"
+  },
+  {
+   "place": 10,
+   "score": 1562,
+   "name": "Dr.Phailboat"
+  },
+  {
+   "place": 11,
+   "score": 1559,
+   "name": "Lucyans"
+  },
+  {
+   "place": 12,
+   "score": 1533,
+   "name": "Wooster"
+  },
+  {
+   "place": 13,
+   "score": 1484,
+   "name": "nknp11092019"
+  },
+  {
+   "place": 14,
+   "score": 1365,
+   "name": "Leonardo"
+  },
+  {
+   "place": 15,
+   "score": 1338,
+   "name": "Unemployed duke"
+  },
+  {
+   "place": 16,
+   "score": 1298,
+   "name": "petmad"
+  },
+  {
+   "place": 17,
+   "score": 1161,
+   "name": "Lucas Amorim"
+  },
+  {
+   "place": 18,
+   "score": 1021,
+   "name": "djmofunk"
+  }
+ ]
 }
