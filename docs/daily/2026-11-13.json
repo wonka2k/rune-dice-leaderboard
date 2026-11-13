@@ -2,8 +2,8 @@
  "kind": "daily",
  "period": "2026-11-13",
  "final": false,
- "updatedUtc": "2026-11-13T17:28:04+00:00",
- "players": 111,
+ "updatedUtc": "2026-11-13T18:40:19+00:00",
+ "players": 121,
  "top": [
   {
    "place": 1,
@@ -27,83 +27,83 @@
   },
   {
    "place": 5,
+   "score": 3238,
+   "name": "Chekov"
+  },
+  {
+   "place": 6,
    "score": 3225,
    "name": "made_in_china"
   },
   {
-   "place": 6,
+   "place": 7,
    "score": 2826,
    "name": "betabill1395"
   },
   {
-   "place": 7,
+   "place": 8,
    "score": 2761,
    "name": "papamoonkie"
   },
   {
-   "place": 8,
+   "place": 9,
    "score": 2717,
    "name": "Angry Owl"
   },
   {
-   "place": 9,
+   "place": 10,
    "score": 2649,
    "name": "Radaxor"
   },
   {
-   "place": 10,
+   "place": 11,
    "score": 2597,
    "name": "MaciekCz"
   },
   {
-   "place": 11,
+   "place": 12,
    "score": 2591,
    "name": "thor"
   },
   {
-   "place": 12,
+   "place": 13,
    "score": 2568,
    "name": "toranaga1985"
   },
   {
-   "place": 13,
+   "place": 14,
    "score": 2504,
    "name": "GoodOldPeet"
   },
   {
-   "place": 14,
+   "place": 15,
    "score": 2489,
    "name": "AporTrufas"
   },
   {
-   "place": 15,
+   "place": 16,
    "score": 2456,
    "name": "pigionwithtophat"
   },
   {
-   "place": 16,
+   "place": 17,
    "score": 2431,
    "name": "amr.qenawi"
   },
   {
-   "place": 17,
+   "place": 18,
    "score": 2423,
    "name": "smart.raven"
   },
   {
-   "place": 18,
+   "place": 19,
    "score": 2421,
    "name": "omberzombie"
   },
   {
-   "place": 19,
+   "place": 20,
    "score": 2416,
    "name": "Mihakiy"
-  },
-  {
-   "place": 20,
-   "score": 2357,
-   "name": "Chekov"
   },
   {
    "place": 21,
@@ -127,133 +127,133 @@
   },
   {
    "place": 25,
+   "score": 2226,
+   "name": "T4nkd"
+  },
+  {
+   "place": 26,
    "score": 2209,
    "name": "pauk"
   },
   {
-   "place": 26,
+   "place": 27,
    "score": 2203,
    "name": "JPJuanma"
   },
   {
-   "place": 27,
+   "place": 28,
    "score": 2191,
    "name": "GodWeasel"
   },
   {
-   "place": 28,
+   "place": 29,
    "score": 2189,
    "name": "penguin_panguin"
   },
   {
-   "place": 29,
+   "place": 30,
    "score": 2189,
    "name": "Sugartoast"
   },
   {
-   "place": 30,
+   "place": 31,
    "score": 2181,
    "name": "WhoAmIDoctor"
   },
   {
-   "place": 31,
+   "place": 32,
    "score": 2179,
    "name": "imsobad"
   },
   {
-   "place": 32,
+   "place": 33,
    "score": 2176,
    "name": "Kjeldahl"
   },
   {
-   "place": 33,
+   "place": 34,
    "score": 2175,
    "name": "dagumym"
   },
   {
-   "place": 34,
+   "place": 35,
+   "score": 2166,
+   "name": "lautinho"
+  },
+  {
+   "place": 36,
    "score": 2148,
    "name": "Cottonpickin'"
   },
   {
-   "place": 35,
+   "place": 37,
    "score": 2111,
    "name": "Draghmar 🐲"
   },
   {
-   "place": 36,
+   "place": 38,
    "score": 2089,
    "name": "9Tsubaki9"
   },
   {
-   "place": 37,
+   "place": 39,
    "score": 2084,
    "name": "rarisu03"
   },
   {
-   "place": 38,
+   "place": 40,
+   "score": 2076,
+   "name": "kindair"
+  },
+  {
+   "place": 41,
    "score": 2063,
    "name": "slavetoinsomnia"
   },
   {
-   "place": 39,
+   "place": 42,
    "score": 2049,
    "name": "🤘"
   },
   {
-   "place": 40,
+   "place": 43,
    "score": 2041,
    "name": "Hitori"
   },
   {
-   "place": 41,
+   "place": 44,
    "score": 2030,
    "name": "NutriaHirsch"
   },
   {
-   "place": 42,
+   "place": 45,
    "score": 2029,
    "name": "TheGreatestJakeToHave_EverJaked"
   },
   {
-   "place": 43,
+   "place": 46,
    "score": 2022,
    "name": "dsbdn4"
   },
   {
-   "place": 44,
+   "place": 47,
    "score": 2014,
    "name": "Braunze"
   },
   {
-   "place": 45,
+   "place": 48,
+   "score": 1997,
+   "name": "CoyotOne1"
+  },
+  {
+   "place": 49,
    "score": 1987,
    "name": "Пупырчик"
   },
   {
-   "place": 46,
+   "place": 50,
    "score": 1942,
    "name": "Birch"
-  },
-  {
-   "place": 47,
-   "score": 1919,
-   "name": "kevinmakiyo502"
-  },
-  {
-   "place": 48,
-   "score": 1883,
-   "name": "donutman"
-  },
-  {
-   "place": 49,
-   "score": 1860,
-   "name": "tnqls3958"
-  },
-  {
-   "place": 50,
-   "score": 1838,
-   "name": "yustetop"
   }
  ]
 }

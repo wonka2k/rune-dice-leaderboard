@@ -2,8 +2,8 @@
  "kind": "daily",
  "period": "2026-11-12",
  "final": true,
- "updatedUtc": "2026-11-13T00:07:05+00:00",
- "players": 86,
+ "updatedUtc": "2026-11-13T18:40:19+00:00",
+ "players": 87,
  "top": [
   {
    "place": 1,
@@ -142,118 +142,118 @@
   },
   {
    "place": 28,
+   "score": 3601,
+   "name": "Sarcasimo"
+  },
+  {
+   "place": 29,
    "score": 3600,
    "name": "GumboVariations"
   },
   {
-   "place": 29,
+   "place": 30,
    "score": 3598,
    "name": "GodWeasel"
   },
   {
-   "place": 30,
+   "place": 31,
    "score": 3544,
    "name": "romantiqueamour01"
   },
   {
-   "place": 31,
+   "place": 32,
    "score": 3485,
    "name": "Solenya00"
   },
   {
-   "place": 32,
+   "place": 33,
    "score": 3410,
    "name": "KaotikKing"
   },
   {
-   "place": 33,
+   "place": 34,
    "score": 3400,
    "name": "LuLew"
   },
   {
-   "place": 34,
+   "place": 35,
    "score": 3399,
    "name": "Mosimj"
   },
   {
-   "place": 35,
+   "place": 36,
    "score": 3333,
    "name": "littlexander"
   },
   {
-   "place": 36,
+   "place": 37,
    "score": 3331,
    "name": "zerathize"
   },
   {
-   "place": 37,
+   "place": 38,
    "score": 3315,
    "name": "DLFReporter"
   },
   {
-   "place": 38,
+   "place": 39,
    "score": 3301,
    "name": "nknp11092019"
   },
   {
-   "place": 39,
+   "place": 40,
    "score": 3184,
    "name": "kaila.glass2014"
   },
   {
-   "place": 40,
+   "place": 41,
    "score": 3181,
    "name": "Solaris"
   },
   {
-   "place": 41,
+   "place": 42,
    "score": 3176,
    "name": "BigMonkay"
   },
   {
-   "place": 42,
+   "place": 43,
    "score": 3168,
    "name": "dagumym"
   },
   {
-   "place": 43,
+   "place": 44,
    "score": 3116,
    "name": "jonchristensen30"
   },
   {
-   "place": 44,
+   "place": 45,
    "score": 3046,
    "name": "Jim Lahey"
   },
   {
-   "place": 45,
+   "place": 46,
    "score": 3036,
    "name": "will.palmer"
   },
   {
-   "place": 46,
+   "place": 47,
    "score": 3029,
    "name": "Pitbull2"
   },
   {
-   "place": 47,
+   "place": 48,
    "score": 3026,
    "name": "Magellann"
   },
   {
-   "place": 48,
+   "place": 49,
    "score": 3021,
    "name": "juliosisson"
   },
   {
-   "place": 49,
+   "place": 50,
    "score": 3003,
    "name": "TastesLikeGator"
-  },
-  {
-   "place": 50,
-   "score": 2940,
-   "name": "Hamsterka"
   }
  ]
 }
