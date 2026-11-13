@@ -2,7 +2,7 @@
  "kind": "monthly",
  "period": "2026-11",
  "final": false,
- "updatedUtc": "2026-11-13T06:32:28+00:00",
+ "updatedUtc": "2026-11-13T06:55:35+00:00",
  "rules": {
   "points": [
    25,
@@ -472,7 +472,7 @@
   },
   {
    "place": 46,
-   "name": "Thanabelle",
+   "name": "TheGoodMisterH",
    "points": 6,
    "dailyPoints": 1,
    "weeklyPoints": 5,
@@ -482,6 +482,16 @@
   },
   {
    "place": 47,
+   "name": "Thanabelle",
+   "points": 6,
+   "dailyPoints": 1,
+   "weeklyPoints": 5,
+   "wins": 0,
+   "top10": 0,
+   "played": 2
+  },
+  {
+   "place": 48,
    "name": "MitterMak",
    "points": 5,
    "dailyPoints": 0,
@@ -491,7 +501,7 @@
    "played": 1
   },
   {
-   "place": 48,
+   "place": 49,
    "name": "cnh1289",
    "points": 5,
    "dailyPoints": 0,
@@ -501,18 +511,8 @@
    "played": 1
   },
   {
-   "place": 49,
-   "name": "Neycon",
-   "points": 5,
-   "dailyPoints": 0,
-   "weeklyPoints": 5,
-   "wins": 0,
-   "top10": 0,
-   "played": 1
-  },
-  {
    "place": 50,
-   "name": "wheatgerm",
+   "name": "Neycon",
    "points": 5,
    "dailyPoints": 0,
    "weeklyPoints": 5,

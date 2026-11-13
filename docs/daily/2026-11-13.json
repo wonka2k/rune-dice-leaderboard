@@ -2,8 +2,8 @@
  "kind": "daily",
  "period": "2026-11-13",
  "final": false,
- "updatedUtc": "2026-11-13T06:32:28+00:00",
- "players": 43,
+ "updatedUtc": "2026-11-13T06:55:35+00:00",
+ "players": 45,
  "top": [
   {
    "place": 1,
@@ -62,68 +62,68 @@
   },
   {
    "place": 12,
+   "score": 2209,
+   "name": "pauk"
+  },
+  {
+   "place": 13,
    "score": 2203,
    "name": "JPJuanma"
   },
   {
-   "place": 13,
+   "place": 14,
    "score": 2179,
    "name": "imsobad"
   },
   {
-   "place": 14,
+   "place": 15,
    "score": 2175,
    "name": "dagumym"
   },
   {
-   "place": 15,
+   "place": 16,
    "score": 2063,
    "name": "slavetoinsomnia"
   },
   {
-   "place": 16,
+   "place": 17,
    "score": 2014,
    "name": "Braunze"
   },
   {
-   "place": 17,
+   "place": 18,
    "score": 1883,
    "name": "donutman"
   },
   {
-   "place": 18,
+   "place": 19,
    "score": 1867,
    "name": "GodWeasel"
   },
   {
-   "place": 19,
+   "place": 20,
    "score": 1817,
    "name": "yakouyugyo"
   },
   {
-   "place": 20,
+   "place": 21,
    "score": 1775,
    "name": "TheGoodMisterH"
   },
   {
-   "place": 21,
+   "place": 22,
    "score": 1738,
    "name": "tranhoanvu123"
   },
   {
-   "place": 22,
+   "place": 23,
    "score": 1655,
    "name": "Goblin"
   },
   {
-   "place": 23,
+   "place": 24,
    "score": 1652,
    "name": "Taeil"
-  },
-  {
-   "place": 24,
-   "score": 1583,
-   "name": "pauk"
   },
   {
    "place": 25,
@@ -152,73 +152,83 @@
   },
   {
    "place": 30,
+   "score": 1507,
+   "name": "Dingus"
+  },
+  {
+   "place": 31,
    "score": 1486,
    "name": "Thanabelle"
   },
   {
-   "place": 31,
+   "place": 32,
    "score": 1484,
    "name": "nknp11092019"
   },
   {
-   "place": 32,
+   "place": 33,
    "score": 1482,
    "name": "overkill314"
   },
   {
-   "place": 33,
+   "place": 34,
    "score": 1378,
    "name": "Ryuka"
   },
   {
-   "place": 34,
+   "place": 35,
    "score": 1368,
    "name": "GumboVariations"
   },
   {
-   "place": 35,
+   "place": 36,
    "score": 1365,
    "name": "Leonardo"
   },
   {
-   "place": 36,
+   "place": 37,
    "score": 1358,
    "name": "deathofspam"
   },
   {
-   "place": 37,
+   "place": 38,
    "score": 1354,
    "name": "Fyre_"
   },
   {
-   "place": 38,
+   "place": 39,
    "score": 1338,
    "name": "Unemployed duke"
   },
   {
-   "place": 39,
+   "place": 40,
    "score": 1298,
    "name": "petmad"
   },
   {
-   "place": 40,
+   "place": 41,
    "score": 1257,
    "name": "OrbOfConfusion"
   },
   {
-   "place": 41,
+   "place": 42,
    "score": 1161,
    "name": "Lucas Amorim"
   },
   {
-   "place": 42,
+   "place": 43,
    "score": 1155,
    "name": "whorblase"
   },
   {
-   "place": 43,
+   "place": 44,
    "score": 1021,
    "name": "djmofunk"
+  },
+  {
+   "place": 45,
+   "score": 852,
+   "name": "_makina_"
   }
  ]
 }

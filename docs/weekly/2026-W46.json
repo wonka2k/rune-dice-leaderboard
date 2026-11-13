@@ -2,8 +2,8 @@
  "kind": "weekly",
  "period": "2026-W46",
  "final": false,
- "updatedUtc": "2026-11-13T06:32:28+00:00",
- "players": 41,
+ "updatedUtc": "2026-11-13T06:55:35+00:00",
+ "players": 42,
  "top": [
   {
    "place": 1,
@@ -202,11 +202,16 @@
   },
   {
    "place": 40,
+   "score": 938,
+   "name": "TheGoodMisterH"
+  },
+  {
+   "place": 41,
    "score": 926,
    "name": "TastesLikeGator"
   },
   {
-   "place": 41,
+   "place": 42,
    "score": 883,
    "name": "Thanabelle"
   }
