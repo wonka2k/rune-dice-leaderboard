@@ -2,7 +2,7 @@
  "kind": "monthly",
  "period": "2026-11",
  "final": false,
- "updatedUtc": "2026-11-13T21:54:38+00:00",
+ "updatedUtc": "2026-11-13T22:47:29+00:00",
  "rules": {
   "points": [
    25,
@@ -223,12 +223,12 @@
   {
    "place": 21,
    "name": "edtion",
-   "points": 7,
-   "dailyPoints": 2,
+   "points": 8,
+   "dailyPoints": 3,
    "weeklyPoints": 5,
    "wins": 0,
    "top10": 1,
-   "played": 2
+   "played": 3
   },
   {
    "place": 22,
