@@ -2,133 +2,258 @@
  "kind": "daily",
  "period": "2026-11-14",
  "final": false,
- "updatedUtc": "2026-11-14T02:14:44+00:00",
- "players": 25,
+ "updatedUtc": "2026-11-14T10:05:30+00:00",
+ "players": 69,
  "top": [
   {
    "place": 1,
-   "score": 5711,
-   "name": "smart.raven"
+   "score": 6973,
+   "name": "pplzu"
   },
   {
    "place": 2,
-   "score": 5597,
+   "score": 6820,
    "name": "Snafu"
   },
   {
    "place": 3,
+   "score": 5742,
+   "name": "xiyou666"
+  },
+  {
+   "place": 4,
+   "score": 5711,
+   "name": "smart.raven"
+  },
+  {
+   "place": 5,
+   "score": 5597,
+   "name": "Lucyans"
+  },
+  {
+   "place": 6,
    "score": 5233,
    "name": "pigionwithtophat"
   },
   {
-   "place": 4,
-   "score": 5110,
-   "name": "Lucyans"
+   "place": 7,
+   "score": 4950,
+   "name": "thor"
   },
   {
-   "place": 5,
+   "place": 8,
+   "score": 4784,
+   "name": "JPJuanma"
+  },
+  {
+   "place": 9,
+   "score": 4735,
+   "name": "bichler70"
+  },
+  {
+   "place": 10,
+   "score": 4562,
+   "name": "NumberRaj"
+  },
+  {
+   "place": 11,
+   "score": 4473,
+   "name": "Radaxor"
+  },
+  {
+   "place": 12,
+   "score": 4467,
+   "name": "Slightly Toasted"
+  },
+  {
+   "place": 13,
+   "score": 4389,
+   "name": "edtion"
+  },
+  {
+   "place": 14,
+   "score": 4325,
+   "name": "GumboVariations"
+  },
+  {
+   "place": 15,
    "score": 4276,
    "name": "Wooster"
   },
   {
-   "place": 6,
+   "place": 16,
+   "score": 4019,
+   "name": "Zedax"
+  },
+  {
+   "place": 17,
+   "score": 4000,
+   "name": "위드미야"
+  },
+  {
+   "place": 18,
+   "score": 3935,
+   "name": "打得过我，我认作你爹"
+  },
+  {
+   "place": 19,
+   "score": 3929,
+   "name": "gcillo"
+  },
+  {
+   "place": 20,
+   "score": 3776,
+   "name": "干掉他们"
+  },
+  {
+   "place": 21,
    "score": 3612,
    "name": "GodWeasel"
   },
   {
-   "place": 7,
+   "place": 22,
+   "score": 3545,
+   "name": "Dingus"
+  },
+  {
+   "place": 23,
    "score": 3531,
    "name": "NightMonkey"
   },
   {
-   "place": 8,
+   "place": 24,
+   "score": 3527,
+   "name": "wheatgerm"
+  },
+  {
+   "place": 25,
+   "score": 3493,
+   "name": "FAB"
+  },
+  {
+   "place": 26,
+   "score": 3414,
+   "name": "nknp11092019"
+  },
+  {
+   "place": 27,
+   "score": 3398,
+   "name": "Lucktally"
+  },
+  {
+   "place": 28,
+   "score": 3384,
+   "name": "Occultist"
+  },
+  {
+   "place": 29,
    "score": 3259,
    "name": "Stickman"
   },
   {
-   "place": 9,
+   "place": 30,
+   "score": 3150,
+   "name": "Afebrilefiend"
+  },
+  {
+   "place": 31,
    "score": 3090,
    "name": "Fyre_"
   },
   {
-   "place": 10,
+   "place": 32,
    "score": 3078,
    "name": "omberzombie"
   },
   {
-   "place": 11,
+   "place": 33,
+   "score": 3058,
+   "name": "sexyyaron"
+  },
+  {
+   "place": 34,
+   "score": 3048,
+   "name": "slavetoinsomnia"
+  },
+  {
+   "place": 35,
    "score": 3045,
    "name": "w i n d u u f m"
   },
   {
-   "place": 12,
+   "place": 36,
    "score": 3032,
    "name": "donutman"
   },
   {
-   "place": 13,
+   "place": 37,
+   "score": 3027,
+   "name": "grichill"
+  },
+  {
+   "place": 38,
    "score": 3022,
    "name": "Kepslok"
   },
   {
-   "place": 14,
+   "place": 39,
    "score": 2995,
    "name": "ValorX"
   },
   {
-   "place": 15,
+   "place": 40,
    "score": 2987,
    "name": "Tobal's Brothers"
   },
   {
-   "place": 16,
+   "place": 41,
+   "score": 2970,
+   "name": "Stern Howard"
+  },
+  {
+   "place": 42,
+   "score": 2946,
+   "name": "Vicktorious93"
+  },
+  {
+   "place": 43,
+   "score": 2926,
+   "name": "pjhkh9191"
+  },
+  {
+   "place": 44,
+   "score": 2833,
+   "name": "SUN＿SUN＿SUN＿３"
+  },
+  {
+   "place": 45,
+   "score": 2821,
+   "name": "fuzzyfeet"
+  },
+  {
+   "place": 46,
+   "score": 2759,
+   "name": "marta.skotny"
+  },
+  {
+   "place": 47,
    "score": 2737,
    "name": "drkael"
   },
   {
-   "place": 17,
+   "place": 48,
+   "score": 2707,
+   "name": "Mankoide"
+  },
+  {
+   "place": 49,
+   "score": 2684,
+   "name": "lautinho"
+  },
+  {
+   "place": 50,
    "score": 2649,
    "name": "Jay Shadow"
-  },
-  {
-   "place": 18,
-   "score": 2460,
-   "name": "Occultist"
-  },
-  {
-   "place": 19,
-   "score": 2444,
-   "name": "sammydeedge"
-  },
-  {
-   "place": 20,
-   "score": 2403,
-   "name": "Discovirus"
-  },
-  {
-   "place": 21,
-   "score": 2257,
-   "name": "ralkerton"
-  },
-  {
-   "place": 22,
-   "score": 2190,
-   "name": "Sai"
-  },
-  {
-   "place": 23,
-   "score": 1872,
-   "name": "greg.saunders"
-  },
-  {
-   "place": 24,
-   "score": 1446,
-   "name": "_makina_"
-  },
-  {
-   "place": 25,
-   "score": 346,
-   "name": "Intrinsic Mayhem"
   }
  ]
 }
