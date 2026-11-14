@@ -2,118 +2,118 @@
  "kind": "daily",
  "period": "2026-11-14",
  "final": false,
- "updatedUtc": "2026-11-14T19:44:45+00:00",
- "players": 134,
+ "updatedUtc": "2026-11-14T20:32:55+00:00",
+ "players": 135,
  "top": [
   {
    "place": 1,
-   "score": 13211,
-   "name": "DavoScript"
-  },
-  {
-   "place": 2,
    "score": 7460,
    "name": "skrrtBaba"
   },
   {
-   "place": 3,
+   "place": 2,
    "score": 6991,
    "name": "Guilhão"
   },
   {
-   "place": 4,
+   "place": 3,
    "score": 6975,
    "name": "JPJuanma"
   },
   {
-   "place": 5,
+   "place": 4,
    "score": 6973,
    "name": "pplzu"
   },
   {
-   "place": 6,
+   "place": 5,
    "score": 6820,
    "name": "Snafu"
   },
   {
-   "place": 7,
+   "place": 6,
    "score": 6347,
    "name": "tnqls3958"
   },
   {
-   "place": 8,
+   "place": 7,
    "score": 5742,
    "name": "xiyou666"
   },
   {
-   "place": 9,
+   "place": 8,
    "score": 5711,
    "name": "smart.raven"
   },
   {
-   "place": 10,
+   "place": 9,
    "score": 5597,
    "name": "Lucyans"
   },
   {
-   "place": 11,
+   "place": 10,
    "score": 5233,
    "name": "pigionwithtophat"
   },
   {
-   "place": 12,
+   "place": 11,
    "score": 5089,
    "name": "Sirmylesavery"
   },
   {
-   "place": 13,
+   "place": 12,
    "score": 4950,
    "name": "thor"
   },
   {
-   "place": 14,
+   "place": 13,
    "score": 4735,
    "name": "bichler70"
   },
   {
-   "place": 15,
+   "place": 14,
    "score": 4562,
    "name": "NumberRaj"
   },
   {
-   "place": 16,
+   "place": 15,
    "score": 4555,
    "name": "kosmos-s"
   },
   {
-   "place": 17,
+   "place": 16,
    "score": 4523,
    "name": "WhoAmIDoctor"
   },
   {
-   "place": 18,
+   "place": 17,
    "score": 4473,
    "name": "Radaxor"
   },
   {
-   "place": 19,
+   "place": 18,
    "score": 4469,
    "name": "NightMonkey"
   },
   {
-   "place": 20,
+   "place": 19,
    "score": 4467,
    "name": "Slightly Toasted"
   },
   {
-   "place": 21,
+   "place": 20,
    "score": 4445,
    "name": "Luna寧"
   },
   {
-   "place": 22,
+   "place": 21,
    "score": 4389,
    "name": "edtion"
+  },
+  {
+   "place": 22,
+   "score": 4378,
+   "name": "SwedishIG"
   },
   {
    "place": 23,
@@ -252,8 +252,8 @@
   },
   {
    "place": 50,
-   "score": 3189,
-   "name": "BriGht_Nezz"
+   "score": 3210,
+   "name": "ℳê†ã¢ã†"
   }
  ]
 }
