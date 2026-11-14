@@ -2,7 +2,7 @@
  "kind": "monthly",
  "period": "2026-11",
  "final": false,
- "updatedUtc": "2026-11-14T20:32:55+00:00",
+ "updatedUtc": "2026-11-14T21:20:22+00:00",
  "rules": {
   "points": [
    25,
@@ -43,12 +43,12 @@
   {
    "place": 3,
    "name": "toranaga1985",
-   "points": 79,
-   "dailyPoints": 19,
+   "points": 80,
+   "dailyPoints": 20,
    "weeklyPoints": 60,
    "wins": 0,
-   "top10": 2,
-   "played": 3
+   "top10": 3,
+   "played": 4
   },
   {
    "place": 4,
@@ -77,7 +77,7 @@
    "dailyPoints": 2,
    "weeklyPoints": 40,
    "wins": 0,
-   "top10": 2,
+   "top10": 1,
    "played": 3
   },
   {
