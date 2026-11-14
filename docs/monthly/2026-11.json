@@ -2,7 +2,7 @@
  "kind": "monthly",
  "period": "2026-11",
  "final": false,
- "updatedUtc": "2026-11-14T21:20:22+00:00",
+ "updatedUtc": "2026-11-14T23:18:02+00:00",
  "rules": {
   "points": [
    25,
@@ -332,7 +332,7 @@
   },
   {
    "place": 32,
-   "name": "omberzombie",
+   "name": "donutman",
    "points": 7,
    "dailyPoints": 2,
    "weeklyPoints": 5,
@@ -452,7 +452,7 @@
   },
   {
    "place": 44,
-   "name": "Draghmar 🐲",
+   "name": "omberzombie",
    "points": 7,
    "dailyPoints": 2,
    "weeklyPoints": 5,
@@ -462,7 +462,7 @@
   },
   {
    "place": 45,
-   "name": "lautinho",
+   "name": "Draghmar 🐲",
    "points": 7,
    "dailyPoints": 2,
    "weeklyPoints": 5,
@@ -472,7 +472,7 @@
   },
   {
    "place": 46,
-   "name": "kindair",
+   "name": "lautinho",
    "points": 7,
    "dailyPoints": 2,
    "weeklyPoints": 5,
@@ -482,7 +482,7 @@
   },
   {
    "place": 47,
-   "name": "slavetoinsomnia",
+   "name": "kindair",
    "points": 7,
    "dailyPoints": 2,
    "weeklyPoints": 5,
@@ -492,7 +492,7 @@
   },
   {
    "place": 48,
-   "name": "Hitori",
+   "name": "slavetoinsomnia",
    "points": 7,
    "dailyPoints": 2,
    "weeklyPoints": 5,
@@ -502,7 +502,7 @@
   },
   {
    "place": 49,
-   "name": "Пупырчик",
+   "name": "Hitori",
    "points": 7,
    "dailyPoints": 2,
    "weeklyPoints": 5,
@@ -512,7 +512,7 @@
   },
   {
    "place": 50,
-   "name": "donutman",
+   "name": "Пупырчик",
    "points": 7,
    "dailyPoints": 2,
    "weeklyPoints": 5,
