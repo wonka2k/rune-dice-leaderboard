@@ -2,8 +2,8 @@
  "kind": "weekly",
  "period": "2026-W46",
  "final": false,
- "updatedUtc": "2026-11-14T00:53:20+00:00",
- "players": 80,
+ "updatedUtc": "2026-11-14T02:14:44+00:00",
+ "players": 81,
  "top": [
   {
    "place": 1,
@@ -52,43 +52,43 @@
   },
   {
    "place": 10,
+   "score": 11461,
+   "name": "Mosimj"
+  },
+  {
+   "place": 11,
    "score": 11417,
    "name": "nknp11092019"
   },
   {
-   "place": 11,
+   "place": 12,
    "score": 11352,
    "name": "Killerletz"
   },
   {
-   "place": 12,
+   "place": 13,
    "score": 11298,
    "name": "JPJuanma"
   },
   {
-   "place": 13,
+   "place": 14,
    "score": 10998,
    "name": "Unemployed duke"
   },
   {
-   "place": 14,
+   "place": 15,
    "score": 10834,
    "name": "no-kitty-no-life"
   },
   {
-   "place": 15,
+   "place": 16,
    "score": 10554,
    "name": "penguin_panguin"
   },
   {
-   "place": 16,
+   "place": 17,
    "score": 10214,
    "name": "GumboVariations"
-  },
-  {
-   "place": 17,
-   "score": 10205,
-   "name": "Mosimj"
   },
   {
    "place": 18,
