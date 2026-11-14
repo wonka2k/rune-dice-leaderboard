@@ -1,0 +1,74 @@
+{
+ "kind": "daily",
+ "period": "2026-11-14",
+ "final": false,
+ "updatedUtc": "2026-11-14T00:53:20+00:00",
+ "players": 13,
+ "top": [
+  {
+   "place": 1,
+   "score": 5110,
+   "name": "Lucyans"
+  },
+  {
+   "place": 2,
+   "score": 4276,
+   "name": "Wooster"
+  },
+  {
+   "place": 3,
+   "score": 3612,
+   "name": "GodWeasel"
+  },
+  {
+   "place": 4,
+   "score": 3259,
+   "name": "Stickman"
+  },
+  {
+   "place": 5,
+   "score": 2995,
+   "name": "ValorX"
+  },
+  {
+   "place": 6,
+   "score": 2987,
+   "name": "Tobal's Brothers"
+  },
+  {
+   "place": 7,
+   "score": 2748,
+   "name": "Fyre_"
+  },
+  {
+   "place": 8,
+   "score": 2737,
+   "name": "drkael"
+  },
+  {
+   "place": 9,
+   "score": 2649,
+   "name": "Jay Shadow"
+  },
+  {
+   "place": 10,
+   "score": 2257,
+   "name": "ralkerton"
+  },
+  {
+   "place": 11,
+   "score": 1446,
+   "name": "_makina_"
+  },
+  {
+   "place": 12,
+   "score": 346,
+   "name": "Intrinsic Mayhem"
+  },
+  {
+   "place": 13,
+   "score": 334,
+   "name": "Snafu"
+  }
+ ]
+}

@@ -2,8 +2,8 @@
  "kind": "weekly",
  "period": "2026-W46",
  "final": false,
- "updatedUtc": "2026-11-13T22:47:29+00:00",
- "players": 76,
+ "updatedUtc": "2026-11-14T00:53:20+00:00",
+ "players": 80,
  "top": [
   {
    "place": 1,
@@ -177,83 +177,83 @@
   },
   {
    "place": 35,
+   "score": 8911,
+   "name": "Lucyans"
+  },
+  {
+   "place": 36,
    "score": 8648,
    "name": "MitterMak"
   },
   {
-   "place": 36,
+   "place": 37,
    "score": 8613,
    "name": "Command_a"
   },
   {
-   "place": 37,
+   "place": 38,
    "score": 8580,
    "name": "smart.raven"
   },
   {
-   "place": 38,
+   "place": 39,
    "score": 8576,
    "name": "cnh1289"
   },
   {
-   "place": 39,
+   "place": 40,
+   "score": 8554,
+   "name": "skrrtBaba"
+  },
+  {
+   "place": 41,
    "score": 8321,
    "name": "abab112200"
   },
   {
-   "place": 40,
+   "place": 42,
    "score": 8184,
    "name": "위드미야"
   },
   {
-   "place": 41,
-   "score": 8067,
-   "name": "Lucyans"
-  },
-  {
-   "place": 42,
+   "place": 43,
    "score": 7933,
    "name": "omberzombie"
   },
   {
-   "place": 43,
+   "place": 44,
    "score": 7863,
    "name": "stealth"
   },
   {
-   "place": 44,
+   "place": 45,
    "score": 7782,
    "name": "viann.tv2020"
   },
   {
-   "place": 45,
+   "place": 46,
    "score": 7420,
    "name": "Hitori"
   },
   {
-   "place": 46,
+   "place": 47,
    "score": 7408,
    "name": "Lykurgos"
   },
   {
-   "place": 47,
+   "place": 48,
    "score": 7182,
    "name": "Chekov"
   },
   {
-   "place": 48,
-   "score": 6997,
-   "name": "T4nkd"
-  },
-  {
    "place": 49,
-   "score": 6636,
-   "name": "funahky0072"
+   "score": 7135,
+   "name": "Goblin"
   },
   {
    "place": 50,
-   "score": 6491,
-   "name": "Kjeldahl"
+   "score": 6997,
+   "name": "T4nkd"
   }
  ]
 }
