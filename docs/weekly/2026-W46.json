@@ -2,8 +2,8 @@
  "kind": "weekly",
  "period": "2026-W46",
  "final": false,
- "updatedUtc": "2026-11-14T16:33:50+00:00",
- "players": 109,
+ "updatedUtc": "2026-11-14T19:44:45+00:00",
+ "players": 114,
  "top": [
   {
    "place": 1,
@@ -87,23 +87,23 @@
   },
   {
    "place": 17,
+   "score": 11284,
+   "name": "NumberRaj"
+  },
+  {
+   "place": 18,
    "score": 11268,
    "name": "harmlessmostly"
   },
   {
-   "place": 18,
+   "place": 19,
    "score": 11023,
    "name": "grichill"
   },
   {
-   "place": 19,
+   "place": 20,
    "score": 10998,
    "name": "Unemployed duke"
-  },
-  {
-   "place": 20,
-   "score": 10889,
-   "name": "NumberRaj"
   },
   {
    "place": 21,
@@ -152,108 +152,108 @@
   },
   {
    "place": 30,
+   "score": 9928,
+   "name": "pjhkh9191"
+  },
+  {
+   "place": 31,
    "score": 9628,
    "name": "WhoAmIDoctor"
   },
   {
-   "place": 31,
+   "place": 32,
    "score": 9593,
    "name": "h0ppet0ssE"
   },
   {
-   "place": 32,
+   "place": 33,
    "score": 9587,
    "name": "kaila.glass2014"
   },
   {
-   "place": 33,
+   "place": 34,
    "score": 9571,
    "name": "lautinho"
   },
   {
-   "place": 34,
+   "place": 35,
    "score": 9533,
    "name": "donutman"
   },
   {
-   "place": 35,
+   "place": 36,
    "score": 9495,
    "name": "Guilhão"
   },
   {
-   "place": 36,
+   "place": 37,
    "score": 9475,
    "name": "edtion"
   },
   {
-   "place": 37,
+   "place": 38,
+   "score": 9451,
+   "name": "kindair"
+  },
+  {
+   "place": 39,
    "score": 9353,
    "name": "위드미야"
   },
   {
-   "place": 38,
+   "place": 40,
    "score": 9328,
    "name": "KaotikKing"
   },
   {
-   "place": 39,
+   "place": 41,
    "score": 9323,
    "name": "Vicktorious93"
   },
   {
-   "place": 40,
+   "place": 42,
    "score": 9307,
    "name": "GodWeasel"
   },
   {
-   "place": 41,
+   "place": 43,
    "score": 9304,
    "name": "Velvet_Hospital"
   },
   {
-   "place": 42,
+   "place": 44,
    "score": 9303,
    "name": "sealink66"
   },
   {
-   "place": 43,
+   "place": 45,
    "score": 9267,
    "name": "wAyAw"
   },
   {
-   "place": 44,
+   "place": 46,
    "score": 9202,
    "name": "Kamil.EXE"
   },
   {
-   "place": 45,
+   "place": 47,
    "score": 9112,
    "name": "Undead"
   },
   {
-   "place": 46,
+   "place": 48,
    "score": 9053,
    "name": "Birch"
   },
   {
-   "place": 47,
+   "place": 49,
    "score": 8961,
    "name": "🤘"
   },
   {
-   "place": 48,
+   "place": 50,
    "score": 8911,
    "name": "Lucyans"
-  },
-  {
-   "place": 49,
-   "score": 8797,
-   "name": "NightMonkey"
-  },
-  {
-   "place": 50,
-   "score": 8648,
-   "name": "MitterMak"
   }
  ]
 }
