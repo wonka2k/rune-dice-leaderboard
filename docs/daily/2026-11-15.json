@@ -2,93 +2,128 @@
  "kind": "daily",
  "period": "2026-11-15",
  "final": false,
- "updatedUtc": "2026-11-15T02:25:32+00:00",
- "players": 17,
+ "updatedUtc": "2026-11-15T03:54:51+00:00",
+ "players": 24,
  "top": [
   {
    "place": 1,
-   "score": 4667,
-   "name": "imsobad"
+   "score": 6301,
+   "name": "Snafu"
   },
   {
    "place": 2,
+   "score": 5012,
+   "name": "imsobad"
+  },
+  {
+   "place": 3,
    "score": 4321,
    "name": "toranaga1985"
   },
   {
-   "place": 3,
+   "place": 4,
    "score": 4174,
    "name": "Stern Howard"
   },
   {
-   "place": 4,
+   "place": 5,
+   "score": 3958,
+   "name": "smart.raven"
+  },
+  {
+   "place": 6,
    "score": 3508,
    "name": "LuLew"
   },
   {
-   "place": 5,
+   "place": 7,
    "score": 3383,
    "name": "NightMonkey"
   },
   {
-   "place": 6,
+   "place": 8,
    "score": 3231,
    "name": "omberzombie"
   },
   {
-   "place": 7,
+   "place": 9,
    "score": 3074,
    "name": "DewMaiden"
   },
   {
-   "place": 8,
+   "place": 10,
    "score": 3072,
    "name": "Lucktally"
   },
   {
-   "place": 9,
+   "place": 11,
    "score": 2826,
    "name": "Nugget"
   },
   {
-   "place": 10,
+   "place": 12,
    "score": 2726,
    "name": "Shimo"
   },
   {
-   "place": 11,
+   "place": 13,
    "score": 2571,
    "name": "EverVigilant"
   },
   {
-   "place": 12,
+   "place": 14,
    "score": 2456,
    "name": "platoon_nn"
   },
   {
-   "place": 13,
+   "place": 15,
+   "score": 2212,
+   "name": "greg.saunders"
+  },
+  {
+   "place": 16,
+   "score": 2190,
+   "name": "lautinho"
+  },
+  {
+   "place": 17,
    "score": 2009,
    "name": "WhoAmIDoctor"
   },
   {
-   "place": 14,
+   "place": 18,
    "score": 1836,
    "name": "TheGoodMisterH"
   },
   {
-   "place": 15,
+   "place": 19,
+   "score": 1638,
+   "name": "Mandy"
+  },
+  {
+   "place": 20,
+   "score": 705,
+   "name": "GREYWAY1997"
+  },
+  {
+   "place": 21,
    "score": 603,
    "name": "Slightly Toasted"
   },
   {
-   "place": 16,
+   "place": 22,
    "score": 516,
    "name": "薄暮笙"
   },
   {
-   "place": 17,
+   "place": 23,
    "score": 425,
    "name": "MajorBuzzKiller"
+  },
+  {
+   "place": 24,
+   "score": 416,
+   "name": "Demok"
   }
  ]
 }
