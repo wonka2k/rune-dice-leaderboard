@@ -2,8 +2,8 @@
  "kind": "daily",
  "period": "2026-11-15",
  "final": false,
- "updatedUtc": "2026-11-15T19:46:40+00:00",
- "players": 133,
+ "updatedUtc": "2026-11-15T21:39:30+00:00",
+ "players": 147,
  "top": [
   {
    "place": 1,
@@ -27,233 +27,233 @@
   },
   {
    "place": 5,
+   "score": 6049,
+   "name": "🤘"
+  },
+  {
+   "place": 6,
    "score": 5965,
    "name": "Lucyans"
   },
   {
-   "place": 6,
+   "place": 7,
    "score": 5655,
    "name": "Chekov"
   },
   {
-   "place": 7,
+   "place": 8,
    "score": 5639,
    "name": "Guilhão"
   },
   {
-   "place": 8,
-   "score": 5202,
-   "name": "🤘"
+   "place": 9,
+   "score": 5209,
+   "name": "skrrtBaba"
   },
   {
-   "place": 9,
+   "place": 10,
    "score": 5035,
    "name": "schiz87"
   },
   {
-   "place": 10,
+   "place": 11,
    "score": 5012,
    "name": "imsobad"
   },
   {
-   "place": 11,
+   "place": 12,
    "score": 4858,
    "name": "quinnbp1"
   },
   {
-   "place": 12,
+   "place": 13,
    "score": 4671,
    "name": "SwedishIG"
   },
   {
-   "place": 13,
+   "place": 14,
    "score": 4652,
    "name": "nknp11092019"
   },
   {
-   "place": 14,
+   "place": 15,
    "score": 4321,
    "name": "toranaga1985"
   },
   {
-   "place": 15,
+   "place": 16,
+   "score": 4288,
+   "name": "NightMonkey"
+  },
+  {
+   "place": 17,
+   "score": 4224,
+   "name": "Draghmar 🐲"
+  },
+  {
+   "place": 18,
    "score": 4223,
    "name": "pplzu"
   },
   {
-   "place": 16,
-   "score": 4204,
-   "name": "Draghmar 🐲"
-  },
-  {
-   "place": 17,
+   "place": 19,
    "score": 4179,
    "name": "Solanas"
   },
   {
-   "place": 18,
+   "place": 20,
    "score": 4174,
    "name": "Stern Howard"
   },
   {
-   "place": 19,
+   "place": 21,
    "score": 4055,
    "name": "nixleche"
   },
   {
-   "place": 20,
+   "place": 22,
+   "score": 3975,
+   "name": "numasan"
+  },
+  {
+   "place": 23,
    "score": 3962,
    "name": "GodWeasel"
   },
   {
-   "place": 21,
+   "place": 24,
    "score": 3958,
    "name": "smart.raven"
   },
   {
-   "place": 22,
+   "place": 25,
    "score": 3893,
    "name": "harmlessmostly"
   },
   {
-   "place": 23,
+   "place": 26,
    "score": 3883,
    "name": "Baalthazaq"
   },
   {
-   "place": 24,
+   "place": 27,
+   "score": 3882,
+   "name": "muntadas98"
+  },
+  {
+   "place": 28,
    "score": 3881,
    "name": "Qwert Zuiopü"
   },
   {
-   "place": 25,
+   "place": 29,
    "score": 3874,
    "name": "Killerletz"
   },
   {
-   "place": 26,
+   "place": 30,
    "score": 3762,
    "name": "thor"
   },
   {
-   "place": 27,
+   "place": 31,
    "score": 3717,
    "name": "ℳê†ã¢ã†"
   },
   {
-   "place": 28,
+   "place": 32,
    "score": 3699,
    "name": "theminty1"
   },
   {
-   "place": 29,
+   "place": 33,
    "score": 3656,
    "name": "Groudox"
   },
   {
-   "place": 30,
+   "place": 34,
    "score": 3651,
    "name": "Mr_Skitls"
   },
   {
-   "place": 31,
+   "place": 35,
    "score": 3617,
    "name": "prostofilat"
   },
   {
-   "place": 32,
+   "place": 36,
    "score": 3610,
    "name": "TellAJoke"
   },
   {
-   "place": 33,
+   "place": 37,
    "score": 3602,
    "name": "Command_a"
   },
   {
-   "place": 34,
+   "place": 38,
    "score": 3586,
    "name": "grichill"
   },
   {
-   "place": 35,
+   "place": 39,
    "score": 3575,
    "name": "daegone823"
   },
   {
-   "place": 36,
+   "place": 40,
    "score": 3565,
    "name": "Koybe"
   },
   {
-   "place": 37,
+   "place": 41,
    "score": 3534,
    "name": "Courtney Strike"
   },
   {
-   "place": 38,
+   "place": 42,
    "score": 3508,
    "name": "LuLew"
   },
   {
-   "place": 39,
+   "place": 43,
    "score": 3490,
    "name": "Judas"
   },
   {
-   "place": 40,
+   "place": 44,
    "score": 3438,
    "name": "Kaneki"
   },
   {
-   "place": 41,
+   "place": 45,
    "score": 3434,
    "name": "NutriaHirsch"
   },
   {
-   "place": 42,
-   "score": 3383,
-   "name": "NightMonkey"
-  },
-  {
-   "place": 43,
+   "place": 46,
    "score": 3383,
    "name": "lautinho"
   },
   {
-   "place": 44,
+   "place": 47,
    "score": 3362,
    "name": "Vg"
   },
   {
-   "place": 45,
+   "place": 48,
    "score": 3362,
    "name": "Unemployed duke"
   },
   {
-   "place": 46,
+   "place": 49,
    "score": 3341,
    "name": "夏姬八玩"
   },
   {
-   "place": 47,
+   "place": 50,
    "score": 3338,
    "name": "dagumym"
-  },
-  {
-   "place": 48,
-   "score": 3285,
-   "name": "Malicoire"
-  },
-  {
-   "place": 49,
-   "score": 3259,
-   "name": "Kepslok"
-  },
-  {
-   "place": 50,
-   "score": 3257,
-   "name": "yang"
   }
  ]
 }
