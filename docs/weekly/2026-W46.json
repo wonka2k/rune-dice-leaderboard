@@ -2,8 +2,8 @@
  "kind": "weekly",
  "period": "2026-W46",
  "final": false,
- "updatedUtc": "2026-11-15T16:57:36+00:00",
- "players": 133,
+ "updatedUtc": "2026-11-15T19:46:40+00:00",
+ "players": 135,
  "top": [
   {
    "place": 1,
@@ -182,78 +182,78 @@
   },
   {
    "place": 36,
+   "score": 10116,
+   "name": "slayred"
+  },
+  {
+   "place": 37,
    "score": 10074,
    "name": "kosmos-s"
   },
   {
-   "place": 37,
+   "place": 38,
    "score": 10054,
    "name": "w i n d u u f m"
   },
   {
-   "place": 38,
+   "place": 39,
    "score": 9928,
    "name": "pjhkh9191"
   },
   {
-   "place": 39,
+   "place": 40,
+   "score": 9806,
+   "name": "Ascent"
+  },
+  {
+   "place": 41,
    "score": 9628,
    "name": "WhoAmIDoctor"
   },
   {
-   "place": 40,
+   "place": 42,
    "score": 9593,
    "name": "h0ppet0ssE"
   },
   {
-   "place": 41,
+   "place": 43,
    "score": 9587,
    "name": "kaila.glass2014"
   },
   {
-   "place": 42,
+   "place": 44,
    "score": 9571,
    "name": "lautinho"
   },
   {
-   "place": 43,
+   "place": 45,
    "score": 9495,
    "name": "Guilhão"
   },
   {
-   "place": 44,
+   "place": 46,
    "score": 9475,
    "name": "edtion"
   },
   {
-   "place": 45,
+   "place": 47,
    "score": 9451,
    "name": "kindair"
   },
   {
-   "place": 46,
+   "place": 48,
    "score": 9380,
    "name": "bear0409"
   },
   {
-   "place": 47,
+   "place": 49,
    "score": 9353,
    "name": "위드미야"
   },
   {
-   "place": 48,
+   "place": 50,
    "score": 9328,
    "name": "KaotikKing"
-  },
-  {
-   "place": 49,
-   "score": 9323,
-   "name": "Vicktorious93"
-  },
-  {
-   "place": 50,
-   "score": 9307,
-   "name": "GodWeasel"
   }
  ]
 }
