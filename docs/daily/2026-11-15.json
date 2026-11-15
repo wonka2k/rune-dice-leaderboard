@@ -1,0 +1,69 @@
+{
+ "kind": "daily",
+ "period": "2026-11-15",
+ "final": false,
+ "updatedUtc": "2026-11-15T01:44:49+00:00",
+ "players": 12,
+ "top": [
+  {
+   "place": 1,
+   "score": 4667,
+   "name": "imsobad"
+  },
+  {
+   "place": 2,
+   "score": 4174,
+   "name": "Stern Howard"
+  },
+  {
+   "place": 3,
+   "score": 3508,
+   "name": "LuLew"
+  },
+  {
+   "place": 4,
+   "score": 3383,
+   "name": "NightMonkey"
+  },
+  {
+   "place": 5,
+   "score": 3231,
+   "name": "omberzombie"
+  },
+  {
+   "place": 6,
+   "score": 3074,
+   "name": "DewMaiden"
+  },
+  {
+   "place": 7,
+   "score": 3072,
+   "name": "Lucktally"
+  },
+  {
+   "place": 8,
+   "score": 2826,
+   "name": "Nugget"
+  },
+  {
+   "place": 9,
+   "score": 2571,
+   "name": "EverVigilant"
+  },
+  {
+   "place": 10,
+   "score": 2456,
+   "name": "platoon_nn"
+  },
+  {
+   "place": 11,
+   "score": 603,
+   "name": "Slightly Toasted"
+  },
+  {
+   "place": 12,
+   "score": 516,
+   "name": "薄暮笙"
+  }
+ ]
+}
