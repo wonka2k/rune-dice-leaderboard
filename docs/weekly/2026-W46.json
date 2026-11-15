@@ -2,7 +2,7 @@
  "kind": "weekly",
  "period": "2026-W46",
  "final": false,
- "updatedUtc": "2026-11-15T01:44:49+00:00",
+ "updatedUtc": "2026-11-15T02:25:32+00:00",
  "players": 118,
  "top": [
   {
@@ -132,128 +132,128 @@
   },
   {
    "place": 26,
+   "score": 10462,
+   "name": "NightMonkey"
+  },
+  {
+   "place": 27,
    "score": 10256,
    "name": "Neycon"
   },
   {
-   "place": 27,
+   "place": 28,
    "score": 10214,
    "name": "GumboVariations"
   },
   {
-   "place": 28,
+   "place": 29,
    "score": 10212,
    "name": "LVentz"
   },
   {
-   "place": 29,
+   "place": 30,
    "score": 10186,
    "name": "dagumym"
   },
   {
-   "place": 30,
+   "place": 31,
    "score": 10172,
    "name": "romantiqueamour01"
   },
   {
-   "place": 31,
+   "place": 32,
    "score": 10144,
    "name": "Draghmar 🐲"
   },
   {
-   "place": 32,
+   "place": 33,
    "score": 10054,
    "name": "w i n d u u f m"
   },
   {
-   "place": 33,
+   "place": 34,
    "score": 9928,
    "name": "pjhkh9191"
   },
   {
-   "place": 34,
+   "place": 35,
    "score": 9628,
    "name": "WhoAmIDoctor"
   },
   {
-   "place": 35,
+   "place": 36,
    "score": 9593,
    "name": "h0ppet0ssE"
   },
   {
-   "place": 36,
+   "place": 37,
    "score": 9587,
    "name": "kaila.glass2014"
   },
   {
-   "place": 37,
+   "place": 38,
    "score": 9571,
    "name": "lautinho"
   },
   {
-   "place": 38,
+   "place": 39,
    "score": 9495,
    "name": "Guilhão"
   },
   {
-   "place": 39,
+   "place": 40,
    "score": 9475,
    "name": "edtion"
   },
   {
-   "place": 40,
+   "place": 41,
    "score": 9451,
    "name": "kindair"
   },
   {
-   "place": 41,
+   "place": 42,
    "score": 9353,
    "name": "위드미야"
   },
   {
-   "place": 42,
+   "place": 43,
    "score": 9328,
    "name": "KaotikKing"
   },
   {
-   "place": 43,
+   "place": 44,
    "score": 9323,
    "name": "Vicktorious93"
   },
   {
-   "place": 44,
+   "place": 45,
    "score": 9307,
    "name": "GodWeasel"
   },
   {
-   "place": 45,
+   "place": 46,
    "score": 9304,
    "name": "Velvet_Hospital"
   },
   {
-   "place": 46,
+   "place": 47,
    "score": 9303,
    "name": "sealink66"
   },
   {
-   "place": 47,
+   "place": 48,
    "score": 9267,
    "name": "wAyAw"
   },
   {
-   "place": 48,
+   "place": 49,
    "score": 9202,
    "name": "Kamil.EXE"
   },
   {
-   "place": 49,
+   "place": 50,
    "score": 9112,
    "name": "Undead"
-  },
-  {
-   "place": 50,
-   "score": 9053,
-   "name": "Birch"
   }
  ]
 }
