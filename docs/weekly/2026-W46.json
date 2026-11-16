@@ -2,8 +2,8 @@
  "kind": "weekly",
  "period": "2026-W46",
  "final": false,
- "updatedUtc": "2026-11-16T04:33:00+00:00",
- "players": 145,
+ "updatedUtc": "2026-11-16T09:26:28+00:00",
+ "players": 148,
  "top": [
   {
    "place": 1,
@@ -172,88 +172,88 @@
   },
   {
    "place": 34,
+   "score": 10373,
+   "name": "micdu65"
+  },
+  {
+   "place": 35,
    "score": 10214,
    "name": "GumboVariations"
   },
   {
-   "place": 35,
+   "place": 36,
    "score": 10212,
    "name": "LVentz"
   },
   {
-   "place": 36,
+   "place": 37,
    "score": 10186,
    "name": "dagumym"
   },
   {
-   "place": 37,
+   "place": 38,
    "score": 10172,
    "name": "romantiqueamour01"
   },
   {
-   "place": 38,
+   "place": 39,
    "score": 10144,
    "name": "Draghmar 🐲"
   },
   {
-   "place": 39,
+   "place": 40,
    "score": 10116,
    "name": "slayred"
   },
   {
-   "place": 40,
+   "place": 41,
    "score": 10074,
    "name": "kosmos-s"
   },
   {
-   "place": 41,
+   "place": 42,
    "score": 10054,
    "name": "w i n d u u f m"
   },
   {
-   "place": 42,
+   "place": 43,
+   "score": 10037,
+   "name": "Blackrovert"
+  },
+  {
+   "place": 44,
    "score": 9928,
    "name": "pjhkh9191"
   },
   {
-   "place": 43,
+   "place": 45,
    "score": 9806,
    "name": "Ascent"
   },
   {
-   "place": 44,
+   "place": 46,
    "score": 9628,
    "name": "WhoAmIDoctor"
   },
   {
-   "place": 45,
+   "place": 47,
    "score": 9593,
    "name": "h0ppet0ssE"
   },
   {
-   "place": 46,
+   "place": 48,
    "score": 9587,
    "name": "kaila.glass2014"
   },
   {
-   "place": 47,
+   "place": 49,
    "score": 9571,
    "name": "lautinho"
   },
   {
-   "place": 48,
+   "place": 50,
    "score": 9495,
    "name": "Guilhão"
-  },
-  {
-   "place": 49,
-   "score": 9475,
-   "name": "edtion"
-  },
-  {
-   "place": 50,
-   "score": 9451,
-   "name": "kindair"
   }
  ]
 }

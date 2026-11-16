@@ -2,8 +2,8 @@
  "kind": "daily",
  "period": "2026-11-16",
  "final": false,
- "updatedUtc": "2026-11-16T04:33:00+00:00",
- "players": 32,
+ "updatedUtc": "2026-11-16T09:26:28+00:00",
+ "players": 54,
  "top": [
   {
    "place": 1,
@@ -12,13 +12,13 @@
   },
   {
    "place": 2,
-   "score": 2741,
-   "name": "Mihakiy"
+   "score": 2744,
+   "name": "Lucyans"
   },
   {
    "place": 3,
-   "score": 2671,
-   "name": "Lucyans"
+   "score": 2741,
+   "name": "Mihakiy"
   },
   {
    "place": 4,
@@ -27,142 +27,232 @@
   },
   {
    "place": 5,
+   "score": 2369,
+   "name": "Arasmas"
+  },
+  {
+   "place": 6,
    "score": 2367,
    "name": "GodWeasel"
   },
   {
-   "place": 6,
+   "place": 7,
    "score": 2302,
    "name": "nknp11092019"
   },
   {
-   "place": 7,
-   "score": 2089,
-   "name": "Slightly Toasted"
-  },
-  {
    "place": 8,
-   "score": 2057,
-   "name": "GumboVariations"
+   "score": 2285,
+   "name": "smart.raven"
   },
   {
    "place": 9,
-   "score": 1931,
-   "name": "toranaga1985"
+   "score": 2268,
+   "name": "gcillo"
   },
   {
    "place": 10,
-   "score": 1914,
+   "score": 2165,
    "name": "Blackrovert"
   },
   {
    "place": 11,
+   "score": 2089,
+   "name": "Slightly Toasted"
+  },
+  {
+   "place": 12,
+   "score": 2058,
+   "name": "JPJuanma"
+  },
+  {
+   "place": 13,
+   "score": 2057,
+   "name": "GumboVariations"
+  },
+  {
+   "place": 14,
+   "score": 1955,
+   "name": "toranaga1985"
+  },
+  {
+   "place": 15,
    "score": 1767,
    "name": "omberzombie"
   },
   {
-   "place": 12,
+   "place": 16,
    "score": 1762,
    "name": "NightMonkey"
   },
   {
-   "place": 13,
+   "place": 17,
    "score": 1754,
    "name": "Command_a"
   },
   {
-   "place": 14,
+   "place": 18,
+   "score": 1727,
+   "name": "Vicktorious93"
+  },
+  {
+   "place": 19,
+   "score": 1702,
+   "name": "quinnbp1"
+  },
+  {
+   "place": 20,
    "score": 1687,
    "name": "Nugget"
   },
   {
-   "place": 15,
+   "place": 21,
+   "score": 1677,
+   "name": "laufman"
+  },
+  {
+   "place": 22,
+   "score": 1671,
+   "name": "dagumym"
+  },
+  {
+   "place": 23,
    "score": 1662,
    "name": "Domsie"
   },
   {
-   "place": 16,
-   "score": 1651,
-   "name": "laufman"
-  },
-  {
-   "place": 17,
+   "place": 24,
    "score": 1648,
    "name": "Lucktally"
   },
   {
-   "place": 18,
+   "place": 25,
+   "score": 1646,
+   "name": "Grimking"
+  },
+  {
+   "place": 26,
+   "score": 1645,
+   "name": "Killerletz"
+  },
+  {
+   "place": 27,
    "score": 1620,
    "name": "greg.saunders"
   },
   {
-   "place": 19,
+   "place": 28,
+   "score": 1604,
+   "name": "Cleansingtruth"
+  },
+  {
+   "place": 29,
+   "score": 1594,
+   "name": "Filler"
+  },
+  {
+   "place": 30,
    "score": 1517,
    "name": "bittyb"
   },
   {
-   "place": 20,
+   "place": 31,
    "score": 1497,
    "name": "🤘"
   },
   {
-   "place": 21,
+   "place": 32,
    "score": 1486,
    "name": "Mr. MondayNight"
   },
   {
-   "place": 22,
+   "place": 33,
+   "score": 1481,
+   "name": "bear0409"
+  },
+  {
+   "place": 34,
+   "score": 1474,
+   "name": "ux893600"
+  },
+  {
+   "place": 35,
+   "score": 1468,
+   "name": "esinel"
+  },
+  {
+   "place": 36,
+   "score": 1443,
+   "name": "1typhondeoeil"
+  },
+  {
+   "place": 37,
+   "score": 1437,
+   "name": "micdu65"
+  },
+  {
+   "place": 38,
+   "score": 1436,
+   "name": "slavetoinsomnia"
+  },
+  {
+   "place": 39,
+   "score": 1431,
+   "name": "TheGoodMisterH"
+  },
+  {
+   "place": 40,
    "score": 1421,
    "name": "Окунь Силы"
   },
   {
-   "place": 23,
+   "place": 41,
    "score": 1417,
    "name": "Tôonz"
   },
   {
-   "place": 24,
+   "place": 42,
    "score": 1399,
    "name": "jhyun999"
   },
   {
-   "place": 25,
+   "place": 43,
+   "score": 1388,
+   "name": "Juan Telomander"
+  },
+  {
+   "place": 44,
    "score": 1348,
    "name": "batman_aok"
   },
   {
-   "place": 26,
+   "place": 45,
    "score": 1209,
    "name": "Trollhugger"
   },
   {
-   "place": 27,
+   "place": 46,
    "score": 1190,
    "name": "fuzzyfeet"
   },
   {
-   "place": 28,
+   "place": 47,
    "score": 1178,
    "name": "Joebq"
   },
   {
-   "place": 29,
+   "place": 48,
    "score": 1151,
    "name": "SleepySusan"
   },
   {
-   "place": 30,
+   "place": 49,
    "score": 1147,
    "name": "Sai"
   },
   {
-   "place": 31,
-   "score": 762,
-   "name": "aimeeissorad"
-  },
-  {
-   "place": 32,
-   "score": 598,
+   "place": 50,
+   "score": 1145,
    "name": "貢wow湯"
   }
  ]
