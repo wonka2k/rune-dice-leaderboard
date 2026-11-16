@@ -2,7 +2,7 @@
  "kind": "monthly",
  "period": "2026-11",
  "final": false,
- "updatedUtc": "2026-11-16T03:29:38+00:00",
+ "updatedUtc": "2026-11-16T04:33:00+00:00",
  "rules": {
   "points": [
    25,
@@ -82,6 +82,16 @@
   },
   {
    "place": 7,
+   "name": "pplzu",
+   "points": 44,
+   "dailyPoints": 39,
+   "weeklyPoints": 5,
+   "wins": 1,
+   "top10": 2,
+   "played": 5
+  },
+  {
+   "place": 8,
    "name": "Stern Howard",
    "points": 42,
    "dailyPoints": 2,
@@ -89,16 +99,6 @@
    "wins": 0,
    "top10": 1,
    "played": 3
-  },
-  {
-   "place": 8,
-   "name": "pplzu",
-   "points": 39,
-   "dailyPoints": 39,
-   "weeklyPoints": 0,
-   "wins": 1,
-   "top10": 2,
-   "played": 4
   },
   {
    "place": 9,
@@ -113,12 +113,12 @@
   {
    "place": 10,
    "name": "toranaga1985",
-   "points": 31,
-   "dailyPoints": 21,
+   "points": 33,
+   "dailyPoints": 23,
    "weeklyPoints": 10,
    "wins": 0,
-   "top10": 3,
-   "played": 5
+   "top10": 4,
+   "played": 6
   },
   {
    "place": 11,
@@ -262,6 +262,16 @@
   },
   {
    "place": 25,
+   "name": "Slightly Toasted",
+   "points": 14,
+   "dailyPoints": 9,
+   "weeklyPoints": 5,
+   "wins": 0,
+   "top10": 1,
+   "played": 5
+  },
+  {
+   "place": 26,
    "name": "petmad",
    "points": 13,
    "dailyPoints": 8,
@@ -271,7 +281,7 @@
    "played": 4
   },
   {
-   "place": 26,
+   "place": 27,
    "name": "GumboVariations",
    "points": 13,
    "dailyPoints": 8,
@@ -281,7 +291,7 @@
    "played": 6
   },
   {
-   "place": 27,
+   "place": 28,
    "name": "ihen",
    "points": 12,
    "dailyPoints": 12,
@@ -291,7 +301,7 @@
    "played": 1
   },
   {
-   "place": 28,
+   "place": 29,
    "name": "Libra89x",
    "points": 12,
    "dailyPoints": 12,
@@ -301,7 +311,7 @@
    "played": 1
   },
   {
-   "place": 29,
+   "place": 30,
    "name": "made_in_china",
    "points": 11,
    "dailyPoints": 6,
@@ -311,7 +321,7 @@
    "played": 2
   },
   {
-   "place": 30,
+   "place": 31,
    "name": "Filler",
    "points": 10,
    "dailyPoints": 5,
@@ -321,7 +331,7 @@
    "played": 3
   },
   {
-   "place": 31,
+   "place": 32,
    "name": "smart.raven",
    "points": 10,
    "dailyPoints": 5,
@@ -331,7 +341,7 @@
    "played": 5
   },
   {
-   "place": 32,
+   "place": 33,
    "name": "betabill1395",
    "points": 10,
    "dailyPoints": 5,
@@ -341,7 +351,7 @@
    "played": 3
   },
   {
-   "place": 33,
+   "place": 34,
    "name": "edtion",
    "points": 9,
    "dailyPoints": 4,
@@ -351,27 +361,7 @@
    "played": 4
   },
   {
-   "place": 34,
-   "name": "omberzombie",
-   "points": 9,
-   "dailyPoints": 4,
-   "weeklyPoints": 5,
-   "wins": 0,
-   "top10": 1,
-   "played": 5
-  },
-  {
    "place": 35,
-   "name": "Slightly Toasted",
-   "points": 9,
-   "dailyPoints": 9,
-   "weeklyPoints": 0,
-   "wins": 0,
-   "top10": 1,
-   "played": 4
-  },
-  {
-   "place": 36,
    "name": "ℳê†ã¢ã†",
    "points": 9,
    "dailyPoints": 4,
@@ -381,8 +371,18 @@
    "played": 5
   },
   {
-   "place": 37,
+   "place": 36,
    "name": "Command_a",
+   "points": 9,
+   "dailyPoints": 4,
+   "weeklyPoints": 5,
+   "wins": 0,
+   "top10": 0,
+   "played": 5
+  },
+  {
+   "place": 37,
+   "name": "omberzombie",
    "points": 9,
    "dailyPoints": 4,
    "weeklyPoints": 5,

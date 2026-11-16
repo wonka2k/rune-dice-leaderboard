@@ -2,8 +2,8 @@
  "kind": "daily",
  "period": "2026-11-16",
  "final": false,
- "updatedUtc": "2026-11-16T03:29:38+00:00",
- "players": 26,
+ "updatedUtc": "2026-11-16T04:33:00+00:00",
+ "players": 32,
  "top": [
   {
    "place": 1,
@@ -12,7 +12,7 @@
   },
   {
    "place": 2,
-   "score": 2696,
+   "score": 2741,
    "name": "Mihakiy"
   },
   {
@@ -47,91 +47,121 @@
   },
   {
    "place": 9,
+   "score": 1931,
+   "name": "toranaga1985"
+  },
+  {
+   "place": 10,
    "score": 1914,
    "name": "Blackrovert"
   },
   {
-   "place": 10,
+   "place": 11,
    "score": 1767,
    "name": "omberzombie"
   },
   {
-   "place": 11,
+   "place": 12,
    "score": 1762,
    "name": "NightMonkey"
   },
   {
-   "place": 12,
+   "place": 13,
    "score": 1754,
    "name": "Command_a"
   },
   {
-   "place": 13,
+   "place": 14,
    "score": 1687,
    "name": "Nugget"
   },
   {
-   "place": 14,
+   "place": 15,
    "score": 1662,
    "name": "Domsie"
   },
   {
-   "place": 15,
+   "place": 16,
+   "score": 1651,
+   "name": "laufman"
+  },
+  {
+   "place": 17,
    "score": 1648,
    "name": "Lucktally"
   },
   {
-   "place": 16,
+   "place": 18,
    "score": 1620,
    "name": "greg.saunders"
   },
   {
-   "place": 17,
+   "place": 19,
    "score": 1517,
    "name": "bittyb"
   },
   {
-   "place": 18,
+   "place": 20,
    "score": 1497,
    "name": "🤘"
   },
   {
-   "place": 19,
+   "place": 21,
+   "score": 1486,
+   "name": "Mr. MondayNight"
+  },
+  {
+   "place": 22,
    "score": 1421,
    "name": "Окунь Силы"
   },
   {
-   "place": 20,
+   "place": 23,
+   "score": 1417,
+   "name": "Tôonz"
+  },
+  {
+   "place": 24,
    "score": 1399,
    "name": "jhyun999"
   },
   {
-   "place": 21,
+   "place": 25,
    "score": 1348,
    "name": "batman_aok"
   },
   {
-   "place": 22,
+   "place": 26,
+   "score": 1209,
+   "name": "Trollhugger"
+  },
+  {
+   "place": 27,
    "score": 1190,
    "name": "fuzzyfeet"
   },
   {
-   "place": 23,
+   "place": 28,
    "score": 1178,
    "name": "Joebq"
   },
   {
-   "place": 24,
+   "place": 29,
+   "score": 1151,
+   "name": "SleepySusan"
+  },
+  {
+   "place": 30,
    "score": 1147,
    "name": "Sai"
   },
   {
-   "place": 25,
+   "place": 31,
    "score": 762,
    "name": "aimeeissorad"
   },
   {
-   "place": 26,
+   "place": 32,
    "score": 598,
    "name": "貢wow湯"
   }
