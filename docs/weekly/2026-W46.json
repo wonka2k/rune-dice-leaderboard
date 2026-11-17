@@ -2,8 +2,8 @@
  "kind": "weekly",
  "period": "2026-W46",
  "final": false,
- "updatedUtc": "2026-11-16T20:18:06+00:00",
- "players": 166,
+ "updatedUtc": "2026-11-17T03:41:06+00:00",
+ "players": 176,
  "top": [
   {
    "place": 1,
@@ -12,13 +12,13 @@
   },
   {
    "place": 2,
-   "score": 18204,
-   "name": "Snafu"
+   "score": 20466,
+   "name": "nknp11092019"
   },
   {
    "place": 3,
-   "score": 17671,
-   "name": "nknp11092019"
+   "score": 18204,
+   "name": "Snafu"
   },
   {
    "place": 4,
@@ -77,43 +77,43 @@
   },
   {
    "place": 15,
+   "score": 12048,
+   "name": "Mosimj"
+  },
+  {
+   "place": 16,
    "score": 11940,
    "name": "Exant"
   },
   {
-   "place": 16,
+   "place": 17,
    "score": 11912,
    "name": "penguin_panguin"
   },
   {
-   "place": 17,
+   "place": 18,
    "score": 11755,
    "name": "donutman"
   },
   {
-   "place": 18,
+   "place": 19,
    "score": 11636,
    "name": "omberzombie"
   },
   {
-   "place": 19,
+   "place": 20,
    "score": 11601,
    "name": "NutriaHirsch"
   },
   {
-   "place": 20,
+   "place": 21,
    "score": 11585,
    "name": "ℳê†ã¢ã†"
   },
   {
-   "place": 21,
+   "place": 22,
    "score": 11482,
    "name": "gcillo"
-  },
-  {
-   "place": 22,
-   "score": 11461,
-   "name": "Mosimj"
   },
   {
    "place": 23,
