@@ -2,8 +2,8 @@
  "kind": "daily",
  "period": "2026-11-17",
  "final": false,
- "updatedUtc": "2026-11-17T03:41:06+00:00",
- "players": 27,
+ "updatedUtc": "2026-11-17T04:30:29+00:00",
+ "players": 30,
  "top": [
   {
    "place": 1,
@@ -37,106 +37,121 @@
   },
   {
    "place": 7,
+   "score": 3422,
+   "name": "smart.raven"
+  },
+  {
+   "place": 8,
    "score": 3350,
    "name": "Melancholic_Kun"
   },
   {
-   "place": 8,
+   "place": 9,
    "score": 3267,
    "name": "Mr. MondayNight"
   },
   {
-   "place": 9,
+   "place": 10,
    "score": 3204,
    "name": "ralkerton"
   },
   {
-   "place": 10,
+   "place": 11,
+   "score": 3201,
+   "name": "Rhombuspiano"
+  },
+  {
+   "place": 12,
+   "score": 3086,
+   "name": "thor"
+  },
+  {
+   "place": 13,
    "score": 2951,
    "name": "Fuck Musket"
   },
   {
-   "place": 11,
+   "place": 14,
    "score": 2929,
    "name": "gcillo"
   },
   {
-   "place": 12,
+   "place": 15,
    "score": 2890,
    "name": "GumboVariations"
   },
   {
-   "place": 13,
+   "place": 16,
    "score": 2883,
    "name": "Qwert Zuiopü"
   },
   {
-   "place": 14,
+   "place": 17,
    "score": 2805,
    "name": "harald"
   },
   {
-   "place": 15,
+   "place": 18,
    "score": 2731,
    "name": "vladthecompiler"
   },
   {
-   "place": 16,
+   "place": 19,
    "score": 2716,
    "name": "Ascent"
   },
   {
-   "place": 17,
-   "score": 2609,
-   "name": "thor"
-  },
-  {
-   "place": 18,
+   "place": 20,
    "score": 2597,
    "name": "laufman"
   },
   {
-   "place": 19,
+   "place": 21,
    "score": 2575,
    "name": "盘龙遮天"
   },
   {
-   "place": 20,
+   "place": 22,
    "score": 2474,
    "name": "greg.saunders"
   },
   {
-   "place": 21,
+   "place": 23,
    "score": 2413,
    "name": "lautinho"
   },
   {
-   "place": 22,
+   "place": 24,
+   "score": 2121,
+   "name": "arasberry61"
+  },
+  {
+   "place": 25,
    "score": 2049,
    "name": "🤘"
   },
   {
-   "place": 23,
+   "place": 26,
    "score": 1915,
    "name": "omberzombie"
   },
   {
-   "place": 24,
+   "place": 27,
    "score": 1506,
    "name": "Sai"
   },
   {
-   "place": 25,
+   "place": 28,
    "score": 994,
    "name": "NightMonkey"
   },
   {
-   "place": 26,
+   "place": 29,
    "score": 445,
    "name": "Shafo"
   },
   {
-   "place": 27,
+   "place": 30,
    "score": 309,
    "name": "TheGoodMisterH"
   }
