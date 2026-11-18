@@ -2,131 +2,221 @@
  "kind": "weekly",
  "period": "2026-W47",
  "final": false,
- "updatedUtc": "2026-11-18T12:56:02+00:00",
- "players": 25,
+ "updatedUtc": "2026-11-18T20:13:05+00:00",
+ "players": 43,
  "top": [
   {
    "place": 1,
+   "score": 19852,
+   "name": "nknp11092019"
+  },
+  {
+   "place": 2,
    "score": 18680,
    "name": "Lucyans"
   },
   {
-   "place": 2,
+   "place": 3,
    "score": 12201,
    "name": "jhyun999"
   },
   {
-   "place": 3,
+   "place": 4,
+   "score": 11334,
+   "name": "prostofilat"
+  },
+  {
+   "place": 5,
    "score": 10337,
    "name": "thor"
   },
   {
-   "place": 4,
+   "place": 6,
    "score": 10140,
    "name": "Neycon"
   },
   {
-   "place": 5,
+   "place": 7,
    "score": 9752,
    "name": "公子小白"
   },
   {
-   "place": 6,
+   "place": 8,
    "score": 9752,
    "name": "omberzombie"
   },
   {
-   "place": 7,
+   "place": 9,
    "score": 9397,
    "name": "Dolbomir"
   },
   {
-   "place": 8,
+   "place": 10,
    "score": 9100,
    "name": "MitterMak"
   },
   {
-   "place": 9,
+   "place": 11,
+   "score": 8814,
+   "name": "CoyotOne1"
+  },
+  {
+   "place": 12,
+   "score": 8643,
+   "name": "Killerletz"
+  },
+  {
+   "place": 13,
    "score": 8370,
    "name": "grichill"
   },
   {
-   "place": 10,
+   "place": 14,
+   "score": 8363,
+   "name": "penguin_panguin"
+  },
+  {
+   "place": 15,
+   "score": 8046,
+   "name": "Undead"
+  },
+  {
+   "place": 16,
    "score": 6156,
    "name": "blacksnow151"
   },
   {
-   "place": 11,
+   "place": 17,
+   "score": 5739,
+   "name": "h0ppet0ssE"
+  },
+  {
+   "place": 18,
+   "score": 5290,
+   "name": "lautinho"
+  },
+  {
+   "place": 19,
    "score": 5185,
    "name": "greg.saunders"
   },
   {
-   "place": 12,
+   "place": 20,
+   "score": 5105,
+   "name": "TysonsPunchOut"
+  },
+  {
+   "place": 21,
    "score": 4516,
    "name": "donutman"
   },
   {
-   "place": 13,
-   "score": 4361,
-   "name": "TysonsPunchOut"
+   "place": 22,
+   "score": 4353,
+   "name": "Mahomet 2 towers"
   },
   {
-   "place": 14,
+   "place": 23,
    "score": 4127,
    "name": "Kannon"
   },
   {
-   "place": 15,
-   "score": 3481,
-   "name": "Killerletz"
+   "place": 24,
+   "score": 4028,
+   "name": "abab112200"
   },
   {
-   "place": 16,
+   "place": 25,
+   "score": 4016,
+   "name": "Ascent"
+  },
+  {
+   "place": 26,
+   "score": 3922,
+   "name": "Azula"
+  },
+  {
+   "place": 27,
+   "score": 3875,
+   "name": "X-tention"
+  },
+  {
+   "place": 28,
    "score": 3464,
    "name": "Floppa"
   },
   {
-   "place": 17,
+   "place": 29,
    "score": 3455,
    "name": "polão da penha zona leste"
   },
   {
-   "place": 18,
+   "place": 30,
+   "score": 3304,
+   "name": "viann.tv2020"
+  },
+  {
+   "place": 31,
    "score": 3201,
    "name": "edtion"
   },
   {
-   "place": 19,
+   "place": 32,
    "score": 3174,
    "name": "TINY ZANDER"
   },
   {
-   "place": 20,
+   "place": 33,
    "score": 2409,
    "name": "✪ walter"
   },
   {
-   "place": 21,
+   "place": 34,
    "score": 1936,
    "name": "Theworm101"
   },
   {
-   "place": 22,
+   "place": 35,
+   "score": 1604,
+   "name": "Lunchbox"
+  },
+  {
+   "place": 36,
    "score": 1578,
    "name": "gcillo"
   },
   {
-   "place": 23,
+   "place": 37,
+   "score": 1453,
+   "name": "Lola"
+  },
+  {
+   "place": 38,
+   "score": 1395,
+   "name": "Mosimj"
+  },
+  {
+   "place": 39,
+   "score": 1198,
+   "name": "Пупырчик"
+  },
+  {
+   "place": 40,
+   "score": 1149,
+   "name": "siringame199st"
+  },
+  {
+   "place": 41,
    "score": 860,
    "name": "Sadistic"
   },
   {
-   "place": 24,
+   "place": 42,
    "score": 518,
    "name": "PapaSangre"
   },
   {
-   "place": 25,
+   "place": 43,
    "score": 398,
    "name": "xup87_"
   }
