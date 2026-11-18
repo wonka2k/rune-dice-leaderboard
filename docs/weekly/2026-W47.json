@@ -2,8 +2,8 @@
  "kind": "weekly",
  "period": "2026-W47",
  "final": false,
- "updatedUtc": "2026-11-18T20:13:05+00:00",
- "players": 43,
+ "updatedUtc": "2026-11-18T21:20:01+00:00",
+ "players": 45,
  "top": [
   {
    "place": 1,
@@ -132,91 +132,101 @@
   },
   {
    "place": 26,
+   "score": 3977,
+   "name": "Tehkjel"
+  },
+  {
+   "place": 27,
    "score": 3922,
    "name": "Azula"
   },
   {
-   "place": 27,
+   "place": 28,
    "score": 3875,
    "name": "X-tention"
   },
   {
-   "place": 28,
+   "place": 29,
    "score": 3464,
    "name": "Floppa"
   },
   {
-   "place": 29,
+   "place": 30,
    "score": 3455,
    "name": "polão da penha zona leste"
   },
   {
-   "place": 30,
+   "place": 31,
    "score": 3304,
    "name": "viann.tv2020"
   },
   {
-   "place": 31,
+   "place": 32,
    "score": 3201,
    "name": "edtion"
   },
   {
-   "place": 32,
+   "place": 33,
    "score": 3174,
    "name": "TINY ZANDER"
   },
   {
-   "place": 33,
+   "place": 34,
+   "score": 2794,
+   "name": "siringame199st"
+  },
+  {
+   "place": 35,
    "score": 2409,
    "name": "✪ walter"
   },
   {
-   "place": 34,
+   "place": 36,
    "score": 1936,
    "name": "Theworm101"
   },
   {
-   "place": 35,
+   "place": 37,
    "score": 1604,
    "name": "Lunchbox"
   },
   {
-   "place": 36,
+   "place": 38,
    "score": 1578,
    "name": "gcillo"
   },
   {
-   "place": 37,
+   "place": 39,
+   "score": 1473,
+   "name": "zatrite1138"
+  },
+  {
+   "place": 40,
    "score": 1453,
    "name": "Lola"
   },
   {
-   "place": 38,
+   "place": 41,
    "score": 1395,
    "name": "Mosimj"
   },
   {
-   "place": 39,
+   "place": 42,
    "score": 1198,
    "name": "Пупырчик"
   },
   {
-   "place": 40,
-   "score": 1149,
-   "name": "siringame199st"
-  },
-  {
-   "place": 41,
+   "place": 43,
    "score": 860,
    "name": "Sadistic"
   },
   {
-   "place": 42,
+   "place": 44,
    "score": 518,
    "name": "PapaSangre"
   },
   {
-   "place": 43,
+   "place": 45,
    "score": 398,
    "name": "xup87_"
   }

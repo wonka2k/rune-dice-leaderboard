@@ -2,8 +2,8 @@
  "kind": "daily",
  "period": "2026-11-18",
  "final": false,
- "updatedUtc": "2026-11-18T20:13:05+00:00",
- "players": 96,
+ "updatedUtc": "2026-11-18T21:20:01+00:00",
+ "players": 101,
  "top": [
   {
    "place": 1,
@@ -117,143 +117,143 @@
   },
   {
    "place": 23,
+   "score": 2554,
+   "name": "Radaxor"
+  },
+  {
+   "place": 24,
    "score": 2531,
    "name": "Dingus"
   },
   {
-   "place": 24,
+   "place": 25,
    "score": 2526,
    "name": "Lemon Citric"
   },
   {
-   "place": 25,
+   "place": 26,
    "score": 2513,
    "name": "imsobad"
   },
   {
-   "place": 26,
+   "place": 27,
    "score": 2454,
    "name": "Courtney Strike"
   },
   {
-   "place": 27,
+   "place": 28,
    "score": 2442,
    "name": "will.palmer"
   },
   {
-   "place": 28,
+   "place": 29,
    "score": 2442,
    "name": "Arasmas"
   },
   {
-   "place": 29,
+   "place": 30,
    "score": 2437,
    "name": "skrrtBaba"
   },
   {
-   "place": 30,
+   "place": 31,
    "score": 2408,
    "name": "james"
   },
   {
-   "place": 31,
+   "place": 32,
+   "score": 2401,
+   "name": "mitchbankert"
+  },
+  {
+   "place": 33,
    "score": 2389,
    "name": "pjhkh9191"
   },
   {
-   "place": 32,
+   "place": 34,
    "score": 2381,
    "name": "grichill"
   },
   {
-   "place": 33,
+   "place": 35,
    "score": 2350,
    "name": "harald"
   },
   {
-   "place": 34,
+   "place": 36,
    "score": 2314,
    "name": "QIMXIN(yososexykim)"
   },
   {
-   "place": 35,
+   "place": 37,
    "score": 2278,
    "name": "IceFear"
   },
   {
-   "place": 36,
+   "place": 38,
    "score": 2275,
    "name": "lautinho"
   },
   {
-   "place": 37,
+   "place": 39,
    "score": 2256,
    "name": "Libra89x"
   },
   {
-   "place": 38,
+   "place": 40,
+   "score": 2252,
+   "name": "jmalino1"
+  },
+  {
+   "place": 41,
    "score": 2251,
    "name": "Azula"
   },
   {
-   "place": 39,
+   "place": 42,
    "score": 2219,
    "name": "MiaMiaM"
   },
   {
-   "place": 40,
+   "place": 43,
    "score": 2206,
    "name": "omberzombie"
   },
   {
-   "place": 41,
+   "place": 44,
    "score": 2186,
    "name": "Undead"
   },
   {
-   "place": 42,
+   "place": 45,
    "score": 2137,
    "name": "Seyven"
   },
   {
-   "place": 43,
+   "place": 46,
    "score": 2090,
    "name": "Sadistic"
   },
   {
-   "place": 44,
+   "place": 47,
    "score": 2087,
    "name": "224368884"
   },
   {
-   "place": 45,
+   "place": 48,
    "score": 2080,
    "name": "Kepslok"
   },
   {
-   "place": 46,
+   "place": 49,
    "score": 2070,
    "name": "gcillo"
   },
   {
-   "place": 47,
+   "place": 50,
    "score": 2052,
    "name": "Solanas"
-  },
-  {
-   "place": 48,
-   "score": 2048,
-   "name": "cepalmer"
-  },
-  {
-   "place": 49,
-   "score": 2001,
-   "name": "Double Luigi"
-  },
-  {
-   "place": 50,
-   "score": 1997,
-   "name": "X-tention"
   }
  ]
 }
