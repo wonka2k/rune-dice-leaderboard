@@ -2,8 +2,8 @@
  "kind": "daily",
  "period": "2026-11-18",
  "final": false,
- "updatedUtc": "2026-11-18T03:37:13+00:00",
- "players": 20,
+ "updatedUtc": "2026-11-18T08:03:58+00:00",
+ "players": 31,
  "top": [
   {
    "place": 1,
@@ -27,83 +27,138 @@
   },
   {
    "place": 5,
+   "score": 2647,
+   "name": "thor"
+  },
+  {
+   "place": 6,
+   "score": 2643,
+   "name": "TysonsPunchOut"
+  },
+  {
+   "place": 7,
    "score": 2513,
    "name": "imsobad"
   },
   {
-   "place": 6,
+   "place": 8,
+   "score": 2442,
+   "name": "Arasmas"
+  },
+  {
+   "place": 9,
    "score": 2437,
    "name": "skrrtBaba"
   },
   {
-   "place": 7,
+   "place": 10,
    "score": 2350,
    "name": "harald"
   },
   {
-   "place": 8,
+   "place": 11,
    "score": 2275,
    "name": "lautinho"
   },
   {
-   "place": 9,
+   "place": 12,
    "score": 2206,
    "name": "omberzombie"
   },
   {
-   "place": 10,
+   "place": 13,
    "score": 2137,
    "name": "Seyven"
   },
   {
-   "place": 11,
+   "place": 14,
    "score": 2090,
    "name": "Sadistic"
   },
   {
-   "place": 12,
+   "place": 15,
    "score": 2070,
    "name": "gcillo"
   },
   {
-   "place": 13,
-   "score": 1915,
-   "name": "thor"
-  },
-  {
-   "place": 14,
-   "score": 1826,
+   "place": 16,
+   "score": 1874,
    "name": "Lemon Citric"
   },
   {
-   "place": 15,
+   "place": 17,
+   "score": 1764,
+   "name": "romantiqueamour01"
+  },
+  {
+   "place": 18,
+   "score": 1732,
+   "name": "Hitori"
+  },
+  {
+   "place": 19,
+   "score": 1728,
+   "name": "Whitt1000"
+  },
+  {
+   "place": 20,
+   "score": 1662,
+   "name": "Dolbomir"
+  },
+  {
+   "place": 21,
+   "score": 1582,
+   "name": "Theworm101"
+  },
+  {
+   "place": 22,
    "score": 1571,
    "name": "Phoenix"
   },
   {
-   "place": 16,
+   "place": 23,
    "score": 1532,
    "name": "blacksnow151"
   },
   {
-   "place": 17,
+   "place": 24,
    "score": 1406,
    "name": "zx3"
   },
   {
-   "place": 18,
+   "place": 25,
+   "score": 1316,
+   "name": "Thanabelle"
+  },
+  {
+   "place": 26,
    "score": 1151,
    "name": "greg.saunders"
   },
   {
-   "place": 19,
+   "place": 27,
    "score": 981,
    "name": "Nangha"
   },
   {
-   "place": 20,
+   "place": 28,
    "score": 975,
    "name": "unaigra"
+  },
+  {
+   "place": 29,
+   "score": 827,
+   "name": "Filler"
+  },
+  {
+   "place": 30,
+   "score": 791,
+   "name": "◕ ༽,..,༼ ◕SinDeBad"
+  },
+  {
+   "place": 31,
+   "score": 359,
+   "name": "Brave"
   }
  ]
 }

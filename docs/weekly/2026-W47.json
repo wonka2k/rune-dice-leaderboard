@@ -2,8 +2,8 @@
  "kind": "weekly",
  "period": "2026-W47",
  "final": false,
- "updatedUtc": "2026-11-18T03:37:13+00:00",
- "players": 11,
+ "updatedUtc": "2026-11-18T08:03:58+00:00",
+ "players": 19,
  "top": [
   {
    "place": 1,
@@ -17,48 +17,88 @@
   },
   {
    "place": 3,
+   "score": 10337,
+   "name": "thor"
+  },
+  {
+   "place": 4,
+   "score": 9752,
+   "name": "公子小白"
+  },
+  {
+   "place": 5,
+   "score": 9752,
+   "name": "omberzombie"
+  },
+  {
+   "place": 6,
+   "score": 9397,
+   "name": "Dolbomir"
+  },
+  {
+   "place": 7,
    "score": 9100,
    "name": "MitterMak"
   },
   {
-   "place": 4,
+   "place": 8,
    "score": 6156,
    "name": "blacksnow151"
   },
   {
-   "place": 5,
+   "place": 9,
    "score": 5185,
    "name": "greg.saunders"
   },
   {
-   "place": 6,
-   "score": 4624,
-   "name": "thor"
+   "place": 10,
+   "score": 4516,
+   "name": "donutman"
   },
   {
-   "place": 7,
+   "place": 11,
+   "score": 4361,
+   "name": "TysonsPunchOut"
+  },
+  {
+   "place": 12,
+   "score": 3464,
+   "name": "Floppa"
+  },
+  {
+   "place": 13,
+   "score": 3455,
+   "name": "polão da penha zona leste"
+  },
+  {
+   "place": 14,
    "score": 3174,
    "name": "TINY ZANDER"
   },
   {
-   "place": 8,
+   "place": 15,
    "score": 2409,
    "name": "✪ walter"
   },
   {
-   "place": 9,
-   "score": 867,
-   "name": "omberzombie"
+   "place": 16,
+   "score": 1936,
+   "name": "Theworm101"
   },
   {
-   "place": 10,
+   "place": 17,
+   "score": 1578,
+   "name": "gcillo"
+  },
+  {
+   "place": 18,
    "score": 860,
    "name": "Sadistic"
   },
   {
-   "place": 11,
-   "score": 737,
-   "name": "gcillo"
+   "place": 19,
+   "score": 518,
+   "name": "PapaSangre"
   }
  ]
 }
