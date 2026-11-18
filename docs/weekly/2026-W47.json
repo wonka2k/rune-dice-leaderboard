@@ -2,8 +2,8 @@
  "kind": "weekly",
  "period": "2026-W47",
  "final": false,
- "updatedUtc": "2026-11-18T08:03:58+00:00",
- "players": 19,
+ "updatedUtc": "2026-11-18T12:56:02+00:00",
+ "players": 25,
  "top": [
   {
    "place": 1,
@@ -22,83 +22,113 @@
   },
   {
    "place": 4,
-   "score": 9752,
-   "name": "公子小白"
+   "score": 10140,
+   "name": "Neycon"
   },
   {
    "place": 5,
    "score": 9752,
-   "name": "omberzombie"
+   "name": "公子小白"
   },
   {
    "place": 6,
+   "score": 9752,
+   "name": "omberzombie"
+  },
+  {
+   "place": 7,
    "score": 9397,
    "name": "Dolbomir"
   },
   {
-   "place": 7,
+   "place": 8,
    "score": 9100,
    "name": "MitterMak"
   },
   {
-   "place": 8,
+   "place": 9,
+   "score": 8370,
+   "name": "grichill"
+  },
+  {
+   "place": 10,
    "score": 6156,
    "name": "blacksnow151"
   },
   {
-   "place": 9,
+   "place": 11,
    "score": 5185,
    "name": "greg.saunders"
   },
   {
-   "place": 10,
+   "place": 12,
    "score": 4516,
    "name": "donutman"
   },
   {
-   "place": 11,
+   "place": 13,
    "score": 4361,
    "name": "TysonsPunchOut"
   },
   {
-   "place": 12,
+   "place": 14,
+   "score": 4127,
+   "name": "Kannon"
+  },
+  {
+   "place": 15,
+   "score": 3481,
+   "name": "Killerletz"
+  },
+  {
+   "place": 16,
    "score": 3464,
    "name": "Floppa"
   },
   {
-   "place": 13,
+   "place": 17,
    "score": 3455,
    "name": "polão da penha zona leste"
   },
   {
-   "place": 14,
+   "place": 18,
+   "score": 3201,
+   "name": "edtion"
+  },
+  {
+   "place": 19,
    "score": 3174,
    "name": "TINY ZANDER"
   },
   {
-   "place": 15,
+   "place": 20,
    "score": 2409,
    "name": "✪ walter"
   },
   {
-   "place": 16,
+   "place": 21,
    "score": 1936,
    "name": "Theworm101"
   },
   {
-   "place": 17,
+   "place": 22,
    "score": 1578,
    "name": "gcillo"
   },
   {
-   "place": 18,
+   "place": 23,
    "score": 860,
    "name": "Sadistic"
   },
   {
-   "place": 19,
+   "place": 24,
    "score": 518,
    "name": "PapaSangre"
+  },
+  {
+   "place": 25,
+   "score": 398,
+   "name": "xup87_"
   }
  ]
 }

@@ -2,8 +2,8 @@
  "kind": "daily",
  "period": "2026-11-18",
  "final": false,
- "updatedUtc": "2026-11-18T08:03:58+00:00",
- "players": 31,
+ "updatedUtc": "2026-11-18T12:56:02+00:00",
+ "players": 53,
  "top": [
   {
    "place": 1,
@@ -12,153 +12,248 @@
   },
   {
    "place": 2,
+   "score": 4372,
+   "name": "Lucyans"
+  },
+  {
+   "place": 3,
+   "score": 4063,
+   "name": "公子小白"
+  },
+  {
+   "place": 4,
    "score": 3873,
    "name": "pplzu"
   },
   {
-   "place": 3,
-   "score": 3211,
-   "name": "Lucyans"
+   "place": 5,
+   "score": 3174,
+   "name": "GodWeasel"
   },
   {
-   "place": 4,
+   "place": 6,
+   "score": 3116,
+   "name": "edtion"
+  },
+  {
+   "place": 7,
    "score": 2720,
    "name": "polão da penha zona leste"
   },
   {
-   "place": 5,
+   "place": 8,
+   "score": 2655,
+   "name": "Schnauzerhoff"
+  },
+  {
+   "place": 9,
+   "score": 2650,
+   "name": "Angry Owl"
+  },
+  {
+   "place": 10,
    "score": 2647,
    "name": "thor"
   },
   {
-   "place": 6,
+   "place": 11,
    "score": 2643,
    "name": "TysonsPunchOut"
   },
   {
-   "place": 7,
+   "place": 12,
+   "score": 2531,
+   "name": "Dingus"
+  },
+  {
+   "place": 13,
    "score": 2513,
    "name": "imsobad"
   },
   {
-   "place": 8,
+   "place": 14,
+   "score": 2481,
+   "name": "nknp11092019"
+  },
+  {
+   "place": 15,
    "score": 2442,
    "name": "Arasmas"
   },
   {
-   "place": 9,
+   "place": 16,
    "score": 2437,
    "name": "skrrtBaba"
   },
   {
-   "place": 10,
+   "place": 17,
+   "score": 2408,
+   "name": "james"
+  },
+  {
+   "place": 18,
+   "score": 2381,
+   "name": "grichill"
+  },
+  {
+   "place": 19,
    "score": 2350,
    "name": "harald"
   },
   {
-   "place": 11,
+   "place": 20,
+   "score": 2291,
+   "name": "will.palmer"
+  },
+  {
+   "place": 21,
    "score": 2275,
    "name": "lautinho"
   },
   {
-   "place": 12,
+   "place": 22,
+   "score": 2256,
+   "name": "Libra89x"
+  },
+  {
+   "place": 23,
    "score": 2206,
    "name": "omberzombie"
   },
   {
-   "place": 13,
+   "place": 24,
    "score": 2137,
    "name": "Seyven"
   },
   {
-   "place": 14,
+   "place": 25,
+   "score": 2127,
+   "name": "h0ppet0ssE"
+  },
+  {
+   "place": 26,
    "score": 2090,
    "name": "Sadistic"
   },
   {
-   "place": 15,
+   "place": 27,
    "score": 2070,
    "name": "gcillo"
   },
   {
-   "place": 16,
+   "place": 28,
+   "score": 1985,
+   "name": "Koybe"
+  },
+  {
+   "place": 29,
    "score": 1874,
    "name": "Lemon Citric"
   },
   {
-   "place": 17,
+   "place": 30,
    "score": 1764,
    "name": "romantiqueamour01"
   },
   {
-   "place": 18,
+   "place": 31,
    "score": 1732,
    "name": "Hitori"
   },
   {
-   "place": 19,
+   "place": 32,
    "score": 1728,
    "name": "Whitt1000"
   },
   {
-   "place": 20,
+   "place": 33,
    "score": 1662,
    "name": "Dolbomir"
   },
   {
-   "place": 21,
+   "place": 34,
    "score": 1582,
    "name": "Theworm101"
   },
   {
-   "place": 22,
+   "place": 35,
    "score": 1571,
    "name": "Phoenix"
   },
   {
-   "place": 23,
+   "place": 36,
+   "score": 1547,
+   "name": "Radaxor"
+  },
+  {
+   "place": 37,
+   "score": 1541,
+   "name": "Omi"
+  },
+  {
+   "place": 38,
    "score": 1532,
    "name": "blacksnow151"
   },
   {
-   "place": 24,
+   "place": 39,
+   "score": 1408,
+   "name": "IceFear"
+  },
+  {
+   "place": 40,
    "score": 1406,
    "name": "zx3"
   },
   {
-   "place": 25,
-   "score": 1316,
+   "place": 41,
+   "score": 1365,
    "name": "Thanabelle"
   },
   {
-   "place": 26,
+   "place": 42,
+   "score": 1293,
+   "name": "Murdo"
+  },
+  {
+   "place": 43,
+   "score": 1219,
+   "name": "Kiff"
+  },
+  {
+   "place": 44,
+   "score": 1194,
+   "name": "O Cothan"
+  },
+  {
+   "place": 45,
    "score": 1151,
    "name": "greg.saunders"
   },
   {
-   "place": 27,
+   "place": 46,
    "score": 981,
    "name": "Nangha"
   },
   {
-   "place": 28,
+   "place": 47,
    "score": 975,
    "name": "unaigra"
   },
   {
-   "place": 29,
+   "place": 48,
    "score": 827,
    "name": "Filler"
   },
   {
-   "place": 30,
+   "place": 49,
    "score": 791,
    "name": "◕ ༽,..,༼ ◕SinDeBad"
   },
   {
-   "place": 31,
-   "score": 359,
-   "name": "Brave"
+   "place": 50,
+   "score": 775,
+   "name": ".Duke."
   }
  ]
 }
