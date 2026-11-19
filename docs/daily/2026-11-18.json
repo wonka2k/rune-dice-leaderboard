@@ -1,9 +1,9 @@
 {
  "kind": "daily",
  "period": "2026-11-18",
- "final": false,
- "updatedUtc": "2026-11-18T23:01:03+00:00",
- "players": 111,
+ "final": true,
+ "updatedUtc": "2026-11-19T03:10:24+00:00",
+ "players": 115,
  "top": [
   {
    "place": 1,
@@ -82,13 +82,13 @@
   },
   {
    "place": 16,
-   "score": 3116,
-   "name": "edtion"
+   "score": 3145,
+   "name": "Schnauzerhoff"
   },
   {
    "place": 17,
-   "score": 3074,
-   "name": "Schnauzerhoff"
+   "score": 3116,
+   "name": "edtion"
   },
   {
    "place": 18,
@@ -163,97 +163,97 @@
   {
    "place": 32,
    "score": 2454,
-   "name": "Courtney Strike"
+   "name": "ssjoen"
   },
   {
    "place": 33,
-   "score": 2442,
-   "name": "will.palmer"
+   "score": 2454,
+   "name": "Courtney Strike"
   },
   {
    "place": 34,
    "score": 2442,
-   "name": "Arasmas"
+   "name": "will.palmer"
   },
   {
    "place": 35,
+   "score": 2442,
+   "name": "Arasmas"
+  },
+  {
+   "place": 36,
    "score": 2437,
    "name": "skrrtBaba"
   },
   {
-   "place": 36,
+   "place": 37,
    "score": 2408,
    "name": "james"
   },
   {
-   "place": 37,
+   "place": 38,
    "score": 2401,
    "name": "mitchbankert"
   },
   {
-   "place": 38,
+   "place": 39,
    "score": 2389,
    "name": "pjhkh9191"
   },
   {
-   "place": 39,
+   "place": 40,
    "score": 2381,
    "name": "grichill"
   },
   {
-   "place": 40,
+   "place": 41,
    "score": 2350,
    "name": "harald"
   },
   {
-   "place": 41,
+   "place": 42,
    "score": 2314,
    "name": "QIMXIN(yososexykim)"
   },
   {
-   "place": 42,
+   "place": 43,
    "score": 2314,
    "name": "Dolbomir"
   },
   {
-   "place": 43,
+   "place": 44,
    "score": 2278,
    "name": "IceFear"
   },
   {
-   "place": 44,
+   "place": 45,
    "score": 2275,
    "name": "lautinho"
   },
   {
-   "place": 45,
+   "place": 46,
    "score": 2256,
    "name": "Libra89x"
   },
   {
-   "place": 46,
+   "place": 47,
    "score": 2252,
    "name": "jmalino1"
   },
   {
-   "place": 47,
+   "place": 48,
    "score": 2252,
    "name": "Maciste"
   },
   {
-   "place": 48,
+   "place": 49,
    "score": 2251,
    "name": "Azula"
   },
   {
-   "place": 49,
+   "place": 50,
    "score": 2219,
    "name": "MiaMiaM"
-  },
-  {
-   "place": 50,
-   "score": 2206,
-   "name": "omberzombie"
   }
  ]
 }

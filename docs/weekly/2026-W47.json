@@ -2,8 +2,8 @@
  "kind": "weekly",
  "period": "2026-W47",
  "final": false,
- "updatedUtc": "2026-11-18T23:01:03+00:00",
- "players": 48,
+ "updatedUtc": "2026-11-19T03:10:24+00:00",
+ "players": 51,
  "top": [
   {
    "place": 1,
@@ -87,7 +87,7 @@
   },
   {
    "place": 17,
-   "score": 6571,
+   "score": 7236,
    "name": "TysonsPunchOut"
   },
   {
@@ -112,138 +112,148 @@
   },
   {
    "place": 22,
+   "score": 4619,
+   "name": "Domsie"
+  },
+  {
+   "place": 23,
    "score": 4516,
    "name": "donutman"
   },
   {
-   "place": 23,
+   "place": 24,
    "score": 4353,
    "name": "Mahomet 2 towers"
   },
   {
-   "place": 24,
+   "place": 25,
    "score": 4327,
    "name": "Filler"
   },
   {
-   "place": 25,
+   "place": 26,
    "score": 4127,
    "name": "Kannon"
   },
   {
-   "place": 26,
+   "place": 27,
    "score": 4028,
    "name": "abab112200"
   },
   {
-   "place": 27,
+   "place": 28,
    "score": 3977,
    "name": "Tehkjel"
   },
   {
-   "place": 28,
+   "place": 29,
    "score": 3922,
    "name": "Azula"
   },
   {
-   "place": 29,
+   "place": 30,
    "score": 3875,
    "name": "X-tention"
   },
   {
-   "place": 30,
+   "place": 31,
    "score": 3693,
    "name": "harmlessmostly"
   },
   {
-   "place": 31,
+   "place": 32,
    "score": 3464,
    "name": "Floppa"
   },
   {
-   "place": 32,
+   "place": 33,
    "score": 3455,
    "name": "polão da penha zona leste"
   },
   {
-   "place": 33,
+   "place": 34,
    "score": 3304,
    "name": "viann.tv2020"
   },
   {
-   "place": 34,
+   "place": 35,
    "score": 3201,
    "name": "edtion"
   },
   {
-   "place": 35,
+   "place": 36,
    "score": 3174,
    "name": "TINY ZANDER"
   },
   {
-   "place": 36,
+   "place": 37,
    "score": 2794,
    "name": "siringame199st"
   },
   {
-   "place": 37,
+   "place": 38,
    "score": 2409,
    "name": "✪ walter"
   },
   {
-   "place": 38,
+   "place": 39,
    "score": 1936,
    "name": "Theworm101"
   },
   {
-   "place": 39,
+   "place": 40,
+   "score": 1653,
+   "name": "ssjoen"
+  },
+  {
+   "place": 41,
    "score": 1604,
    "name": "Lunchbox"
   },
   {
-   "place": 40,
+   "place": 42,
    "score": 1578,
    "name": "gcillo"
   },
   {
-   "place": 41,
+   "place": 43,
    "score": 1473,
    "name": "zatrite1138"
   },
   {
-   "place": 42,
+   "place": 44,
    "score": 1453,
    "name": "Lola"
   },
   {
-   "place": 43,
+   "place": 45,
    "score": 1395,
    "name": "Mosimj"
   },
   {
-   "place": 44,
+   "place": 46,
    "score": 1198,
    "name": "Пупырчик"
   },
   {
-   "place": 45,
+   "place": 47,
    "score": 912,
    "name": "NightMonkey"
   },
   {
-   "place": 46,
+   "place": 48,
    "score": 860,
    "name": "Sadistic"
   },
   {
-   "place": 47,
-   "score": 518,
-   "name": "PapaSangre"
+   "place": 49,
+   "score": 837,
+   "name": "Styched"
   },
   {
-   "place": 48,
-   "score": 398,
-   "name": "xup87_"
+   "place": 50,
+   "score": 518,
+   "name": "PapaSangre"
   }
  ]
 }
