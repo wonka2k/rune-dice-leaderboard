@@ -2,8 +2,8 @@
  "kind": "daily",
  "period": "2026-11-20",
  "final": false,
- "updatedUtc": "2026-11-20T02:05:01+00:00",
- "players": 17,
+ "updatedUtc": "2026-11-20T02:59:00+00:00",
+ "players": 25,
  "top": [
   {
    "place": 1,
@@ -17,76 +17,116 @@
   },
   {
    "place": 3,
-   "score": 2457,
-   "name": "nknp11092019"
+   "score": 2611,
+   "name": "captainantpez_TTV"
   },
   {
    "place": 4,
+   "score": 2490,
+   "name": "nknp11092019"
+  },
+  {
+   "place": 5,
    "score": 2431,
    "name": "JPJuanma"
   },
   {
-   "place": 5,
+   "place": 6,
    "score": 2128,
    "name": "smart.raven"
   },
   {
-   "place": 6,
+   "place": 7,
+   "score": 2063,
+   "name": "GumboVariations"
+  },
+  {
+   "place": 8,
    "score": 2054,
    "name": "chehsiang"
   },
   {
-   "place": 7,
+   "place": 9,
    "score": 2022,
    "name": "GodWeasel"
   },
   {
-   "place": 8,
+   "place": 10,
    "score": 1960,
    "name": "omberzombie"
   },
   {
-   "place": 9,
+   "place": 11,
    "score": 1957,
    "name": "molyth0701"
   },
   {
-   "place": 10,
+   "place": 12,
+   "score": 1936,
+   "name": "Beugh"
+  },
+  {
+   "place": 13,
    "score": 1866,
    "name": "Freep"
   },
   {
-   "place": 11,
+   "place": 14,
+   "score": 1758,
+   "name": "Fyre_"
+  },
+  {
+   "place": 15,
    "score": 1687,
    "name": "lautinho"
   },
   {
-   "place": 12,
+   "place": 16,
    "score": 1630,
    "name": "vladthecompiler"
   },
   {
-   "place": 13,
+   "place": 17,
+   "score": 1598,
+   "name": "thor"
+  },
+  {
+   "place": 18,
+   "score": 1593,
+   "name": "Seyven"
+  },
+  {
+   "place": 19,
    "score": 1558,
    "name": "w i n d u u f m"
   },
   {
-   "place": 14,
+   "place": 20,
    "score": 1529,
    "name": "losingtheta"
   },
   {
-   "place": 15,
+   "place": 21,
+   "score": 1479,
+   "name": "epicgamer111"
+  },
+  {
+   "place": 22,
    "score": 1309,
    "name": "overkill314"
   },
   {
-   "place": 16,
+   "place": 23,
    "score": 1195,
    "name": "greg.saunders"
   },
   {
-   "place": 17,
+   "place": 24,
+   "score": 1179,
+   "name": "Messremb"
+  },
+  {
+   "place": 25,
    "score": 1036,
    "name": "青丝断魂"
   }
