@@ -2,7 +2,7 @@
  "kind": "monthly",
  "period": "2026-11",
  "final": false,
- "updatedUtc": "2026-11-20T08:37:11+00:00",
+ "updatedUtc": "2026-11-20T11:19:40+00:00",
  "rules": {
   "points": [
    25,
@@ -22,29 +22,29 @@
  "top": [
   {
    "place": 1,
-   "name": "nknp11092019",
-   "points": 248,
-   "dailyPoints": 33,
-   "weeklyPoints": 215,
-   "wins": 1,
-   "top10": 5,
+   "name": "Lucyans",
+   "points": 262,
+   "dailyPoints": 117,
+   "weeklyPoints": 145,
+   "wins": 3,
+   "top10": 10,
    "played": 11
   },
   {
    "place": 2,
-   "name": "Lucyans",
-   "points": 202,
-   "dailyPoints": 92,
-   "weeklyPoints": 110,
-   "wins": 1,
-   "top10": 9,
-   "played": 10
+   "name": "nknp11092019",
+   "points": 209,
+   "dailyPoints": 29,
+   "weeklyPoints": 180,
+   "wins": 0,
+   "top10": 5,
+   "played": 11
   },
   {
    "place": 3,
    "name": "Snafu",
-   "points": 161,
-   "dailyPoints": 101,
+   "points": 159,
+   "dailyPoints": 99,
    "weeklyPoints": 60,
    "wins": 2,
    "top10": 8,
@@ -83,8 +83,8 @@
   {
    "place": 7,
    "name": "JPJuanma",
-   "points": 91,
-   "dailyPoints": 86,
+   "points": 87,
+   "dailyPoints": 82,
    "weeklyPoints": 5,
    "wins": 0,
    "top10": 8,
@@ -113,12 +113,12 @@
   {
    "place": 10,
    "name": "Speiger",
-   "points": 73,
-   "dailyPoints": 43,
+   "points": 74,
+   "dailyPoints": 44,
    "weeklyPoints": 30,
    "wins": 1,
    "top10": 4,
-   "played": 6
+   "played": 7
   },
   {
    "place": 11,
@@ -143,10 +143,10 @@
   {
    "place": 13,
    "name": "pplzu",
-   "points": 60,
-   "dailyPoints": 55,
+   "points": 53,
+   "dailyPoints": 48,
    "weeklyPoints": 5,
-   "wins": 1,
+   "wins": 0,
    "top10": 4,
    "played": 9
   },
@@ -157,11 +157,21 @@
    "dailyPoints": 10,
    "weeklyPoints": 35,
    "wins": 0,
-   "top10": 4,
+   "top10": 3,
    "played": 10
   },
   {
    "place": 15,
+   "name": "bichler70",
+   "points": 42,
+   "dailyPoints": 37,
+   "weeklyPoints": 5,
+   "wins": 0,
+   "top10": 2,
+   "played": 10
+  },
+  {
+   "place": 16,
    "name": "quinnbp1",
    "points": 42,
    "dailyPoints": 2,
@@ -169,16 +179,6 @@
    "wins": 0,
    "top10": 1,
    "played": 3
-  },
-  {
-   "place": 16,
-   "name": "bichler70",
-   "points": 41,
-   "dailyPoints": 36,
-   "weeklyPoints": 5,
-   "wins": 0,
-   "top10": 2,
-   "played": 9
   },
   {
    "place": 17,
@@ -242,26 +242,6 @@
   },
   {
    "place": 23,
-   "name": "Mihakiy",
-   "points": 21,
-   "dailyPoints": 21,
-   "weeklyPoints": 0,
-   "wins": 0,
-   "top10": 1,
-   "played": 4
-  },
-  {
-   "place": 24,
-   "name": "Sheik",
-   "points": 21,
-   "dailyPoints": 16,
-   "weeklyPoints": 5,
-   "wins": 0,
-   "top10": 1,
-   "played": 3
-  },
-  {
-   "place": 25,
    "name": "grichill",
    "points": 19,
    "dailyPoints": 4,
@@ -271,7 +251,7 @@
    "played": 6
   },
   {
-   "place": 26,
+   "place": 24,
    "name": "GumboVariations",
    "points": 19,
    "dailyPoints": 9,
@@ -281,7 +261,7 @@
    "played": 11
   },
   {
-   "place": 27,
+   "place": 25,
    "name": "Filler",
    "points": 18,
    "dailyPoints": 8,
@@ -291,7 +271,17 @@
    "played": 7
   },
   {
-   "place": 28,
+   "place": 26,
+   "name": "Mihakiy",
+   "points": 18,
+   "dailyPoints": 18,
+   "weeklyPoints": 0,
+   "wins": 0,
+   "top10": 1,
+   "played": 4
+  },
+  {
+   "place": 27,
    "name": "Stern Howard",
    "points": 18,
    "dailyPoints": 3,
@@ -299,6 +289,16 @@
    "wins": 0,
    "top10": 1,
    "played": 5
+  },
+  {
+   "place": 28,
+   "name": "Sheik",
+   "points": 18,
+   "dailyPoints": 13,
+   "weeklyPoints": 5,
+   "wins": 0,
+   "top10": 1,
+   "played": 3
   },
   {
    "place": 29,
