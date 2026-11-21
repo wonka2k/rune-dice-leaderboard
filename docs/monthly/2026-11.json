@@ -2,7 +2,7 @@
  "kind": "monthly",
  "period": "2026-11",
  "final": false,
- "updatedUtc": "2026-11-21T08:33:45+00:00",
+ "updatedUtc": "2026-11-21T09:36:24+00:00",
  "rules": {
   "points": [
    25,
@@ -282,16 +282,6 @@
   },
   {
    "place": 27,
-   "name": "NightMonkey",
-   "points": 19,
-   "dailyPoints": 9,
-   "weeklyPoints": 10,
-   "wins": 0,
-   "top10": 1,
-   "played": 10
-  },
-  {
-   "place": 28,
    "name": "GumboVariations",
    "points": 19,
    "dailyPoints": 9,
@@ -301,7 +291,7 @@
    "played": 11
   },
   {
-   "place": 29,
+   "place": 28,
    "name": "omberzombie",
    "points": 19,
    "dailyPoints": 9,
@@ -311,7 +301,7 @@
    "played": 11
   },
   {
-   "place": 30,
+   "place": 29,
    "name": "Dingus",
    "points": 19,
    "dailyPoints": 9,
@@ -321,7 +311,7 @@
    "played": 11
   },
   {
-   "place": 31,
+   "place": 30,
    "name": "greg.saunders",
    "points": 19,
    "dailyPoints": 9,
@@ -331,7 +321,7 @@
    "played": 11
   },
   {
-   "place": 32,
+   "place": 31,
    "name": "Filler",
    "points": 18,
    "dailyPoints": 8,
@@ -339,6 +329,16 @@
    "wins": 0,
    "top10": 1,
    "played": 7
+  },
+  {
+   "place": 32,
+   "name": "NightMonkey",
+   "points": 18,
+   "dailyPoints": 8,
+   "weeklyPoints": 10,
+   "wins": 0,
+   "top10": 1,
+   "played": 10
   },
   {
    "place": 33,

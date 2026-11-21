@@ -2,7 +2,7 @@
  "kind": "weekly",
  "period": "2026-W47",
  "final": false,
- "updatedUtc": "2026-11-21T08:33:45+00:00",
+ "updatedUtc": "2026-11-21T09:36:24+00:00",
  "players": 102,
  "top": [
   {
@@ -147,23 +147,23 @@
   },
   {
    "place": 29,
+   "score": 8194,
+   "name": "effrit"
+  },
+  {
+   "place": 30,
    "score": 8046,
    "name": "Undead"
   },
   {
-   "place": 30,
+   "place": 31,
    "score": 8015,
    "name": "Ascent"
   },
   {
-   "place": 31,
+   "place": 32,
    "score": 8006,
    "name": "Birdman"
-  },
-  {
-   "place": 32,
-   "score": 7835,
-   "name": "effrit"
   },
   {
    "place": 33,
