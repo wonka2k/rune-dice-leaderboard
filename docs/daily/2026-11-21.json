@@ -2,8 +2,8 @@
  "kind": "daily",
  "period": "2026-11-21",
  "final": false,
- "updatedUtc": "2026-11-21T01:21:42+00:00",
- "players": 10,
+ "updatedUtc": "2026-11-21T08:33:45+00:00",
+ "players": 41,
  "top": [
   {
    "place": 1,
@@ -12,7 +12,7 @@
   },
   {
    "place": 2,
-   "score": 7506,
+   "score": 8261,
    "name": "Speiger"
   },
   {
@@ -27,33 +27,188 @@
   },
   {
    "place": 5,
-   "score": 3537,
-   "name": "thor"
+   "score": 4132,
+   "name": "harald"
   },
   {
    "place": 6,
+   "score": 4087,
+   "name": "thor"
+  },
+  {
+   "place": 7,
+   "score": 4040,
+   "name": "imsobad"
+  },
+  {
+   "place": 8,
+   "score": 3950,
+   "name": "harmlessmostly"
+  },
+  {
+   "place": 9,
+   "score": 3857,
+   "name": "NightMonkey"
+  },
+  {
+   "place": 10,
+   "score": 3824,
+   "name": "hidamari983"
+  },
+  {
+   "place": 11,
+   "score": 3580,
+   "name": "dsbdn4"
+  },
+  {
+   "place": 12,
+   "score": 3523,
+   "name": "numasan"
+  },
+  {
+   "place": 13,
    "score": 3522,
    "name": "teo.8989"
   },
   {
-   "place": 7,
+   "place": 14,
+   "score": 3303,
+   "name": "BlaZz<3R"
+  },
+  {
+   "place": 15,
+   "score": 3216,
+   "name": "lautinho"
+  },
+  {
+   "place": 16,
    "score": 3188,
    "name": "FlameHricane"
   },
   {
-   "place": 8,
+   "place": 17,
+   "score": 3188,
+   "name": "cnh1289"
+  },
+  {
+   "place": 18,
+   "score": 3080,
+   "name": "grichill"
+  },
+  {
+   "place": 19,
+   "score": 3061,
+   "name": "青丝断魂"
+  },
+  {
+   "place": 20,
+   "score": 3035,
+   "name": "KTumas"
+  },
+  {
+   "place": 21,
+   "score": 2979,
+   "name": "omberzombie"
+  },
+  {
+   "place": 22,
+   "score": 2909,
+   "name": "stargub"
+  },
+  {
+   "place": 23,
+   "score": 2825,
+   "name": "donutman"
+  },
+  {
+   "place": 24,
+   "score": 2764,
+   "name": "JaggyBoo"
+  },
+  {
+   "place": 25,
    "score": 2751,
    "name": "Den"
   },
   {
-   "place": 9,
+   "place": 26,
+   "score": 2740,
+   "name": "HellSpawn"
+  },
+  {
+   "place": 27,
+   "score": 2718,
+   "name": "Luna寧"
+  },
+  {
+   "place": 28,
+   "score": 2710,
+   "name": "Tyberius"
+  },
+  {
+   "place": 29,
+   "score": 2709,
+   "name": "Dolbomir"
+  },
+  {
+   "place": 30,
+   "score": 2622,
+   "name": "mitchbankert"
+  },
+  {
+   "place": 31,
+   "score": 2558,
+   "name": "Nugget"
+  },
+  {
+   "place": 32,
    "score": 2375,
    "name": "Tessi918"
   },
   {
-   "place": 10,
+   "place": 33,
+   "score": 2366,
+   "name": "Brave"
+  },
+  {
+   "place": 34,
    "score": 2320,
    "name": "greg.saunders"
+  },
+  {
+   "place": 35,
+   "score": 2205,
+   "name": "effrit"
+  },
+  {
+   "place": 36,
+   "score": 2186,
+   "name": "Dingus"
+  },
+  {
+   "place": 37,
+   "score": 1914,
+   "name": "ghostbae"
+  },
+  {
+   "place": 38,
+   "score": 1826,
+   "name": "vorontsov.v.n"
+  },
+  {
+   "place": 39,
+   "score": 1814,
+   "name": "SilentWolf"
+  },
+  {
+   "place": 40,
+   "score": 557,
+   "name": "leeleelee"
+  },
+  {
+   "place": 41,
+   "score": 354,
+   "name": "Tyler1171"
   }
  ]
 }
