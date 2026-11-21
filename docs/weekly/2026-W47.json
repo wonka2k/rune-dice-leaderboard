@@ -2,8 +2,8 @@
  "kind": "weekly",
  "period": "2026-W47",
  "final": false,
- "updatedUtc": "2026-11-21T09:36:24+00:00",
- "players": 102,
+ "updatedUtc": "2026-11-21T17:20:30+00:00",
+ "players": 115,
  "top": [
   {
    "place": 1,
@@ -197,63 +197,63 @@
   },
   {
    "place": 39,
+   "score": 7158,
+   "name": "NegatiVeXL"
+  },
+  {
+   "place": 40,
    "score": 7071,
    "name": "abab112200"
   },
   {
-   "place": 40,
+   "place": 41,
    "score": 6969,
    "name": "donutman"
   },
   {
-   "place": 41,
+   "place": 42,
    "score": 6588,
    "name": "Confusedsobing"
   },
   {
-   "place": 42,
+   "place": 43,
    "score": 6156,
    "name": "blacksnow151"
   },
   {
-   "place": 43,
-   "score": 5682,
-   "name": "harmlessmostly"
-  },
-  {
    "place": 44,
-   "score": 5617,
+   "score": 6085,
    "name": "NutriaHirsch"
   },
   {
    "place": 45,
+   "score": 5682,
+   "name": "harmlessmostly"
+  },
+  {
+   "place": 46,
    "score": 5185,
    "name": "greg.saunders"
   },
   {
-   "place": 46,
+   "place": 47,
    "score": 5158,
    "name": "funahky0072"
   },
   {
-   "place": 47,
+   "place": 48,
    "score": 5086,
    "name": "Sammy"
   },
   {
-   "place": 48,
+   "place": 49,
    "score": 4885,
    "name": "Koybe"
   },
   {
-   "place": 49,
+   "place": 50,
    "score": 4871,
    "name": "Styched"
-  },
-  {
-   "place": 50,
-   "score": 4619,
-   "name": "Domsie"
   }
  ]
 }
