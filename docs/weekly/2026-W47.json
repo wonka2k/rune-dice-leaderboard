@@ -2,8 +2,8 @@
  "kind": "weekly",
  "period": "2026-W47",
  "final": false,
- "updatedUtc": "2026-11-22T02:58:55+00:00",
- "players": 131,
+ "updatedUtc": "2026-11-22T11:03:19+00:00",
+ "players": 134,
  "top": [
   {
    "place": 1,
@@ -67,28 +67,28 @@
   },
   {
    "place": 13,
+   "score": 10953,
+   "name": "penguin_panguin"
+  },
+  {
+   "place": 14,
    "score": 10827,
    "name": "Neycon"
   },
   {
-   "place": 14,
+   "place": 15,
    "score": 10548,
    "name": "GodWeasel"
   },
   {
-   "place": 15,
+   "place": 16,
    "score": 10498,
    "name": "smart.raven"
   },
   {
-   "place": 16,
+   "place": 17,
    "score": 9892,
    "name": "grichill"
-  },
-  {
-   "place": 17,
-   "score": 9857,
-   "name": "penguin_panguin"
   },
   {
    "place": 18,
@@ -137,123 +137,123 @@
   },
   {
    "place": 27,
+   "score": 9170,
+   "name": "1136392537"
+  },
+  {
+   "place": 28,
    "score": 9130,
    "name": "Stern Howard"
   },
   {
-   "place": 28,
+   "place": 29,
    "score": 8720,
    "name": "WhoAmIDoctor"
   },
   {
-   "place": 29,
+   "place": 30,
    "score": 8704,
    "name": "takodotpy"
   },
   {
-   "place": 30,
+   "place": 31,
    "score": 8567,
    "name": "Kannon"
   },
   {
-   "place": 31,
+   "place": 32,
    "score": 8476,
    "name": "romantiqueamour01"
   },
   {
-   "place": 32,
+   "place": 33,
    "score": 8418,
    "name": "bip31"
   },
   {
-   "place": 33,
+   "place": 34,
    "score": 8194,
    "name": "effrit"
   },
   {
-   "place": 34,
+   "place": 35,
    "score": 8168,
    "name": "Unemployed duke"
   },
   {
-   "place": 35,
+   "place": 36,
    "score": 8046,
    "name": "Undead"
   },
   {
-   "place": 36,
+   "place": 37,
    "score": 8006,
    "name": "Birdman"
   },
   {
-   "place": 37,
+   "place": 38,
    "score": 7868,
    "name": "numasan"
   },
   {
-   "place": 38,
+   "place": 39,
    "score": 7687,
    "name": "Thibz"
   },
   {
-   "place": 39,
+   "place": 40,
    "score": 7375,
    "name": "Messremb"
   },
   {
-   "place": 40,
+   "place": 41,
    "score": 7326,
    "name": "Lola"
   },
   {
-   "place": 41,
+   "place": 42,
    "score": 7236,
    "name": "TysonsPunchOut"
   },
   {
-   "place": 42,
+   "place": 43,
    "score": 7189,
    "name": "zerume"
   },
   {
-   "place": 43,
+   "place": 44,
    "score": 7158,
    "name": "NegatiVeXL"
   },
   {
-   "place": 44,
+   "place": 45,
    "score": 7071,
    "name": "abab112200"
   },
   {
-   "place": 45,
+   "place": 46,
    "score": 6969,
    "name": "donutman"
   },
   {
-   "place": 46,
+   "place": 47,
+   "score": 6692,
+   "name": "Trollhugger"
+  },
+  {
+   "place": 48,
    "score": 6588,
    "name": "Confusedsobing"
   },
   {
-   "place": 47,
+   "place": 49,
    "score": 6156,
    "name": "blacksnow151"
   },
   {
-   "place": 48,
-   "score": 6085,
-   "name": "NutriaHirsch"
-  },
-  {
-   "place": 49,
-   "score": 5682,
-   "name": "harmlessmostly"
-  },
-  {
    "place": 50,
-   "score": 5185,
-   "name": "greg.saunders"
+   "score": 6123,
+   "name": "Tehkjel"
   }
  ]
 }
