@@ -2,18 +2,18 @@
  "kind": "weekly",
  "period": "2026-W47",
  "final": false,
- "updatedUtc": "2026-11-22T11:03:19+00:00",
- "players": 134,
+ "updatedUtc": "2026-11-22T18:25:54+00:00",
+ "players": 140,
  "top": [
   {
    "place": 1,
-   "score": 21540,
-   "name": "Lucyans"
+   "score": 22161,
+   "name": "nknp11092019"
   },
   {
    "place": 2,
-   "score": 19852,
-   "name": "nknp11092019"
+   "score": 21540,
+   "name": "Lucyans"
   },
   {
    "place": 3,
@@ -127,78 +127,78 @@
   },
   {
    "place": 25,
+   "score": 9317,
+   "name": "Thibz"
+  },
+  {
+   "place": 26,
    "score": 9240,
    "name": "CoyotOne1"
   },
   {
-   "place": 26,
+   "place": 27,
    "score": 9206,
    "name": "ssjoen"
   },
   {
-   "place": 27,
+   "place": 28,
    "score": 9170,
    "name": "1136392537"
   },
   {
-   "place": 28,
+   "place": 29,
    "score": 9130,
    "name": "Stern Howard"
   },
   {
-   "place": 29,
+   "place": 30,
    "score": 8720,
    "name": "WhoAmIDoctor"
   },
   {
-   "place": 30,
+   "place": 31,
    "score": 8704,
    "name": "takodotpy"
   },
   {
-   "place": 31,
+   "place": 32,
    "score": 8567,
    "name": "Kannon"
   },
   {
-   "place": 32,
+   "place": 33,
    "score": 8476,
    "name": "romantiqueamour01"
   },
   {
-   "place": 33,
+   "place": 34,
    "score": 8418,
    "name": "bip31"
   },
   {
-   "place": 34,
+   "place": 35,
    "score": 8194,
    "name": "effrit"
   },
   {
-   "place": 35,
+   "place": 36,
    "score": 8168,
    "name": "Unemployed duke"
   },
   {
-   "place": 36,
+   "place": 37,
    "score": 8046,
    "name": "Undead"
   },
   {
-   "place": 37,
+   "place": 38,
    "score": 8006,
    "name": "Birdman"
   },
   {
-   "place": 38,
+   "place": 39,
    "score": 7868,
    "name": "numasan"
-  },
-  {
-   "place": 39,
-   "score": 7687,
-   "name": "Thibz"
   },
   {
    "place": 40,
@@ -227,33 +227,33 @@
   },
   {
    "place": 45,
+   "score": 7155,
+   "name": "Mankoide"
+  },
+  {
+   "place": 46,
    "score": 7071,
    "name": "abab112200"
   },
   {
-   "place": 46,
+   "place": 47,
    "score": 6969,
    "name": "donutman"
   },
   {
-   "place": 47,
+   "place": 48,
+   "score": 6751,
+   "name": "Picolli"
+  },
+  {
+   "place": 49,
    "score": 6692,
    "name": "Trollhugger"
   },
   {
-   "place": 48,
+   "place": 50,
    "score": 6588,
    "name": "Confusedsobing"
-  },
-  {
-   "place": 49,
-   "score": 6156,
-   "name": "blacksnow151"
-  },
-  {
-   "place": 50,
-   "score": 6123,
-   "name": "Tehkjel"
   }
  ]
 }
