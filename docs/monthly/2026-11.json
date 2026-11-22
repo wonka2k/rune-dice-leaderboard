@@ -2,7 +2,7 @@
  "kind": "monthly",
  "period": "2026-11",
  "final": false,
- "updatedUtc": "2026-11-22T18:25:54+00:00",
+ "updatedUtc": "2026-11-22T23:05:37+00:00",
  "rules": {
   "points": [
    25,
@@ -82,6 +82,16 @@
   },
   {
    "place": 7,
+   "name": "NutriaHirsch",
+   "points": 95,
+   "dailyPoints": 15,
+   "weeklyPoints": 80,
+   "wins": 0,
+   "top10": 2,
+   "played": 8
+  },
+  {
+   "place": 8,
    "name": "JPJuanma",
    "points": 87,
    "dailyPoints": 82,
@@ -89,16 +99,6 @@
    "wins": 0,
    "top10": 8,
    "played": 10
-  },
-  {
-   "place": 8,
-   "name": "NutriaHirsch",
-   "points": 86,
-   "dailyPoints": 6,
-   "weeklyPoints": 80,
-   "wins": 0,
-   "top10": 1,
-   "played": 8
   },
   {
    "place": 9,
@@ -163,11 +163,11 @@
   {
    "place": 15,
    "name": "bichler70",
-   "points": 45,
-   "dailyPoints": 40,
+   "points": 44,
+   "dailyPoints": 39,
    "weeklyPoints": 5,
    "wins": 0,
-   "top10": 3,
+   "top10": 2,
    "played": 12
   },
   {
@@ -242,13 +242,13 @@
   },
   {
    "place": 23,
-   "name": "公子小白",
-   "points": 26,
-   "dailyPoints": 16,
+   "name": "GumboVariations",
+   "points": 24,
+   "dailyPoints": 14,
    "weeklyPoints": 10,
    "wins": 0,
-   "top10": 2,
-   "played": 4
+   "top10": 1,
+   "played": 13
   },
   {
    "place": 24,
@@ -262,13 +262,13 @@
   },
   {
    "place": 25,
-   "name": "GumboVariations",
-   "points": 23,
-   "dailyPoints": 13,
+   "name": "公子小白",
+   "points": 22,
+   "dailyPoints": 12,
    "weeklyPoints": 10,
    "wins": 0,
-   "top10": 1,
-   "played": 12
+   "top10": 2,
+   "played": 4
   },
   {
    "place": 26,
@@ -312,7 +312,7 @@
   },
   {
    "place": 30,
-   "name": "omberzombie",
+   "name": "romantiqueamour01",
    "points": 20,
    "dailyPoints": 10,
    "weeklyPoints": 10,
@@ -322,7 +322,7 @@
   },
   {
    "place": 31,
-   "name": "Dingus",
+   "name": "omberzombie",
    "points": 20,
    "dailyPoints": 10,
    "weeklyPoints": 10,
@@ -332,7 +332,7 @@
   },
   {
    "place": 32,
-   "name": "greg.saunders",
+   "name": "Dingus",
    "points": 20,
    "dailyPoints": 10,
    "weeklyPoints": 10,
@@ -342,6 +342,16 @@
   },
   {
    "place": 33,
+   "name": "greg.saunders",
+   "points": 20,
+   "dailyPoints": 10,
+   "weeklyPoints": 10,
+   "wins": 0,
+   "top10": 0,
+   "played": 12
+  },
+  {
+   "place": 34,
    "name": "Undead",
    "points": 19,
    "dailyPoints": 9,
@@ -351,7 +361,7 @@
    "played": 11
   },
   {
-   "place": 34,
+   "place": 35,
    "name": "numasan",
    "points": 19,
    "dailyPoints": 9,
@@ -361,8 +371,8 @@
    "played": 11
   },
   {
-   "place": 35,
-   "name": "romantiqueamour01",
+   "place": 36,
+   "name": "NightMonkey",
    "points": 19,
    "dailyPoints": 9,
    "weeklyPoints": 10,
@@ -371,7 +381,7 @@
    "played": 11
   },
   {
-   "place": 36,
+   "place": 37,
    "name": "Filler",
    "points": 18,
    "dailyPoints": 8,
@@ -381,7 +391,7 @@
    "played": 7
   },
   {
-   "place": 37,
+   "place": 38,
    "name": "Stern Howard",
    "points": 18,
    "dailyPoints": 3,
@@ -391,7 +401,7 @@
    "played": 5
   },
   {
-   "place": 38,
+   "place": 39,
    "name": "pgaya",
    "points": 18,
    "dailyPoints": 18,
@@ -399,16 +409,6 @@
    "wins": 0,
    "top10": 1,
    "played": 1
-  },
-  {
-   "place": 39,
-   "name": "NightMonkey",
-   "points": 18,
-   "dailyPoints": 8,
-   "weeklyPoints": 10,
-   "wins": 0,
-   "top10": 0,
-   "played": 10
   },
   {
    "place": 40,
@@ -482,16 +482,6 @@
   },
   {
    "place": 47,
-   "name": "Thibz",
-   "points": 16,
-   "dailyPoints": 11,
-   "weeklyPoints": 5,
-   "wins": 0,
-   "top10": 1,
-   "played": 5
-  },
-  {
-   "place": 48,
    "name": "donutman",
    "points": 16,
    "dailyPoints": 6,
@@ -501,7 +491,7 @@
    "played": 8
   },
   {
-   "place": 49,
+   "place": 48,
    "name": "h0ppet0ssE",
    "points": 16,
    "dailyPoints": 6,
@@ -511,8 +501,18 @@
    "played": 8
   },
   {
-   "place": 50,
+   "place": 49,
    "name": "Unemployed duke",
+   "points": 16,
+   "dailyPoints": 6,
+   "weeklyPoints": 10,
+   "wins": 0,
+   "top10": 0,
+   "played": 8
+  },
+  {
+   "place": 50,
+   "name": "X-tention",
    "points": 16,
    "dailyPoints": 6,
    "weeklyPoints": 10,
