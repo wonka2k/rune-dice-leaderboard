@@ -1,9 +1,9 @@
 {
  "kind": "daily",
  "period": "2026-11-22",
- "final": false,
- "updatedUtc": "2026-11-22T23:05:37+00:00",
- "players": 124,
+ "final": true,
+ "updatedUtc": "2026-11-23T00:10:39+00:00",
+ "players": 132,
  "top": [
   {
    "place": 1,
@@ -197,63 +197,63 @@
   },
   {
    "place": 39,
+   "score": 3074,
+   "name": "w i n d u u f m"
+  },
+  {
+   "place": 40,
    "score": 3067,
    "name": "dicker84"
   },
   {
-   "place": 40,
+   "place": 41,
    "score": 3055,
    "name": "Courtney Strike"
   },
   {
-   "place": 41,
+   "place": 42,
    "score": 3030,
    "name": "gegel.hune"
   },
   {
-   "place": 42,
+   "place": 43,
    "score": 3021,
    "name": "Rick1Chick"
   },
   {
-   "place": 43,
+   "place": 44,
    "score": 2993,
    "name": "kindair"
   },
   {
-   "place": 44,
+   "place": 45,
    "score": 2980,
    "name": "Brightstorm Rising"
   },
   {
-   "place": 45,
+   "place": 46,
    "score": 2979,
    "name": "adryy2575"
   },
   {
-   "place": 46,
+   "place": 47,
    "score": 2934,
    "name": "Vamos."
   },
   {
-   "place": 47,
+   "place": 48,
    "score": 2928,
    "name": "thor"
   },
   {
-   "place": 48,
+   "place": 49,
    "score": 2926,
    "name": "cah6566"
   },
   {
-   "place": 49,
+   "place": 50,
    "score": 2924,
    "name": "Ceallach"
-  },
-  {
-   "place": 50,
-   "score": 2921,
-   "name": "Caerie"
   }
  ]
 }
