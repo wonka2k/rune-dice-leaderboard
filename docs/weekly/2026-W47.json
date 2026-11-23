@@ -2,8 +2,8 @@
  "kind": "weekly",
  "period": "2026-W47",
  "final": false,
- "updatedUtc": "2026-11-23T16:59:48+00:00",
- "players": 154,
+ "updatedUtc": "2026-11-23T21:12:11+00:00",
+ "players": 160,
  "top": [
   {
    "place": 1,
@@ -192,68 +192,68 @@
   },
   {
    "place": 38,
+   "score": 8437,
+   "name": "Noname"
+  },
+  {
+   "place": 39,
    "score": 8418,
    "name": "bip31"
   },
   {
-   "place": 39,
+   "place": 40,
    "score": 8390,
    "name": "mister.strange"
   },
   {
-   "place": 40,
+   "place": 41,
    "score": 8194,
    "name": "effrit"
   },
   {
-   "place": 41,
+   "place": 42,
    "score": 8168,
    "name": "Unemployed duke"
   },
   {
-   "place": 42,
+   "place": 43,
    "score": 8046,
    "name": "Undead"
   },
   {
-   "place": 43,
+   "place": 44,
    "score": 8006,
    "name": "Birdman"
   },
   {
-   "place": 44,
+   "place": 45,
    "score": 7868,
    "name": "numasan"
   },
   {
-   "place": 45,
+   "place": 46,
+   "score": 7647,
+   "name": "lunamoon46"
+  },
+  {
+   "place": 47,
    "score": 7375,
    "name": "Messremb"
   },
   {
-   "place": 46,
+   "place": 48,
    "score": 7326,
    "name": "Lola"
   },
   {
-   "place": 47,
+   "place": 49,
    "score": 7236,
    "name": "TysonsPunchOut"
   },
   {
-   "place": 48,
+   "place": 50,
    "score": 7189,
    "name": "zerume"
-  },
-  {
-   "place": 49,
-   "score": 7158,
-   "name": "NegatiVeXL"
-  },
-  {
-   "place": 50,
-   "score": 7155,
-   "name": "Mankoide"
   }
  ]
 }
