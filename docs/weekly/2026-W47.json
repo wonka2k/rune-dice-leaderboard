@@ -2,8 +2,8 @@
  "kind": "weekly",
  "period": "2026-W47",
  "final": false,
- "updatedUtc": "2026-11-23T21:12:11+00:00",
- "players": 160,
+ "updatedUtc": "2026-11-24T05:53:34+00:00",
+ "players": 163,
  "top": [
   {
    "place": 1,
@@ -32,33 +32,33 @@
   },
   {
    "place": 6,
+   "score": 14116,
+   "name": "Snafu"
+  },
+  {
+   "place": 7,
    "score": 13270,
    "name": "Neycon"
   },
   {
-   "place": 7,
+   "place": 8,
    "score": 12500,
    "name": "teo.8989"
   },
   {
-   "place": 8,
+   "place": 9,
    "score": 12106,
    "name": "Freep"
   },
   {
-   "place": 9,
+   "place": 10,
    "score": 11876,
    "name": "lautinho"
   },
   {
-   "place": 10,
-   "score": 11697,
-   "name": "Ascent"
-  },
-  {
    "place": 11,
-   "score": 11591,
-   "name": "Snafu"
+   "score": 11762,
+   "name": "Ascent"
   },
   {
    "place": 12,
