@@ -2,7 +2,7 @@
  "kind": "monthly",
  "period": "2026-12",
  "final": false,
- "updatedUtc": "2026-11-25T02:14:54+00:00",
+ "updatedUtc": "2026-11-25T02:37:41+00:00",
  "rules": {
   "points": [
    25,
@@ -42,7 +42,7 @@
   },
   {
    "place": 3,
-   "name": "grichill",
+   "name": "harmlessmostly",
    "points": 75,
    "dailyPoints": 0,
    "weeklyPoints": 75,
@@ -52,7 +52,7 @@
   },
   {
    "place": 4,
-   "name": "Floppa",
+   "name": "teo.8989",
    "points": 60,
    "dailyPoints": 0,
    "weeklyPoints": 60,
@@ -62,7 +62,7 @@
   },
   {
    "place": 5,
-   "name": "Unemployed duke",
+   "name": "thor",
    "points": 50,
    "dailyPoints": 0,
    "weeklyPoints": 50,
@@ -72,7 +72,7 @@
   },
   {
    "place": 6,
-   "name": "teo.8989",
+   "name": "grichill",
    "points": 40,
    "dailyPoints": 0,
    "weeklyPoints": 40,
@@ -82,7 +82,7 @@
   },
   {
    "place": 7,
-   "name": "FaWas",
+   "name": "Floppa",
    "points": 30,
    "dailyPoints": 0,
    "weeklyPoints": 30,
@@ -92,7 +92,7 @@
   },
   {
    "place": 8,
-   "name": "MitterMak",
+   "name": "Unemployed duke",
    "points": 20,
    "dailyPoints": 0,
    "weeklyPoints": 20,
@@ -102,12 +102,32 @@
   },
   {
    "place": 9,
-   "name": "harmlessmostly",
+   "name": "FaWas",
    "points": 10,
    "dailyPoints": 0,
    "weeklyPoints": 10,
    "wins": 0,
    "top10": 1,
+   "played": 1
+  },
+  {
+   "place": 10,
+   "name": "MitterMak",
+   "points": 5,
+   "dailyPoints": 0,
+   "weeklyPoints": 5,
+   "wins": 0,
+   "top10": 1,
+   "played": 1
+  },
+  {
+   "place": 11,
+   "name": "lyduton",
+   "points": 5,
+   "dailyPoints": 0,
+   "weeklyPoints": 5,
+   "wins": 0,
+   "top10": 0,
    "played": 1
   }
  ]
