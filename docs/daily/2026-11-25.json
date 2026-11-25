@@ -1,0 +1,54 @@
+{
+ "kind": "daily",
+ "period": "2026-11-25",
+ "final": false,
+ "updatedUtc": "2026-11-25T02:14:54+00:00",
+ "players": 9,
+ "top": [
+  {
+   "place": 1,
+   "score": 2774,
+   "name": "nknp11092019"
+  },
+  {
+   "place": 2,
+   "score": 2304,
+   "name": "🤘"
+  },
+  {
+   "place": 3,
+   "score": 2069,
+   "name": "thor"
+  },
+  {
+   "place": 4,
+   "score": 2061,
+   "name": "harmlessmostly"
+  },
+  {
+   "place": 5,
+   "score": 1992,
+   "name": "Unemployed duke"
+  },
+  {
+   "place": 6,
+   "score": 1980,
+   "name": "GodWeasel"
+  },
+  {
+   "place": 7,
+   "score": 1815,
+   "name": "omberzombie"
+  },
+  {
+   "place": 8,
+   "score": 1767,
+   "name": "Omi"
+  },
+  {
+   "place": 9,
+   "score": 1370,
+   "name": "R4"
+  }
+ ]
+}
