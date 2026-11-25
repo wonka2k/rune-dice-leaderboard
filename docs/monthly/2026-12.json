@@ -2,7 +2,7 @@
  "kind": "monthly",
  "period": "2026-12",
  "final": false,
- "updatedUtc": "2026-11-25T02:37:41+00:00",
+ "updatedUtc": "2026-11-25T08:28:12+00:00",
  "rules": {
   "points": [
    25,
@@ -42,7 +42,7 @@
   },
   {
    "place": 3,
-   "name": "harmlessmostly",
+   "name": "thor",
    "points": 75,
    "dailyPoints": 0,
    "weeklyPoints": 75,
@@ -52,7 +52,7 @@
   },
   {
    "place": 4,
-   "name": "teo.8989",
+   "name": "harmlessmostly",
    "points": 60,
    "dailyPoints": 0,
    "weeklyPoints": 60,
@@ -62,7 +62,7 @@
   },
   {
    "place": 5,
-   "name": "thor",
+   "name": "teo.8989",
    "points": 50,
    "dailyPoints": 0,
    "weeklyPoints": 50,
@@ -72,7 +72,7 @@
   },
   {
    "place": 6,
-   "name": "grichill",
+   "name": "GumboVariations",
    "points": 40,
    "dailyPoints": 0,
    "weeklyPoints": 40,
@@ -82,7 +82,7 @@
   },
   {
    "place": 7,
-   "name": "Floppa",
+   "name": "Thibz",
    "points": 30,
    "dailyPoints": 0,
    "weeklyPoints": 30,
@@ -92,7 +92,7 @@
   },
   {
    "place": 8,
-   "name": "Unemployed duke",
+   "name": "MitterMak",
    "points": 20,
    "dailyPoints": 0,
    "weeklyPoints": 20,
@@ -102,7 +102,7 @@
   },
   {
    "place": 9,
-   "name": "FaWas",
+   "name": "grichill",
    "points": 10,
    "dailyPoints": 0,
    "weeklyPoints": 10,
@@ -112,7 +112,7 @@
   },
   {
    "place": 10,
-   "name": "MitterMak",
+   "name": "donutman",
    "points": 5,
    "dailyPoints": 0,
    "weeklyPoints": 5,
@@ -122,6 +122,76 @@
   },
   {
    "place": 11,
+   "name": "QIMXIN(yososexykim)",
+   "points": 5,
+   "dailyPoints": 0,
+   "weeklyPoints": 5,
+   "wins": 0,
+   "top10": 0,
+   "played": 1
+  },
+  {
+   "place": 12,
+   "name": "Floppa",
+   "points": 5,
+   "dailyPoints": 0,
+   "weeklyPoints": 5,
+   "wins": 0,
+   "top10": 0,
+   "played": 1
+  },
+  {
+   "place": 13,
+   "name": "gcillo",
+   "points": 5,
+   "dailyPoints": 0,
+   "weeklyPoints": 5,
+   "wins": 0,
+   "top10": 0,
+   "played": 1
+  },
+  {
+   "place": 14,
+   "name": "Unemployed duke",
+   "points": 5,
+   "dailyPoints": 0,
+   "weeklyPoints": 5,
+   "wins": 0,
+   "top10": 0,
+   "played": 1
+  },
+  {
+   "place": 15,
+   "name": "FaWas",
+   "points": 5,
+   "dailyPoints": 0,
+   "weeklyPoints": 5,
+   "wins": 0,
+   "top10": 0,
+   "played": 1
+  },
+  {
+   "place": 16,
+   "name": "lautinho",
+   "points": 5,
+   "dailyPoints": 0,
+   "weeklyPoints": 5,
+   "wins": 0,
+   "top10": 0,
+   "played": 1
+  },
+  {
+   "place": 17,
+   "name": "greg.saunders",
+   "points": 5,
+   "dailyPoints": 0,
+   "weeklyPoints": 5,
+   "wins": 0,
+   "top10": 0,
+   "played": 1
+  },
+  {
+   "place": 18,
    "name": "lyduton",
    "points": 5,
    "dailyPoints": 0,

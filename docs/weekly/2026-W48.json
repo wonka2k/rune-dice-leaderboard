@@ -2,8 +2,8 @@
  "kind": "weekly",
  "period": "2026-W48",
  "final": false,
- "updatedUtc": "2026-11-25T02:37:41+00:00",
- "players": 11,
+ "updatedUtc": "2026-11-25T08:28:12+00:00",
+ "players": 18,
  "top": [
   {
    "place": 1,
@@ -17,46 +17,81 @@
   },
   {
    "place": 3,
+   "score": 13199,
+   "name": "thor"
+  },
+  {
+   "place": 4,
    "score": 12322,
    "name": "harmlessmostly"
   },
   {
-   "place": 4,
+   "place": 5,
    "score": 12166,
    "name": "teo.8989"
   },
   {
-   "place": 5,
-   "score": 12129,
-   "name": "thor"
+   "place": 6,
+   "score": 12098,
+   "name": "GumboVariations"
   },
   {
-   "place": 6,
+   "place": 7,
+   "score": 12095,
+   "name": "Thibz"
+  },
+  {
+   "place": 8,
+   "score": 11174,
+   "name": "MitterMak"
+  },
+  {
+   "place": 9,
    "score": 10847,
    "name": "grichill"
   },
   {
-   "place": 7,
+   "place": 10,
+   "score": 10784,
+   "name": "donutman"
+  },
+  {
+   "place": 11,
+   "score": 10134,
+   "name": "QIMXIN(yososexykim)"
+  },
+  {
+   "place": 12,
    "score": 8666,
    "name": "Floppa"
   },
   {
-   "place": 8,
+   "place": 13,
+   "score": 8625,
+   "name": "gcillo"
+  },
+  {
+   "place": 14,
    "score": 7974,
    "name": "Unemployed duke"
   },
   {
-   "place": 9,
+   "place": 15,
    "score": 7749,
    "name": "FaWas"
   },
   {
-   "place": 10,
-   "score": 2674,
-   "name": "MitterMak"
+   "place": 16,
+   "score": 6621,
+   "name": "lautinho"
   },
   {
-   "place": 11,
+   "place": 17,
+   "score": 4782,
+   "name": "greg.saunders"
+  },
+  {
+   "place": 18,
    "score": 741,
    "name": "lyduton"
   }
