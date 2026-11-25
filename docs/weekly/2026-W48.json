@@ -2,8 +2,8 @@
  "kind": "weekly",
  "period": "2026-W48",
  "final": false,
- "updatedUtc": "2026-11-25T08:28:12+00:00",
- "players": 18,
+ "updatedUtc": "2026-11-25T12:35:26+00:00",
+ "players": 23,
  "top": [
   {
    "place": 1,
@@ -52,46 +52,71 @@
   },
   {
    "place": 10,
+   "score": 10810,
+   "name": "Larran"
+  },
+  {
+   "place": 11,
    "score": 10784,
    "name": "donutman"
   },
   {
-   "place": 11,
+   "place": 12,
+   "score": 10642,
+   "name": "esinel"
+  },
+  {
+   "place": 13,
    "score": 10134,
    "name": "QIMXIN(yososexykim)"
   },
   {
-   "place": 12,
+   "place": 14,
+   "score": 8975,
+   "name": "Marson"
+  },
+  {
+   "place": 15,
    "score": 8666,
    "name": "Floppa"
   },
   {
-   "place": 13,
+   "place": 16,
    "score": 8625,
    "name": "gcillo"
   },
   {
-   "place": 14,
+   "place": 17,
    "score": 7974,
    "name": "Unemployed duke"
   },
   {
-   "place": 15,
+   "place": 18,
    "score": 7749,
    "name": "FaWas"
   },
   {
-   "place": 16,
+   "place": 19,
    "score": 6621,
    "name": "lautinho"
   },
   {
-   "place": 17,
+   "place": 20,
    "score": 4782,
    "name": "greg.saunders"
   },
   {
-   "place": 18,
+   "place": 21,
+   "score": 2906,
+   "name": "caf.gasol"
+  },
+  {
+   "place": 22,
+   "score": 808,
+   "name": "Крыса"
+  },
+  {
+   "place": 23,
    "score": 741,
    "name": "lyduton"
   }

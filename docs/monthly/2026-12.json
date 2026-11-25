@@ -2,7 +2,7 @@
  "kind": "monthly",
  "period": "2026-12",
  "final": false,
- "updatedUtc": "2026-11-25T08:28:12+00:00",
+ "updatedUtc": "2026-11-25T12:35:26+00:00",
  "rules": {
   "points": [
    25,
@@ -112,7 +112,7 @@
   },
   {
    "place": 10,
-   "name": "donutman",
+   "name": "Larran",
    "points": 5,
    "dailyPoints": 0,
    "weeklyPoints": 5,
@@ -122,7 +122,7 @@
   },
   {
    "place": 11,
-   "name": "QIMXIN(yososexykim)",
+   "name": "donutman",
    "points": 5,
    "dailyPoints": 0,
    "weeklyPoints": 5,
@@ -132,7 +132,7 @@
   },
   {
    "place": 12,
-   "name": "Floppa",
+   "name": "esinel",
    "points": 5,
    "dailyPoints": 0,
    "weeklyPoints": 5,
@@ -142,7 +142,7 @@
   },
   {
    "place": 13,
-   "name": "gcillo",
+   "name": "QIMXIN(yososexykim)",
    "points": 5,
    "dailyPoints": 0,
    "weeklyPoints": 5,
@@ -152,7 +152,7 @@
   },
   {
    "place": 14,
-   "name": "Unemployed duke",
+   "name": "Marson",
    "points": 5,
    "dailyPoints": 0,
    "weeklyPoints": 5,
@@ -162,7 +162,7 @@
   },
   {
    "place": 15,
-   "name": "FaWas",
+   "name": "Floppa",
    "points": 5,
    "dailyPoints": 0,
    "weeklyPoints": 5,
@@ -172,7 +172,7 @@
   },
   {
    "place": 16,
-   "name": "lautinho",
+   "name": "gcillo",
    "points": 5,
    "dailyPoints": 0,
    "weeklyPoints": 5,
@@ -182,7 +182,7 @@
   },
   {
    "place": 17,
-   "name": "greg.saunders",
+   "name": "Unemployed duke",
    "points": 5,
    "dailyPoints": 0,
    "weeklyPoints": 5,
@@ -192,6 +192,56 @@
   },
   {
    "place": 18,
+   "name": "FaWas",
+   "points": 5,
+   "dailyPoints": 0,
+   "weeklyPoints": 5,
+   "wins": 0,
+   "top10": 0,
+   "played": 1
+  },
+  {
+   "place": 19,
+   "name": "lautinho",
+   "points": 5,
+   "dailyPoints": 0,
+   "weeklyPoints": 5,
+   "wins": 0,
+   "top10": 0,
+   "played": 1
+  },
+  {
+   "place": 20,
+   "name": "greg.saunders",
+   "points": 5,
+   "dailyPoints": 0,
+   "weeklyPoints": 5,
+   "wins": 0,
+   "top10": 0,
+   "played": 1
+  },
+  {
+   "place": 21,
+   "name": "caf.gasol",
+   "points": 5,
+   "dailyPoints": 0,
+   "weeklyPoints": 5,
+   "wins": 0,
+   "top10": 0,
+   "played": 1
+  },
+  {
+   "place": 22,
+   "name": "Крыса",
+   "points": 5,
+   "dailyPoints": 0,
+   "weeklyPoints": 5,
+   "wins": 0,
+   "top10": 0,
+   "played": 1
+  },
+  {
+   "place": 23,
    "name": "lyduton",
    "points": 5,
    "dailyPoints": 0,
