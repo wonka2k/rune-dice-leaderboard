@@ -2,7 +2,7 @@
  "kind": "monthly",
  "period": "2026-11",
  "final": false,
- "updatedUtc": "2026-11-26T21:59:35+00:00",
+ "updatedUtc": "2026-11-26T23:42:38+00:00",
  "rules": {
   "points": [
    25,
@@ -22,29 +22,29 @@
  "top": [
   {
    "place": 1,
-   "name": "Lucyans",
-   "points": 350,
-   "dailyPoints": 240,
-   "weeklyPoints": 110,
+   "name": "Guilhão",
+   "points": 369,
+   "dailyPoints": 244,
+   "weeklyPoints": 125,
    "wins": 5,
+   "top10": 15,
+   "played": 15
+  },
+  {
+   "place": 2,
+   "name": "Lucyans",
+   "points": 343,
+   "dailyPoints": 233,
+   "weeklyPoints": 110,
+   "wins": 4,
    "top10": 16,
    "played": 17
   },
   {
-   "place": 2,
-   "name": "Guilhão",
-   "points": 344,
-   "dailyPoints": 219,
-   "weeklyPoints": 125,
-   "wins": 4,
-   "top10": 14,
-   "played": 14
-  },
-  {
    "place": 3,
    "name": "nknp11092019",
-   "points": 303,
-   "dailyPoints": 88,
+   "points": 300,
+   "dailyPoints": 85,
    "weeklyPoints": 215,
    "wins": 1,
    "top10": 10,
@@ -53,8 +53,8 @@
   {
    "place": 4,
    "name": "Snafu",
-   "points": 259,
-   "dailyPoints": 159,
+   "points": 256,
+   "dailyPoints": 156,
    "weeklyPoints": 100,
    "wins": 2,
    "top10": 14,
@@ -93,8 +93,8 @@
   {
    "place": 8,
    "name": "prostofilat",
-   "points": 92,
-   "dailyPoints": 82,
+   "points": 90,
+   "dailyPoints": 80,
    "weeklyPoints": 10,
    "wins": 1,
    "top10": 8,
@@ -113,8 +113,8 @@
   {
    "place": 10,
    "name": "Chekov",
-   "points": 70,
-   "dailyPoints": 65,
+   "points": 69,
+   "dailyPoints": 64,
    "weeklyPoints": 5,
    "wins": 0,
    "top10": 7,
@@ -123,8 +123,8 @@
   {
    "place": 11,
    "name": "pplzu",
-   "points": 63,
-   "dailyPoints": 58,
+   "points": 61,
+   "dailyPoints": 56,
    "weeklyPoints": 5,
    "wins": 0,
    "top10": 7,
@@ -232,16 +232,6 @@
   },
   {
    "place": 22,
-   "name": "GodWeasel",
-   "points": 28,
-   "dailyPoints": 18,
-   "weeklyPoints": 10,
-   "wins": 0,
-   "top10": 1,
-   "played": 17
-  },
-  {
-   "place": 23,
    "name": "Ascent",
    "points": 27,
    "dailyPoints": 2,
@@ -249,6 +239,16 @@
    "wins": 0,
    "top10": 1,
    "played": 4
+  },
+  {
+   "place": 23,
+   "name": "GodWeasel",
+   "points": 26,
+   "dailyPoints": 16,
+   "weeklyPoints": 10,
+   "wins": 0,
+   "top10": 1,
+   "played": 17
   },
   {
    "place": 24,
@@ -262,16 +262,6 @@
   },
   {
    "place": 25,
-   "name": "Libra89x",
-   "points": 24,
-   "dailyPoints": 24,
-   "weeklyPoints": 0,
-   "wins": 0,
-   "top10": 2,
-   "played": 8
-  },
-  {
-   "place": 26,
    "name": "WhoAmIDoctor",
    "points": 24,
    "dailyPoints": 14,
@@ -281,7 +271,7 @@
    "played": 9
   },
   {
-   "place": 27,
+   "place": 26,
    "name": "Larran",
    "points": 24,
    "dailyPoints": 14,
@@ -291,7 +281,7 @@
    "played": 11
   },
   {
-   "place": 28,
+   "place": 27,
    "name": "romantiqueamour01",
    "points": 24,
    "dailyPoints": 14,
@@ -301,7 +291,7 @@
    "played": 16
   },
   {
-   "place": 29,
+   "place": 28,
    "name": "omberzombie",
    "points": 24,
    "dailyPoints": 14,
@@ -311,7 +301,7 @@
    "played": 16
   },
   {
-   "place": 30,
+   "place": 29,
    "name": "lautinho",
    "points": 24,
    "dailyPoints": 14,
@@ -321,7 +311,7 @@
    "played": 16
   },
   {
-   "place": 31,
+   "place": 30,
    "name": "greg.saunders",
    "points": 24,
    "dailyPoints": 14,
@@ -329,6 +319,16 @@
    "wins": 0,
    "top10": 0,
    "played": 16
+  },
+  {
+   "place": 31,
+   "name": "smart.raven",
+   "points": 23,
+   "dailyPoints": 13,
+   "weeklyPoints": 10,
+   "wins": 0,
+   "top10": 2,
+   "played": 13
   },
   {
    "place": 32,
@@ -352,13 +352,13 @@
   },
   {
    "place": 34,
-   "name": "smart.raven",
+   "name": "Libra89x",
    "points": 22,
-   "dailyPoints": 12,
-   "weeklyPoints": 10,
+   "dailyPoints": 22,
+   "weeklyPoints": 0,
    "wins": 0,
    "top10": 2,
-   "played": 12
+   "played": 8
   },
   {
    "place": 35,
