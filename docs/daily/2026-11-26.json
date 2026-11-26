@@ -1,0 +1,99 @@
+{
+ "kind": "daily",
+ "period": "2026-11-26",
+ "final": false,
+ "updatedUtc": "2026-11-26T02:59:14+00:00",
+ "players": 18,
+ "top": [
+  {
+   "place": 1,
+   "score": 13263,
+   "name": "Lucyans"
+  },
+  {
+   "place": 2,
+   "score": 7565,
+   "name": "nknp11092019"
+  },
+  {
+   "place": 3,
+   "score": 7501,
+   "name": "pplzu"
+  },
+  {
+   "place": 4,
+   "score": 5875,
+   "name": "GodWeasel"
+  },
+  {
+   "place": 5,
+   "score": 5101,
+   "name": "thor"
+  },
+  {
+   "place": 6,
+   "score": 4679,
+   "name": "imsobad"
+  },
+  {
+   "place": 7,
+   "score": 4149,
+   "name": "omberzombie"
+  },
+  {
+   "place": 8,
+   "score": 4094,
+   "name": "Willy"
+  },
+  {
+   "place": 9,
+   "score": 3856,
+   "name": "DgM"
+  },
+  {
+   "place": 10,
+   "score": 3609,
+   "name": "GumboVariations"
+  },
+  {
+   "place": 11,
+   "score": 3029,
+   "name": "Brightstorm Rising"
+  },
+  {
+   "place": 12,
+   "score": 3027,
+   "name": "gcillo"
+  },
+  {
+   "place": 13,
+   "score": 2797,
+   "name": "harmlessmostly"
+  },
+  {
+   "place": 14,
+   "score": 2736,
+   "name": "greg.saunders"
+  },
+  {
+   "place": 15,
+   "score": 2542,
+   "name": "R4"
+  },
+  {
+   "place": 16,
+   "score": 2251,
+   "name": "Tuca Chorrito"
+  },
+  {
+   "place": 17,
+   "score": 1824,
+   "name": "NightMonkey"
+  },
+  {
+   "place": 18,
+   "score": 318,
+   "name": "魏末"
+  }
+ ]
+}
