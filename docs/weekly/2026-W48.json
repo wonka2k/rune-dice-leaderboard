@@ -2,8 +2,8 @@
  "kind": "weekly",
  "period": "2026-W48",
  "final": false,
- "updatedUtc": "2026-11-26T02:59:14+00:00",
- "players": 57,
+ "updatedUtc": "2026-11-26T04:55:00+00:00",
+ "players": 60,
  "top": [
   {
    "place": 1,
@@ -22,7 +22,7 @@
   },
   {
    "place": 4,
-   "score": 13199,
+   "score": 13388,
    "name": "thor"
   },
   {
@@ -32,228 +32,228 @@
   },
   {
    "place": 6,
+   "score": 12458,
+   "name": "DgM"
+  },
+  {
+   "place": 7,
    "score": 12322,
    "name": "harmlessmostly"
   },
   {
-   "place": 7,
+   "place": 8,
    "score": 12273,
    "name": "R4"
   },
   {
-   "place": 8,
+   "place": 9,
    "score": 12166,
    "name": "teo.8989"
   },
   {
-   "place": 9,
+   "place": 10,
    "score": 12098,
    "name": "GumboVariations"
   },
   {
-   "place": 10,
+   "place": 11,
    "score": 12095,
    "name": "Thibz"
   },
   {
-   "place": 11,
+   "place": 12,
    "score": 11694,
    "name": "schiz87"
   },
   {
-   "place": 12,
+   "place": 13,
    "score": 11512,
    "name": "Neycon"
   },
   {
-   "place": 13,
+   "place": 14,
    "score": 11174,
    "name": "MitterMak"
   },
   {
-   "place": 14,
+   "place": 15,
    "score": 11009,
    "name": "Koybe"
   },
   {
-   "place": 15,
+   "place": 16,
    "score": 10847,
    "name": "grichill"
   },
   {
-   "place": 16,
+   "place": 17,
    "score": 10810,
    "name": "Larran"
   },
   {
-   "place": 17,
+   "place": 18,
    "score": 10784,
    "name": "donutman"
   },
   {
-   "place": 18,
+   "place": 19,
    "score": 10642,
    "name": "esinel"
   },
   {
-   "place": 19,
+   "place": 20,
    "score": 10416,
    "name": "Domsie"
   },
   {
-   "place": 20,
+   "place": 21,
    "score": 10134,
    "name": "QIMXIN(yososexykim)"
   },
   {
-   "place": 21,
+   "place": 22,
    "score": 10047,
    "name": "Sadistic"
   },
   {
-   "place": 22,
+   "place": 23,
+   "score": 9962,
+   "name": "gcillo"
+  },
+  {
+   "place": 24,
    "score": 9952,
    "name": "随心所欲"
   },
   {
-   "place": 23,
+   "place": 25,
    "score": 9879,
    "name": "zerathize"
   },
   {
-   "place": 24,
+   "place": 26,
    "score": 9875,
    "name": "zatrite1138"
   },
   {
-   "place": 25,
+   "place": 27,
    "score": 9675,
    "name": "pigionwithtophat"
   },
   {
-   "place": 26,
+   "place": 28,
    "score": 9565,
    "name": "CoyotOne1"
   },
   {
-   "place": 27,
+   "place": 29,
    "score": 9425,
    "name": "Wren"
   },
   {
-   "place": 28,
+   "place": 30,
    "score": 9364,
    "name": "P69B"
   },
   {
-   "place": 29,
+   "place": 31,
    "score": 9299,
    "name": "dicker84"
   },
   {
-   "place": 30,
-   "score": 9094,
-   "name": "gcillo"
-  },
-  {
-   "place": 31,
+   "place": 32,
    "score": 9055,
    "name": "NightMonkey"
   },
   {
-   "place": 32,
+   "place": 33,
    "score": 9044,
    "name": "ugrozaholod"
   },
   {
-   "place": 33,
+   "place": 34,
    "score": 8975,
    "name": "Marson"
   },
   {
-   "place": 34,
+   "place": 35,
    "score": 8830,
    "name": "Killerletz"
   },
   {
-   "place": 35,
+   "place": 36,
+   "score": 8779,
+   "name": "TastesLikeGator"
+  },
+  {
+   "place": 37,
    "score": 8666,
    "name": "Floppa"
   },
   {
-   "place": 36,
+   "place": 38,
    "score": 8619,
    "name": "Lola"
   },
   {
-   "place": 37,
+   "place": 39,
    "score": 8403,
    "name": "Dolendier"
   },
   {
-   "place": 38,
+   "place": 40,
    "score": 8399,
    "name": "dibly"
   },
   {
-   "place": 39,
+   "place": 41,
    "score": 8259,
    "name": "elodie.haser"
   },
   {
-   "place": 40,
+   "place": 42,
    "score": 7974,
    "name": "Unemployed duke"
   },
   {
-   "place": 41,
+   "place": 43,
    "score": 7798,
    "name": "fallennova"
   },
   {
-   "place": 42,
+   "place": 44,
    "score": 7749,
    "name": "FaWas"
   },
   {
-   "place": 43,
+   "place": 45,
+   "score": 7567,
+   "name": "saipris"
+  },
+  {
+   "place": 46,
    "score": 7423,
    "name": "kaila.glass2014"
   },
   {
-   "place": 44,
+   "place": 47,
    "score": 7221,
    "name": "numasan"
   },
   {
-   "place": 45,
+   "place": 48,
    "score": 7164,
    "name": "🤘"
   },
   {
-   "place": 46,
+   "place": 49,
    "score": 6621,
    "name": "lautinho"
   },
   {
-   "place": 47,
+   "place": 50,
    "score": 5711,
    "name": "Hitori"
-  },
-  {
-   "place": 48,
-   "score": 5476,
-   "name": "Pimpy_Skrimpy"
-  },
-  {
-   "place": 49,
-   "score": 4782,
-   "name": "greg.saunders"
-  },
-  {
-   "place": 50,
-   "score": 3534,
-   "name": "bxdfr"
   }
  ]
 }

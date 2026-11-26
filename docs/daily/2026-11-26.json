@@ -2,8 +2,8 @@
  "kind": "daily",
  "period": "2026-11-26",
  "final": false,
- "updatedUtc": "2026-11-26T02:59:14+00:00",
- "players": 18,
+ "updatedUtc": "2026-11-26T04:55:00+00:00",
+ "players": 27,
  "top": [
   {
    "place": 1,
@@ -67,33 +67,78 @@
   },
   {
    "place": 13,
+   "score": 3008,
+   "name": "damaton76"
+  },
+  {
+   "place": 14,
+   "score": 2953,
+   "name": "QIMXIN(yososexykim)"
+  },
+  {
+   "place": 15,
    "score": 2797,
    "name": "harmlessmostly"
   },
   {
-   "place": 14,
+   "place": 16,
+   "score": 2779,
+   "name": "Lemon Citric"
+  },
+  {
+   "place": 17,
    "score": 2736,
    "name": "greg.saunders"
   },
   {
-   "place": 15,
+   "place": 18,
+   "score": 2728,
+   "name": "Dingus"
+  },
+  {
+   "place": 19,
    "score": 2542,
    "name": "R4"
   },
   {
-   "place": 16,
+   "place": 20,
+   "score": 2378,
+   "name": "魏末"
+  },
+  {
+   "place": 21,
    "score": 2251,
    "name": "Tuca Chorrito"
   },
   {
-   "place": 17,
+   "place": 22,
    "score": 1824,
    "name": "NightMonkey"
   },
   {
-   "place": 18,
-   "score": 318,
-   "name": "魏末"
+   "place": 23,
+   "score": 1502,
+   "name": "BroHamMcNugs"
+  },
+  {
+   "place": 24,
+   "score": 1150,
+   "name": "lautinho"
+  },
+  {
+   "place": 25,
+   "score": 461,
+   "name": "jacobsh97"
+  },
+  {
+   "place": 26,
+   "score": 422,
+   "name": "gluten_mutant"
+  },
+  {
+   "place": 27,
+   "score": 281,
+   "name": "Enigma"
   }
  ]
 }

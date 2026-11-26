@@ -2,7 +2,7 @@
  "kind": "monthly",
  "period": "2026-11",
  "final": false,
- "updatedUtc": "2026-11-26T02:59:14+00:00",
+ "updatedUtc": "2026-11-26T04:55:00+00:00",
  "rules": {
   "points": [
    25,
@@ -282,7 +282,7 @@
   },
   {
    "place": 27,
-   "name": "greg.saunders",
+   "name": "lautinho",
    "points": 24,
    "dailyPoints": 14,
    "weeklyPoints": 10,
@@ -292,6 +292,16 @@
   },
   {
    "place": 28,
+   "name": "greg.saunders",
+   "points": 24,
+   "dailyPoints": 14,
+   "weeklyPoints": 10,
+   "wins": 0,
+   "top10": 0,
+   "played": 16
+  },
+  {
+   "place": 29,
    "name": "公子小白",
    "points": 23,
    "dailyPoints": 13,
@@ -301,7 +311,7 @@
    "played": 5
   },
   {
-   "place": 29,
+   "place": 30,
    "name": "Larran",
    "points": 23,
    "dailyPoints": 13,
@@ -311,18 +321,8 @@
    "played": 10
   },
   {
-   "place": 30,
-   "name": "romantiqueamour01",
-   "points": 23,
-   "dailyPoints": 13,
-   "weeklyPoints": 10,
-   "wins": 0,
-   "top10": 0,
-   "played": 15
-  },
-  {
    "place": 31,
-   "name": "lautinho",
+   "name": "romantiqueamour01",
    "points": 23,
    "dailyPoints": 13,
    "weeklyPoints": 10,
@@ -362,6 +362,16 @@
   },
   {
    "place": 35,
+   "name": "Dingus",
+   "points": 22,
+   "dailyPoints": 12,
+   "weeklyPoints": 10,
+   "wins": 0,
+   "top10": 0,
+   "played": 14
+  },
+  {
+   "place": 36,
    "name": "Freep",
    "points": 21,
    "dailyPoints": 16,
@@ -371,7 +381,7 @@
    "played": 3
   },
   {
-   "place": 36,
+   "place": 37,
    "name": "no-kitty-no-life",
    "points": 21,
    "dailyPoints": 11,
@@ -381,23 +391,13 @@
    "played": 4
   },
   {
-   "place": 37,
+   "place": 38,
    "name": "harmlessmostly",
    "points": 21,
    "dailyPoints": 11,
    "weeklyPoints": 10,
    "wins": 0,
    "top10": 1,
-   "played": 13
-  },
-  {
-   "place": 38,
-   "name": "Dingus",
-   "points": 21,
-   "dailyPoints": 11,
-   "weeklyPoints": 10,
-   "wins": 0,
-   "top10": 0,
    "played": 13
   },
   {
