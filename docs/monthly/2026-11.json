@@ -2,7 +2,7 @@
  "kind": "monthly",
  "period": "2026-11",
  "final": false,
- "updatedUtc": "2026-11-26T14:58:05+00:00",
+ "updatedUtc": "2026-11-26T21:59:35+00:00",
  "rules": {
   "points": [
    25,
@@ -53,12 +53,12 @@
   {
    "place": 4,
    "name": "Snafu",
-   "points": 244,
-   "dailyPoints": 144,
+   "points": 259,
+   "dailyPoints": 159,
    "weeklyPoints": 100,
    "wins": 2,
-   "top10": 13,
-   "played": 14
+   "top10": 14,
+   "played": 15
   },
   {
    "place": 5,
@@ -92,6 +92,16 @@
   },
   {
    "place": 8,
+   "name": "prostofilat",
+   "points": 92,
+   "dailyPoints": 82,
+   "weeklyPoints": 10,
+   "wins": 1,
+   "top10": 8,
+   "played": 11
+  },
+  {
+   "place": 9,
    "name": "JPJuanma",
    "points": 87,
    "dailyPoints": 82,
@@ -101,30 +111,20 @@
    "played": 10
   },
   {
-   "place": 9,
-   "name": "prostofilat",
-   "points": 82,
-   "dailyPoints": 72,
-   "weeklyPoints": 10,
-   "wins": 1,
-   "top10": 7,
-   "played": 10
-  },
-  {
    "place": 10,
    "name": "Chekov",
-   "points": 68,
-   "dailyPoints": 63,
+   "points": 70,
+   "dailyPoints": 65,
    "weeklyPoints": 5,
    "wins": 0,
-   "top10": 6,
-   "played": 12
+   "top10": 7,
+   "played": 13
   },
   {
    "place": 11,
    "name": "pplzu",
-   "points": 66,
-   "dailyPoints": 61,
+   "points": 63,
+   "dailyPoints": 58,
    "weeklyPoints": 5,
    "wins": 0,
    "top10": 7,
@@ -153,25 +153,15 @@
   {
    "place": 14,
    "name": "bichler70",
-   "points": 53,
-   "dailyPoints": 48,
+   "points": 48,
+   "dailyPoints": 43,
    "weeklyPoints": 5,
    "wins": 0,
-   "top10": 4,
+   "top10": 3,
    "played": 16
   },
   {
    "place": 15,
-   "name": "thor",
-   "points": 42,
-   "dailyPoints": 32,
-   "weeklyPoints": 10,
-   "wins": 0,
-   "top10": 2,
-   "played": 17
-  },
-  {
-   "place": 16,
    "name": "quinnbp1",
    "points": 42,
    "dailyPoints": 2,
@@ -179,6 +169,16 @@
    "wins": 0,
    "top10": 1,
    "played": 3
+  },
+  {
+   "place": 16,
+   "name": "thor",
+   "points": 39,
+   "dailyPoints": 29,
+   "weeklyPoints": 10,
+   "wins": 0,
+   "top10": 1,
+   "played": 17
   },
   {
    "place": 17,
@@ -212,16 +212,6 @@
   },
   {
    "place": 20,
-   "name": "GodWeasel",
-   "points": 34,
-   "dailyPoints": 24,
-   "weeklyPoints": 10,
-   "wins": 0,
-   "top10": 1,
-   "played": 17
-  },
-  {
-   "place": 21,
    "name": "toranaga1985",
    "points": 28,
    "dailyPoints": 23,
@@ -231,8 +221,18 @@
    "played": 7
   },
   {
-   "place": 22,
+   "place": 21,
    "name": "GumboVariations",
+   "points": 28,
+   "dailyPoints": 18,
+   "weeklyPoints": 10,
+   "wins": 0,
+   "top10": 1,
+   "played": 17
+  },
+  {
+   "place": 22,
+   "name": "GodWeasel",
    "points": 28,
    "dailyPoints": 18,
    "weeklyPoints": 10,
@@ -262,6 +262,16 @@
   },
   {
    "place": 25,
+   "name": "Libra89x",
+   "points": 24,
+   "dailyPoints": 24,
+   "weeklyPoints": 0,
+   "wins": 0,
+   "top10": 2,
+   "played": 8
+  },
+  {
+   "place": 26,
    "name": "WhoAmIDoctor",
    "points": 24,
    "dailyPoints": 14,
@@ -271,7 +281,7 @@
    "played": 9
   },
   {
-   "place": 26,
+   "place": 27,
    "name": "Larran",
    "points": 24,
    "dailyPoints": 14,
@@ -281,7 +291,7 @@
    "played": 11
   },
   {
-   "place": 27,
+   "place": 28,
    "name": "romantiqueamour01",
    "points": 24,
    "dailyPoints": 14,
@@ -291,7 +301,7 @@
    "played": 16
   },
   {
-   "place": 28,
+   "place": 29,
    "name": "omberzombie",
    "points": 24,
    "dailyPoints": 14,
@@ -301,7 +311,7 @@
    "played": 16
   },
   {
-   "place": 29,
+   "place": 30,
    "name": "lautinho",
    "points": 24,
    "dailyPoints": 14,
@@ -311,7 +321,7 @@
    "played": 16
   },
   {
-   "place": 30,
+   "place": 31,
    "name": "greg.saunders",
    "points": 24,
    "dailyPoints": 14,
@@ -321,7 +331,7 @@
    "played": 16
   },
   {
-   "place": 31,
+   "place": 32,
    "name": "公子小白",
    "points": 23,
    "dailyPoints": 13,
@@ -331,7 +341,17 @@
    "played": 5
   },
   {
-   "place": 32,
+   "place": 33,
+   "name": "numasan",
+   "points": 23,
+   "dailyPoints": 13,
+   "weeklyPoints": 10,
+   "wins": 0,
+   "top10": 0,
+   "played": 15
+  },
+  {
+   "place": 34,
    "name": "smart.raven",
    "points": 22,
    "dailyPoints": 12,
@@ -341,17 +361,7 @@
    "played": 12
   },
   {
-   "place": 33,
-   "name": "numasan",
-   "points": 22,
-   "dailyPoints": 12,
-   "weeklyPoints": 10,
-   "wins": 0,
-   "top10": 0,
-   "played": 14
-  },
-  {
-   "place": 34,
+   "place": 35,
    "name": "NightMonkey",
    "points": 22,
    "dailyPoints": 12,
@@ -361,7 +371,7 @@
    "played": 14
   },
   {
-   "place": 35,
+   "place": 36,
    "name": "Dingus",
    "points": 22,
    "dailyPoints": 12,
@@ -371,7 +381,7 @@
    "played": 14
   },
   {
-   "place": 36,
+   "place": 37,
    "name": "jlb.bourdeau",
    "points": 22,
    "dailyPoints": 12,
@@ -381,7 +391,17 @@
    "played": 14
   },
   {
-   "place": 37,
+   "place": 38,
+   "name": "Draghmar 🐲",
+   "points": 21,
+   "dailyPoints": 16,
+   "weeklyPoints": 5,
+   "wins": 0,
+   "top10": 2,
+   "played": 14
+  },
+  {
+   "place": 39,
    "name": "Freep",
    "points": 21,
    "dailyPoints": 16,
@@ -391,7 +411,7 @@
    "played": 3
   },
   {
-   "place": 38,
+   "place": 40,
    "name": "no-kitty-no-life",
    "points": 21,
    "dailyPoints": 11,
@@ -401,7 +421,7 @@
    "played": 4
   },
   {
-   "place": 39,
+   "place": 41,
    "name": "harmlessmostly",
    "points": 21,
    "dailyPoints": 11,
@@ -411,17 +431,7 @@
    "played": 13
   },
   {
-   "place": 40,
-   "name": "Draghmar 🐲",
-   "points": 20,
-   "dailyPoints": 15,
-   "weeklyPoints": 5,
-   "wins": 0,
-   "top10": 2,
-   "played": 13
-  },
-  {
-   "place": 41,
+   "place": 42,
    "name": "Filler",
    "points": 20,
    "dailyPoints": 10,
@@ -431,7 +441,7 @@
    "played": 9
   },
   {
-   "place": 42,
+   "place": 43,
    "name": "Undead",
    "points": 20,
    "dailyPoints": 10,
@@ -441,7 +451,7 @@
    "played": 12
   },
   {
-   "place": 43,
+   "place": 44,
    "name": "h0ppet0ssE",
    "points": 20,
    "dailyPoints": 10,
@@ -451,7 +461,7 @@
    "played": 12
   },
   {
-   "place": 44,
+   "place": 45,
    "name": "gcillo",
    "points": 20,
    "dailyPoints": 10,
@@ -459,16 +469,6 @@
    "wins": 0,
    "top10": 0,
    "played": 12
-  },
-  {
-   "place": 45,
-   "name": "Murdo",
-   "points": 19,
-   "dailyPoints": 19,
-   "weeklyPoints": 0,
-   "wins": 0,
-   "top10": 1,
-   "played": 8
   },
   {
    "place": 46,
@@ -482,16 +482,6 @@
   },
   {
    "place": 47,
-   "name": "Libra89x",
-   "points": 19,
-   "dailyPoints": 19,
-   "weeklyPoints": 0,
-   "wins": 0,
-   "top10": 1,
-   "played": 8
-  },
-  {
-   "place": 48,
    "name": "chehsiang",
    "points": 19,
    "dailyPoints": 14,
@@ -501,7 +491,7 @@
    "played": 4
   },
   {
-   "place": 49,
+   "place": 48,
    "name": "Unemployed duke",
    "points": 19,
    "dailyPoints": 9,
@@ -511,7 +501,7 @@
    "played": 11
   },
   {
-   "place": 50,
+   "place": 49,
    "name": "Lola",
    "points": 19,
    "dailyPoints": 9,
@@ -519,6 +509,16 @@
    "wins": 0,
    "top10": 0,
    "played": 11
+  },
+  {
+   "place": 50,
+   "name": "pgaya",
+   "points": 18,
+   "dailyPoints": 18,
+   "weeklyPoints": 0,
+   "wins": 0,
+   "top10": 1,
+   "played": 1
   }
  ]
 }
