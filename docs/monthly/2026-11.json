@@ -2,7 +2,7 @@
  "kind": "monthly",
  "period": "2026-11",
  "final": false,
- "updatedUtc": "2026-11-28T10:11:10+00:00",
+ "updatedUtc": "2026-11-28T10:44:12+00:00",
  "rules": {
   "points": [
    25,
@@ -412,7 +412,7 @@
   },
   {
    "place": 40,
-   "name": "jlb.bourdeau",
+   "name": "Undead",
    "points": 22,
    "dailyPoints": 12,
    "weeklyPoints": 10,
@@ -422,6 +422,16 @@
   },
   {
    "place": 41,
+   "name": "jlb.bourdeau",
+   "points": 22,
+   "dailyPoints": 12,
+   "weeklyPoints": 10,
+   "wins": 0,
+   "top10": 0,
+   "played": 14
+  },
+  {
+   "place": 42,
    "name": "Freep",
    "points": 21,
    "dailyPoints": 16,
@@ -431,7 +441,7 @@
    "played": 3
   },
   {
-   "place": 42,
+   "place": 43,
    "name": "no-kitty-no-life",
    "points": 21,
    "dailyPoints": 11,
@@ -439,16 +449,6 @@
    "wins": 0,
    "top10": 1,
    "played": 4
-  },
-  {
-   "place": 43,
-   "name": "Undead",
-   "points": 21,
-   "dailyPoints": 11,
-   "weeklyPoints": 10,
-   "wins": 0,
-   "top10": 0,
-   "played": 13
   },
   {
    "place": 44,
