@@ -2,8 +2,8 @@
  "kind": "weekly",
  "period": "2026-W48",
  "final": false,
- "updatedUtc": "2026-11-27T18:07:29+00:00",
- "players": 102,
+ "updatedUtc": "2026-11-28T01:52:21+00:00",
+ "players": 109,
  "top": [
   {
    "place": 1,
@@ -167,93 +167,93 @@
   },
   {
    "place": 33,
+   "score": 10157,
+   "name": "ЄнИґМе"
+  },
+  {
+   "place": 34,
    "score": 10134,
    "name": "QIMXIN(yososexykim)"
   },
   {
-   "place": 34,
+   "place": 35,
    "score": 10047,
    "name": "Sadistic"
   },
   {
-   "place": 35,
+   "place": 36,
    "score": 9962,
    "name": "gcillo"
   },
   {
-   "place": 36,
+   "place": 37,
    "score": 9879,
    "name": "zerathize"
   },
   {
-   "place": 37,
+   "place": 38,
    "score": 9875,
    "name": "zatrite1138"
   },
   {
-   "place": 38,
+   "place": 39,
    "score": 9694,
    "name": "GodWeasel"
   },
   {
-   "place": 39,
+   "place": 40,
    "score": 9675,
    "name": "pigionwithtophat"
   },
   {
-   "place": 40,
+   "place": 41,
    "score": 9646,
    "name": "Undisputed"
   },
   {
-   "place": 41,
+   "place": 42,
    "score": 9565,
    "name": "CoyotOne1"
   },
   {
-   "place": 42,
+   "place": 43,
+   "score": 9496,
+   "name": "DetunedRadioHead"
+  },
+  {
+   "place": 44,
    "score": 9425,
    "name": "Wren"
   },
   {
-   "place": 43,
+   "place": 45,
    "score": 9364,
    "name": "P69B"
   },
   {
-   "place": 44,
+   "place": 46,
    "score": 9299,
    "name": "dicker84"
   },
   {
-   "place": 45,
+   "place": 47,
    "score": 9272,
    "name": "Azula"
   },
   {
-   "place": 46,
+   "place": 48,
    "score": 9247,
    "name": "Den"
   },
   {
-   "place": 47,
+   "place": 49,
    "score": 9201,
    "name": "chrisd"
   },
   {
-   "place": 48,
-   "score": 9044,
-   "name": "ugrozaholod"
-  },
-  {
-   "place": 49,
-   "score": 8975,
-   "name": "Marson"
-  },
-  {
    "place": 50,
-   "score": 8830,
-   "name": "Killerletz"
+   "score": 9195,
+   "name": "thedadaone"
   }
  ]
 }

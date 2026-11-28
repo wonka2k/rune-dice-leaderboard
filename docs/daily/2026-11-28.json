@@ -1,0 +1,39 @@
+{
+ "kind": "daily",
+ "period": "2026-11-28",
+ "final": false,
+ "updatedUtc": "2026-11-28T01:52:21+00:00",
+ "players": 6,
+ "top": [
+  {
+   "place": 1,
+   "score": 3708,
+   "name": "Lucyans"
+  },
+  {
+   "place": 2,
+   "score": 1788,
+   "name": "greg.saunders"
+  },
+  {
+   "place": 3,
+   "score": 1598,
+   "name": "Stealth_zulu1"
+  },
+  {
+   "place": 4,
+   "score": 1576,
+   "name": "Brocos"
+  },
+  {
+   "place": 5,
+   "score": 1342,
+   "name": "Mr. MondayNight"
+  },
+  {
+   "place": 6,
+   "score": 1201,
+   "name": "omberzombie"
+  }
+ ]
+}
