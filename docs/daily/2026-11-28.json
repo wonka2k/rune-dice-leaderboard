@@ -2,8 +2,8 @@
  "kind": "daily",
  "period": "2026-11-28",
  "final": false,
- "updatedUtc": "2026-11-28T17:54:32+00:00",
- "players": 105,
+ "updatedUtc": "2026-11-28T18:49:26+00:00",
+ "players": 108,
  "top": [
   {
    "place": 1,
@@ -47,68 +47,68 @@
   },
   {
    "place": 9,
+   "score": 2711,
+   "name": "NutriaHirsch"
+  },
+  {
+   "place": 10,
    "score": 2659,
    "name": "Draghmar 🐲"
   },
   {
-   "place": 10,
+   "place": 11,
    "score": 2627,
    "name": "Larran"
   },
   {
-   "place": 11,
+   "place": 12,
    "score": 2566,
    "name": "Libra89x"
   },
   {
-   "place": 12,
+   "place": 13,
    "score": 2536,
    "name": "Tehkjel"
   },
   {
-   "place": 13,
+   "place": 14,
    "score": 2434,
    "name": "Isralizer"
   },
   {
-   "place": 14,
+   "place": 15,
    "score": 2409,
    "name": "Thibz"
   },
   {
-   "place": 15,
+   "place": 16,
    "score": 2345,
    "name": "bichler70"
   },
   {
-   "place": 16,
+   "place": 17,
+   "score": 2326,
+   "name": "harald"
+  },
+  {
+   "place": 18,
    "score": 2309,
    "name": "water rooster"
   },
   {
-   "place": 17,
+   "place": 19,
    "score": 2265,
    "name": "romantiqueamour01"
   },
   {
-   "place": 18,
-   "score": 2259,
-   "name": "harald"
-  },
-  {
-   "place": 19,
+   "place": 20,
    "score": 2165,
    "name": "GodWeasel"
   },
   {
-   "place": 20,
+   "place": 21,
    "score": 2140,
    "name": "GumboVariations"
-  },
-  {
-   "place": 21,
-   "score": 2113,
-   "name": "NutriaHirsch"
   },
   {
    "place": 22,

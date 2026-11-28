@@ -2,7 +2,7 @@
  "kind": "monthly",
  "period": "2026-11",
  "final": false,
- "updatedUtc": "2026-11-28T17:54:32+00:00",
+ "updatedUtc": "2026-11-28T18:49:26+00:00",
  "rules": {
   "points": [
    25,
@@ -83,11 +83,11 @@
   {
    "place": 7,
    "name": "NutriaHirsch",
-   "points": 99,
-   "dailyPoints": 19,
+   "points": 100,
+   "dailyPoints": 20,
    "weeklyPoints": 80,
    "wins": 0,
-   "top10": 2,
+   "top10": 3,
    "played": 12
   },
   {
@@ -237,7 +237,7 @@
    "dailyPoints": 19,
    "weeklyPoints": 10,
    "wins": 0,
-   "top10": 3,
+   "top10": 2,
    "played": 13
   },
   {
@@ -332,16 +332,6 @@
   },
   {
    "place": 32,
-   "name": "Draghmar 🐲",
-   "points": 24,
-   "dailyPoints": 19,
-   "weeklyPoints": 5,
-   "wins": 0,
-   "top10": 3,
-   "played": 16
-  },
-  {
-   "place": 33,
    "name": "Libra89x",
    "points": 24,
    "dailyPoints": 24,
@@ -351,7 +341,7 @@
    "played": 10
   },
   {
-   "place": 34,
+   "place": 33,
    "name": "WhoAmIDoctor",
    "points": 24,
    "dailyPoints": 14,
@@ -361,7 +351,7 @@
    "played": 9
   },
   {
-   "place": 35,
+   "place": 34,
    "name": "NightMonkey",
    "points": 24,
    "dailyPoints": 14,
@@ -371,13 +361,23 @@
    "played": 15
   },
   {
-   "place": 36,
+   "place": 35,
    "name": "numasan",
    "points": 24,
    "dailyPoints": 14,
    "weeklyPoints": 10,
    "wins": 0,
    "top10": 0,
+   "played": 16
+  },
+  {
+   "place": 36,
+   "name": "Draghmar 🐲",
+   "points": 23,
+   "dailyPoints": 18,
+   "weeklyPoints": 5,
+   "wins": 0,
+   "top10": 3,
    "played": 16
   },
   {

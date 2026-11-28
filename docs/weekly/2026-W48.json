@@ -2,8 +2,8 @@
  "kind": "weekly",
  "period": "2026-W48",
  "final": false,
- "updatedUtc": "2026-11-28T17:54:32+00:00",
- "players": 132,
+ "updatedUtc": "2026-11-28T18:49:26+00:00",
+ "players": 134,
  "top": [
   {
    "place": 1,
@@ -72,28 +72,28 @@
   },
   {
    "place": 14,
+   "score": 12960,
+   "name": "donutman"
+  },
+  {
+   "place": 15,
    "score": 12939,
    "name": "juliosisson"
   },
   {
-   "place": 15,
+   "place": 16,
    "score": 12937,
    "name": "teo.8989"
   },
   {
-   "place": 16,
+   "place": 17,
    "score": 12659,
    "name": "GoodOldPeet"
   },
   {
-   "place": 17,
+   "place": 18,
    "score": 12458,
    "name": "DgM"
-  },
-  {
-   "place": 18,
-   "score": 12395,
-   "name": "donutman"
   },
   {
    "place": 19,
@@ -207,53 +207,53 @@
   },
   {
    "place": 41,
+   "score": 10330,
+   "name": "Tehkjel"
+  },
+  {
+   "place": 42,
    "score": 10177,
    "name": "The Haunted"
   },
   {
-   "place": 42,
+   "place": 43,
    "score": 10157,
    "name": "ЄнИґМе"
   },
   {
-   "place": 43,
+   "place": 44,
+   "score": 10139,
+   "name": "CoyotOne1"
+  },
+  {
+   "place": 45,
    "score": 10134,
    "name": "QIMXIN(yososexykim)"
   },
   {
-   "place": 44,
+   "place": 46,
    "score": 10047,
    "name": "Sadistic"
   },
   {
-   "place": 45,
+   "place": 47,
    "score": 9962,
    "name": "gcillo"
   },
   {
-   "place": 46,
+   "place": 48,
    "score": 9923,
    "name": "Snafu"
   },
   {
-   "place": 47,
+   "place": 49,
    "score": 9879,
    "name": "zerathize"
   },
   {
-   "place": 48,
+   "place": 50,
    "score": 9875,
    "name": "zatrite1138"
-  },
-  {
-   "place": 49,
-   "score": 9870,
-   "name": "Silverslayer"
-  },
-  {
-   "place": 50,
-   "score": 9694,
-   "name": "GodWeasel"
   }
  ]
 }
